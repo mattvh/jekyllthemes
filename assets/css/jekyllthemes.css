@@ -7918,6 +7918,9 @@ body {
 code {
   color: #000;
 }
+#content {
+  margin-top: 20px;
+}
 #header {
   height: 58px;
   background-image: url(../img/darkdenim3.png);
