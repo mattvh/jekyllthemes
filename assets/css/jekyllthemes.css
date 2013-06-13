@@ -7961,9 +7961,15 @@ code {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-.widebanner img {
+.bannerad {
+  width: 728px;
+  height: 90px;
   padding: 6px;
+  margin: 0 auto;
   border: 1px solid #ddd;
+  background-image: url(../img/adplaceholder.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .gallery div.item {
   background-color: #fff;
