@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width">
+  <link href="http://fonts.googleapis.com/css?family=Playball" rel="stylesheet">
+  <link href="/assets/css/jekyllthemes.css" rel="stylesheet" />
+  <link href="/assets/css/syntax.css" rel="stylesheet" />
+</head>
+
+
+<body>
+
+
+
+  <header id="header">
+    <div class="wrap">
+
+      <h1 id="logo"><a href="/">{{ site.name }}</a></h1>
+
+    </div>
+  </header>
+
+
+
+  <div id="pagecontainer" class="container">
+
+
+
+    <!--<div class="hero-unit">
+      <p><strong>Need a design for your <a href="http://jekyllrb.com/">Jekyll</a> blog?</strong> Whether you're looking for a fresh theme to drop in and go, or to use as a starting point for customization, you'll find the best ones available right here.</p>
+    </div>-->
+
+
+
+    <div class="widebanner row">
+      <div class="span12">
+        <a href=""><img src="http://placekitten.com/728/90" /></a>
+      </div>
+    </div>
+
+
+
+    <div id="content">
+
+
+        {{ content }}
+
+
+    </div>
+
+
+  </div>
+
+
+
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+
+        <div class="span5 copyright">
+          Copyright &copy; {{ site.time | date: '%Y' }} JekyllThemes.org. Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+          <br /><br />
+          <iframe src="http://ghbtns.com/github-btn.html?user=redwallhp&repo=solar-theme-jekyll&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=redwallhp&repo=solar-theme-jekyll&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+          <br /><br />
+        </div>
+
+        <div class="span7">
+          <h3>Want to Submit a Theme?</h3>
+          <ul>
+            <li>Fork the site on GitHub</li>
+            <li>Create a new post in the <code>_posts</code> directory and fill out the relevant YAML fields</li>
+            <li>Make a 250x200 thumbnail and drop it int the <code>thumbnails</code> directory. List its filename in the post's markdown file.</li>
+            <li>Test it out, then push your changes up and open a pull request.</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+
+
+</body>
+</html>
