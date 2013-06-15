@@ -47,16 +47,24 @@
 
     <div class="widebanner row">
       <div class="span12">
-        <div class="banner72">
+        <div class="banner72" id="banner72">
+
           <script type="text/javascript"><!--
+
+            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
             google_ad_client = "ca-pub-7611360452853908";
-            /* Jekyll Themes */
-            google_ad_slot = "6552835850";
-            google_ad_width = 728;
-            google_ad_height = 90;
+
+            if (width > 769) {
+              google_ad_slot = "6552835850";
+              google_ad_width = 728;
+              google_ad_height = 90;
+            }
+
             //-->
           </script>
           <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
         </div>
       </div>
     </div>

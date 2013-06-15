@@ -7971,6 +7971,12 @@ code {
   background-repeat: no-repeat;
   background-position: center;
 }
+@media (max-width: 769px) {
+  .banner72 {
+    width: auto;
+    padding: 6px;
+  }
+}
 .gallery div.item {
   background-color: #fff;
   position: relative;
