@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Slate"
+date:   2013-06-15 01:38:11
+homepage: https://github.com/jsncostello/slate
+download: https://github.com/jsncostello/slate/archive/master.zip
+author: Jason Costello
+thumbnail: slate.png
+---
