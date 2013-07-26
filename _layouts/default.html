@@ -59,6 +59,9 @@
               google_ad_slot = "6552835850";
               google_ad_width = 728;
               google_ad_height = 90;
+            } else {
+              var el = document.getElementById("banner72");
+              el.parentNode.removeChild(el);
             }
 
             //-->
@@ -89,7 +92,7 @@
       <div class="row">
 
         <div class="span5 copyright">
-          Copyright &copy; {{ site.time | date: '%Y' }} JekyllThemes.org. Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+          Copyright &copy; {{ site.time | date: '%Y' }} Matt Harzewski. Powered by <a href="http://jekyllrb.com">Jekyll</a>.
           <br /><br />
           <iframe src="http://ghbtns.com/github-btn.html?user=redwallhp&repo=jekyllthemes&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
           <iframe src="http://ghbtns.com/github-btn.html?user=redwallhp&repo=jekyllthemes&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
