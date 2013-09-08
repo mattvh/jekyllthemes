@@ -9,7 +9,7 @@ author: Cole Townsend
 thumbnail: Balzac-for-Jekyll-thumb.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. It was forked from the wonderful Minimal Mistakes theme by Michael Rose.
+This is built on [Semantic.gs](http://semantic.gs/) grid framework which I edited a bit to make it fluid. It was forked from the wonderful [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes) by Michael Rose.
 
 I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
 
