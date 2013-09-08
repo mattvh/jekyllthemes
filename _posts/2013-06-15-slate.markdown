@@ -7,4 +7,5 @@ download: https://github.com/jsncostello/slate/archive/master.zip
 author: Jason Costello
 thumbnail: slate.png
 license: Creative Commons Attribution 3.0 License
+license_link: https://github.com/jsncostello/slate/blob/master/README.md
 ---
