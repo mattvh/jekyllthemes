@@ -9,3 +9,4 @@ thumbnail: slate.png
 license: Creative Commons Attribution 3.0 License
 license_link: https://github.com/jsncostello/slate/blob/master/README.md
 ---
+Slate is responsive theme for GitHub Pages. [Fork it](https://github.com/jsncostello/slate/fork) and use it on your own site or generate one automatically using [GitHub Pages](http://pages.github.com).
