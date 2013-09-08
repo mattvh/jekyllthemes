@@ -7,6 +7,8 @@ download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: http://mmistakes.github.io/so-simple-theme/
 author: Michael Rose
 thumbnail: so-simple.png
+license: GPL v2
+license_link: https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 ---
 
 A simple and clean responsive Jekyll theme for words and photos.

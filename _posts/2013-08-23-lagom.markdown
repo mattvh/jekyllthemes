@@ -6,6 +6,8 @@ homepage: https://github.com/swanson/lagom
 download: https://github.com/swanson/lagom/archive/master.zip
 author: Matt Swanson
 thumbnail: lagom.png
+license: MIT License
+license_link: https://github.com/swanson/lagom/blob/master/LICENSE
 ---
 
 Lagom, a [Jekyll][j] blog theme with just the right amount of style. 
