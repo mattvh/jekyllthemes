@@ -10,6 +10,11 @@ layout: default
 
 	<div class="meta clearfix">
 		<strong>Author:</strong> {{ page.author }}
+
+		{% if page.license %}
+			<br /><strong>License:</strong> {{ page.license }}
+		{% endif %}
+
 		<br /><br />
 		{% if page.homepage %}
 			<a class="btn" href="{{ page.homepage }}"><i class="icon-home"></i> Homepage</a>

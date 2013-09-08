@@ -7,6 +7,7 @@ download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: http://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose
 thumbnail: minimal-mistakes.png
+license: MIT License
 ---
 
 A minimal Jekyll theme that is all about:

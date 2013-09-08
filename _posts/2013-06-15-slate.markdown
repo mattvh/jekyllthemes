@@ -6,4 +6,5 @@ homepage: https://github.com/jsncostello/slate
 download: https://github.com/jsncostello/slate/archive/master.zip
 author: Jason Costello
 thumbnail: slate.png
+license: Creative Commons Attribution 3.0 License
 ---

@@ -7,6 +7,7 @@ download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
 demo: http://jekyll.gtat.me
 author: Cole Townsend
 thumbnail: Balzac-for-Jekyll-thumb.jpg
+license: MIT License
 ---
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. It was forked from the wonderful Minimal Mistakes theme by Michael Rose.

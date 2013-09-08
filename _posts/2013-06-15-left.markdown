@@ -6,6 +6,7 @@ homepage: https://github.com/holman/left
 download: https://github.com/holman/left/archive/master.zip
 author: Zach Holman
 thumbnail: left.png
+license: MIT License
 ---
 
 Left is a clean, whitespace-happy layout for Jekyll.

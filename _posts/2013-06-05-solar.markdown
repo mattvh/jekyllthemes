@@ -7,6 +7,7 @@ download: https://github.com/redwallhp/solar-theme-jekyll/archive/master.zip
 demo: http://redwallhp.github.io/solar-theme-jekyll/
 author: Matt Harzewski
 thumbnail: solar.png
+license: GPL v2 or higher
 ---
 
 A stylish theme for Jekyll blogs, based on the Solarized color palette. For installation instructions, please read the README.md [on GitHub!](https://github.com/redwallhp/solar-theme-jekyll)
