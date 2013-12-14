@@ -2,7 +2,7 @@
 layout: post
 title:  "HMFAYSAL Theme"
 date:   2013-12-14 01:36:00
-homepage: https://www.hmfaysal.tk
+homepage: http://hmfaysal.tk
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 demo: http://www.theevilgenius.tk
 author: Hossain Mohd Faysal
@@ -20,4 +20,7 @@ A bold, minimal theme for Jekyll, perfect for bloggers. The theme features the f
 * Support for large images to call out your favorite posts.
 * Simple and clear permalink structure.
 * Tags for Open Graph and Twitter Cards for a better social sharing experience.
-* Vanilla custom 404 page to get you started.
+* Vanilla custom 404 page to get you started.  
+
+Warm regards and stay creative,  
+Hossain Mohd Faysal
