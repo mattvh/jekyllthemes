@@ -4,10 +4,10 @@ title:  "Simply Grey Theme"
 date:   2013-12-23 01:27:30
 homepage: http://github.com/exaem/
 download: https://github.com/exaem/simplygrey-jekyll/archive/master.zip
-demo: http://exaem.co.uk/simplygrey/
+demo: http://simplygrey.exaem.co.uk
 author: exaem
 thumbnail: simplygrey.png
-license: MIT
+license: BSD
 license_link: https://github.com/exaem/simplygrey-jekyll/blob/master/LICENSE
 ---
 
