@@ -6,7 +6,7 @@ homepage: https://github.com/arnp/herring-cove
 download: https://github.com/arnp/herring-cove/archive/master.zip
 demo: http://arnp.github.io/herring-cove/
 author: arnp
-thumbnail: herring-cove.png
+thumbnail: herring-cove.jpg
 license: MIT
 license_link: http://opensource.org/licenses/MIT
 ---
