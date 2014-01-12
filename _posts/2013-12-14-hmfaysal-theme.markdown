@@ -2,7 +2,7 @@
 layout: post
 title:  "HMFAYSAL Theme"
 date:   2013-12-14 01:36:00
-homepage: http://hmfaysal.tk
+homepage: http://hmfaysal.github.io
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 demo: http://www.theevilgenius.tk
 author: Hossain Mohd Faysal
