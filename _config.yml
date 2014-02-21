@@ -7,8 +7,8 @@ permalink: /themes/:title/
 pygments: true
 paginate: 10
 
-markdown: redcarpet
-#rdiscount:
-#    extensions: ['smart']
+markdown: rdiscount
+rdiscount:
+    extensions: ['smart']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
