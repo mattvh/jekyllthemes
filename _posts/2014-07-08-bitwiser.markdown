@@ -12,3 +12,14 @@ license_link: https://github.com/brijeshb42/bitwiser/blob/master/LICENSE
 ---
 
 Bitwiser is a clean, responsive and simple Jekyll theme with all basic requirements of a blog.
+
+### Features
+
+* Clean, simple and responsive layout.
+* Syntax highlighting.
+* Sitemap included.
+* Google analytics.
+* Disqus commenting.
+* Share post to facebook and twitter.
+* Robots.txt included.
+* Custom 404 error page.
