@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Freelancer"
+date:   2014-07-24
+homepage: https://github.com/jeromelachaud/freelancer-theme
+download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
+demo: https://jeromelachaud.github.io/freelancer-theme
+author: Jerome Lachaud
+thumbnail: freelancer.png
+license: Apache 2.0
+license_link: http://www.apache.org/licenses/LICENSE-2.0.html
+---
+
+## Freelancer <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&repo=freelancer-theme&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+Freelancer theme, a portfolio blogging theme that allows you to showcase your projects. This theme is base on [Freelancer](http://startbootstrap.com/templates/freelancer/) theme by [http://startbootstrap.com/templates/freelancer/](http://startbootstrap.com/).
+
+## Contribute <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&repo=freelancer-theme&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+Start by [forking](https://github.com/jeromelachaud/freelancer-theme/fork) this repository.
+
+## Contact <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
+I'd love to hear from you, send me a [tweet](https://twitter.com/_jeromelachaud).
+Feel free to [open issues](https://github.com/jeromelachaud/freelancer-theme/issues/new) if you run into trouble or have suggestions.
+Pull Requests always welcome.
