@@ -12,7 +12,7 @@ license_link: http://www.apache.org/licenses/LICENSE-2.0.html
 ---
 
 ## Freelancer <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&repo=freelancer-theme&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
-Freelancer theme, a portfolio blogging theme that allows you to showcase your projects. This theme is base on [Freelancer](http://startbootstrap.com/templates/freelancer/) theme by [http://startbootstrap.com/templates/freelancer/](http://startbootstrap.com/).
+Freelancer theme, a portfolio theme that allows you to showcase your projects. This theme is base on [Freelancer](http://startbootstrap.com/templates/freelancer/) theme by [http://startbootstrap.com/templates/freelancer/](http://startbootstrap.com/).
 
 ## Contribute <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&repo=freelancer-theme&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
 Start by [forking](https://github.com/jeromelachaud/freelancer-theme/fork) this repository.
