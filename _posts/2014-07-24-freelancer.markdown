@@ -18,6 +18,5 @@ Freelancer theme, a portfolio blogging theme that allows you to showcase your pr
 Start by [forking](https://github.com/jeromelachaud/freelancer-theme/fork) this repository.
 
 ## Contact <iframe src="http://ghbtns.com/github-btn.html?user=jeromelachaud&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="156" height="20"></iframe>
-I'd love to hear from you, send me a [tweet](https://twitter.com/_jeromelachaud).
 Feel free to [open issues](https://github.com/jeromelachaud/freelancer-theme/issues/new) if you run into trouble or have suggestions.
 Pull Requests always welcome.
