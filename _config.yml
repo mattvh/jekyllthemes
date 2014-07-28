@@ -11,4 +11,4 @@ markdown: rdiscount
 rdiscount:
     extensions: ['smart']
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
