@@ -3,7 +3,6 @@ layout: post
 title: Squared
 homepage: https://github.com/anandubajith/squared
 download: https://github.com/anandubajith/squared/archive/master.zip
-demo: http://anandu.info/squared
 author: Anandu B Ajith
 thumbnail: squared.png
 license: MIT License
