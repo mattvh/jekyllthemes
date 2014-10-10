@@ -14,7 +14,6 @@ license_link: https://github.com/railsr/autm-rb/blob/master/LICENSE
 - github, stackoverflow, twitter links
 - share buttons: twitter, facebook, google plus
 - comments via DISQUS
-- analitics "if you add it"
 - pagination
 - tags
 - code highlighting
