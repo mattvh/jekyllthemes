@@ -10,5 +10,5 @@ license: MIT License
 license_link: https://github.com/drvy/minimal-block/blob/master/LICENSE.md
 ---
 
-Started out as a fork of Block-log but many changes were made so Im releasing it as a independend theme.
+Started out as a fork of Block-log but many changes were made so I'm releasing it as a independent theme.
 Its simple, minimalistic, no javascript (except for Disqus), has paginator and social share buttons (static).
