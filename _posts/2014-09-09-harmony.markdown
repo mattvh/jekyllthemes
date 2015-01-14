@@ -4,7 +4,7 @@ title:  "Harmony"
 date:   2014-09-09 00:16:00
 homepage: https://github.com/gayanvirajith/harmony
 download: https://github.com/gayanvirajith/harmony/releases/latest
-demo: http://webcreate.lk/harmony/
+demo: http://gayan.me/harmony/
 author: Gayan Virajith
 thumbnail: harmony.jpg
 license: MIT License
