@@ -1,0 +1,12 @@
+---
+layout: post
+title: Squared
+homepage: https://github.com/anandubajith/squared
+download: https://github.com/anandubajith/squared/archive/master.zip
+author: Anandu B Ajith
+thumbnail: squared.png
+license: MIT License
+license_link: hhttps://github.com/anandubajith/squared/blob/master/LICENSE
+---
+
+Squared is a minimalist , colorful and responsive Jekyll theme built for pagespeed.
