@@ -18,9 +18,9 @@ license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
 4. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.
 5. Style your content with six different Headers.
 6. Customizable navigation, footer, and social media links...
-10. Beautiful Typography.
-7. Integrated services: Disqus, Google Analytics, Google Search.
-8. Sass-ready – Use the Sass-Support by Jekyll and easily customize *Feeling Responsive*
+7. Beautiful Typography.
+8. Integrated services: Disqus, Google Analytics, Google Search.
+9. Sass-ready – Use the Sass-Support by Jekyll and easily customize *Feeling Responsive*
 10. Well-documented.
 
 - - - 
