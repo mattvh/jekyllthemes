@@ -6,6 +6,7 @@ homepage: https://github.com/Schoewilliam/Schrift
 download: https://github.com/Schoewilliam/Schrift/archive/master.zip
 demo: http://schrift.schoewilliam.fr
 author: William Dorffer
+thumbnail: schrift.png
 license: CC BY 3.0
 license_link: http://creativecommons.org/licenses/by/3.0/
 ---
