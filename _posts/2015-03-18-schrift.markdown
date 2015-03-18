@@ -1,0 +1,26 @@
+---
+layout: post
+title: Schrift
+date: 2015-03-18 12:00:00
+homepage: https://github.com/Schoewilliam/Schrift
+download: https://github.com/Schoewilliam/Schrift/archive/master.zip
+demo: http://schrift.schoewilliam.fr
+author: William Dorffer
+license: CC BY 3.0
+license_link: http://creativecommons.org/licenses/by/3.0/
+---
+### Schrift
+<iframe src="//ghbtns.com/github-btn.html?user=schoewilliam&repo=schrift&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+A clean and minimalist Jekyll template. Designed for prose. Simple to start with.
+
+I have often tried to design a weblog style that would focus on the content and would still be elegant and nice to look at. I don’t pretend I have achieved it yet. But here is my most recent attempt at it. I’m making this template for Jekyll available now. 
+
+* [demo site](http://schrift.schoewilliam.fr/)
+
+### Contribute
+<iframe src="//ghbtns.com/github-btn.html?user=schoewilliam&repo=schrift&type=fork&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="30px"></iframe>
+Start by [forking the repository](https://github.com/Schoewilliam/Schrift).
+
+### Contact
+<iframe src="//ghbtns.com/github-btn.html?user=schoewilliam&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="224px" height="30px"></iframe>
+If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/schoewilliam/schrift/issues) or making a pull request for your fork!
