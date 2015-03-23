@@ -2,13 +2,13 @@
 layout: post
 title:  "Harmony"
 date:   2014-09-09 00:16:00
-homepage: https://github.com/web-create/harmony
-download: https://github.com/web-create/harmony/releases/latest
-demo: http://webcreate.lk/harmony/
+homepage: https://github.com/gayanvirajith/harmony
+download: https://github.com/gayanvirajith/harmony/releases/latest
+demo: http://gayan.me/harmony/
 author: Gayan Virajith
 thumbnail: harmony.jpg
 license: MIT License
-license_link: https://github.com/web-create/harmony/blob/master/LICENSE.md
+license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
 ---
 
 Harmony is a responsive jekyll theme.
@@ -23,13 +23,13 @@ Harmony is a responsive jekyll theme.
 
 #### Home page
 
-![Home page screenshot](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony-home-page.png "Desktop screen")
+![Home page screenshot](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-home-page.png "Desktop screen")
 
 #### Article page
 
-![Blog article page](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony.png "Blog article page")
+![Blog article page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png "Blog article page")
 
 #### Blog archive page 
 
-![Blog archive page](https://raw.githubusercontent.com/web-create/harmony/master/assets/css/images/harmony-blog-page.png "Blog archive page")
+![Blog archive page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png "Blog archive page")
 
