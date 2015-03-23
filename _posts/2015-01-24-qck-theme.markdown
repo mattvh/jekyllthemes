@@ -1,0 +1,14 @@
+---
+layout: post
+title: QckTheme
+date: 2015-01-24
+homepage: https://github.com/qckanemoto/jekyll-qck-theme
+download: https://github.com/qckanemoto/jekyll-qck-theme/archive/master.zip
+demo: http://qckanemoto.github.io/
+author: Takashi Kanemoto
+thumbnail: qck-theme.png
+license: MIT License
+license_link: https://github.com/qckanemoto/jekyll-qck-theme/blob/master/LICENSE
+---
+
+A simple and customizable theme for Jekyll.
