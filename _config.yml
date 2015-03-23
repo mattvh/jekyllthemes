@@ -4,7 +4,7 @@ description: Insert tagline here
 
 permalink: /themes/:title/
 
-pygments: true
+highlighter: pygments
 paginate: 10
 
 markdown: rdiscount
