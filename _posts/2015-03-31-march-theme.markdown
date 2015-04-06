@@ -4,7 +4,7 @@ title: March
 date: 2015-03-31 18:00:00
 homepage: https://github.com/arniekoz/march
 download: https://github.com/arniekoz/march/archive/master.zip
-demo: http://arniekoz.github.io/index.html
+demo: http://arniekoz.github.io/projects/march
 author: Arnolds Kozlovskis
 thumbnail: march.jpg
 license: Unlicense
