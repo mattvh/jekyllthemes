@@ -10,8 +10,9 @@ thumbnail: iceandfire.png
 license: MIT
 license_link: https://github.com/SpaceG/iceandfire/blob/master/LICENSE
 ---
-### OpenTheme
+### ICE AND FIRE JEKYLL THEME
 <iframe src="//ghbtns.com/github-btn.html?user=SpaceG&repo=iceandfire&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 
 
 
