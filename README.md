@@ -1,4 +1,4 @@
-Jekyll Themes
+Jekyll Themes ![dl](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)
 =============
 
 A directory of the best-looking themes for Jekyll blogs
