@@ -4,7 +4,7 @@ title: QckTheme
 date: 2015-01-24
 homepage: https://github.com/qckanemoto/jekyll-qck-theme
 download: https://github.com/qckanemoto/jekyll-qck-theme/archive/master.zip
-demo: http://qckanemoto.github.io/
+demo: http://qckanemoto.github.io/jekyll-qck-theme/
 author: Takashi Kanemoto
 thumbnail: qck-theme.png
 license: MIT License
