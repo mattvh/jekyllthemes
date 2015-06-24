@@ -4,7 +4,7 @@ title: ICE AND FIRE
 date: 2014-12-16 12:00:00
 homepage: https://github.com/SpaceG/iceandfire
 download: https://github.com/SpaceG/iceandfire/archive/master.zip
-demo: https://lucasgatsas.ch
+demo: http://lucasgatsas.ch
 author: Lucas Gatsas
 thumbnail: iceandfire.png
 license: MIT
