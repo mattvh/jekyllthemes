@@ -4,8 +4,8 @@ title: CleanMagicMedium
 date: 2014-05-04 12:00:00
 homepage: https://github.com/SpaceG/CleanMagicMedium-Jekyll
 download: https://github.com/SpaceG/CleanMagicMedium-Jekyll/archive/master.zip
-demo: https://lucasgatsas.ch
-author: Lucas Gatsas
+demo: http://lucasgatsas.ch
+author: Lucas Gatsas www.lucasgatsas.ch
 thumbnail: cleanmagicmedium.png
 license: MIT
 license_link: https://github.com/SpaceG/CleanMagicMedium-Jekyll
