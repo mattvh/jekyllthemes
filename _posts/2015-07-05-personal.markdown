@@ -37,6 +37,7 @@ license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/L
   * Preview size of the latest post
   * Timeline events
   * Disqus comments
+* Cool (anti-procrastinating) 404 page
 
 # Screenshots
 ## Index page
@@ -49,6 +50,8 @@ license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/L
 ![Archive](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/archive.jpg)
 ## Post page
 ![Post](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/post.jpg)
+## 404
+![404](https://dl.dropboxusercontent.com/u/8522559/personal-jekyll-theme/404.jpg)
 
 ## Customizing your website from the config
 
@@ -151,6 +154,10 @@ social:
 ````
 There are many more social networks supported like facebook, flickr, dribbble, pinterest, instagram, tumblr etc.
 
+### 404 Image
+404-img: "/img/labtocat.png"
+Set the value to the image file that you want to display in the 404 page
+
 ## Posting a new post
 
 Jekyll is expecting new posts to show up as a file under _/posts with a file name "YYYY-MM-DD-title.markup". Also your file's content should start like this:
@@ -165,4 +172,3 @@ After this header you can start writing your post using Markdown.
 
 ## Steps forward
 * Support discovery with support of tags
-* Add 404 page
