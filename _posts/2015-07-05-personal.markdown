@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "{ Personal }"
+date:   2015-07-05 04:11:18
+homepage: https://github.com/PanosSakkos/personal-jekyll-theme
+download: https://github.com/PanosSakkos/personal-jekyll-theme/archive/master.zip
+demo: http://panossakkos.github.io
+author: Panos Sakkos
+thumbnail: personal.png
+---
+{ Personal } is a free responsive Jekyll theme about you. It's your personal blog and your point of reference website.
