@@ -129,7 +129,7 @@ reddit-share: True
 ````
 
 ### Timeline Events
-The Timeline is displayed in the Career section of the homepage. Each event consists of a date (when did the event started and ended), an image and a description.  
+The Timeline is displayed in the Career section of the homepage. Each event consists of a date (when did the event started and ended), an image and a description.	
 ````
 events:
   - image: "/img/career/microsoft.jpg"
