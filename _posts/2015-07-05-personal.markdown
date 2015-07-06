@@ -28,6 +28,7 @@ license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/L
 * Blogging functionality
   * Preview of the latest post in the home page
   * Archive page
+  * Facebook, Twitter and Reddit share buttons
   * Disqus comments
 * Control of your website and blog through the site's config file
   * Favicon
@@ -109,8 +110,26 @@ This variable dicates how many words do you want to display as preview in the Bl
 post-preview-words: 128
 ````
 
+### Share buttons
+Set to False to remove the respective button
+
+#### Facebook
+````
+fb-share: True
+````
+
+#### Twitter share button
+````
+twitter-share: True
+````
+
+#### Reddit share button
+````
+reddit-share: True
+````
+
 ### Timeline Events
-The Timeline is displayed in the Career section of the homepage. Each event consists of a date (when did the event started and ended), an image and a description.	
+The Timeline is displayed in the Career section of the homepage. Each event consists of a date (when did the event started and ended), an image and a description.  
 ````
 events:
   - image: "/img/career/microsoft.jpg"
