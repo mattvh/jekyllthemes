@@ -42,6 +42,7 @@ license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/L
   * Timeline events
   * Disqus comments
 * Cool (anti-procrastinating) 404 page
+* RSS feed
 
 # Screenshots
 ## Index page
