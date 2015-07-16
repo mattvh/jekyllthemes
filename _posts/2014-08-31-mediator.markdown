@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mediator"
-date:   2014-08-31 18:03:00
+title: Mediator
+date: 2014-08-31 18:03:00
 homepage: https://github.com/dirkfabisch/mediator
 download: https://github.com/dirkfabisch/mediator/archive/master.zip
 demo: http://blog.base68.com

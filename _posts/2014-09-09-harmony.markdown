@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Harmony"
-date:   2014-09-09 00:16:00
+title: Harmony
+date: 2014-09-09 00:16:00
 homepage: https://github.com/gayanvirajith/harmony
-download: https://github.com/gayanvirajith/harmony/releases/latest
+download: https://github.com/gayanvirajith/harmony/archive/master.zip
 demo: http://gayan.me/harmony/
 author: Gayan Virajith
 thumbnail: harmony.jpg

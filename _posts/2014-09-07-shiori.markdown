@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Shiori (based on Bootstrap)"
-date:   2014-09-07 15:00:00
-homepage: http://ellekasai.github.io/shiori/
-download: http://github.com/ellekasai/shiori/
+title: Shiori
+date: 2014-09-07 15:00:00
+homepage: https://github.com/ellekasai/shiori/
+download: https://github.com/ellekasai/shiori/archive/gh-pages.zip
 demo: http://ellekasai.github.io/shiori/
 author: Elle Kasai
 thumbnail: shiori.png
@@ -11,7 +11,9 @@ license: MIT License
 license_link: http://ellekasai.mit-license.org/
 ---
 
-Shiori is a Bootstrap-based Jekyll theme. It looks great by default, but you can customize it easily. It supports Bootstrap and Font Awesome classes out of the box.
+Shiori is a Bootstrap-based Jekyll theme. It looks great by default,
+but you can customize it easily. It supports Bootstrap and Font Awesome
+classes out of the box.
 
 ## Screenshots
 
@@ -25,7 +27,8 @@ Shiori is a Bootstrap-based Jekyll theme. It looks great by default, but you can
 
 ## Color Schemes
 
-I wear different colors (based on [Flat UI Colors](http://flatuicolors.com/)):
+I wear different colors (based on [Flat UI
+Colors](http://flatuicolors.com/)):
 
 ### Dark
 

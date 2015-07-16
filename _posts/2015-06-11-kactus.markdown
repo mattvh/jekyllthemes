@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kactus"
-date:   2015-06-11 12:40:00
+title: Kactus
+date: 2015-06-11 12:40:00
 homepage: https://github.com/nickbalestra/kactus
 download: https://github.com/nickbalestra/kactus/archive/master.zip
 demo: http://nick.balestra.ch/2015/Kactus/
