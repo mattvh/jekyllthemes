@@ -4,7 +4,6 @@ title:  "Gereksiz"
 date:   2014-03-31
 homepage: https://github.com/berkoz/gereksiz
 download: https://github.com/berkoz/gereksiz/archive/master.zip 
-demo: http://bugsofberk.net
 author: Berk Özbalcı
 thumbnail: gereksiz.png
 license: The BSD 2-Clause License
