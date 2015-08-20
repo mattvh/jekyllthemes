@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Metaphor"
-date:   2015-02-05 01:42:00
+title: Metaphor
+date: 2015-02-05 01:42:00
 homepage: https://github.com/prio101/metaphor-jekyll
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 demo: http://mahabubislam.me

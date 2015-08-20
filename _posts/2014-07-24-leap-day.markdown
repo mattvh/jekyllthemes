@@ -1,38 +1,32 @@
 ---
 layout: post
-title:  "Leap Day"
-date:   2014-07-27 01:42:00
+title: Leap Day
+date: 2014-07-27 01:42:00
 homepage: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip
-demo: http://madebygraham.com/Leap-Day/
+demo: http://madebygraham.com/leapday/
 author: Matt Graham
-thumbnail: leapday.png
+thumbnail: leap-day.png
 license: MIT License
 license_link: https://github.com/mattgraham/Leap-Day/blob/master/LICENCE
 ---
 
-Open source content for Leap Day theme. Theme was first designed / developed for GitHub Pages and is available for download, forking and using anywhere else on the web. Like the theme share it with the twitterverse.
+Open source content for Leap Day theme. Theme was first designed /
+developed for GitHub Pages and is available for download, forking and
+using anywhere else on the web. Like the theme share it with the
+twitterverse.
 
 ![Leap Day](http://f.cl.ly/items/1q0h3r1C2g3u1c3O011S/Screen%20Shot%202012-12-25%20at%208.40.52%20AM.png)
 
 ### Developing Locally
 
-I've worked hard to make develoment easy. Running `script/bootstrap` will get your gems setup (Jekyll, Sass, Compass, Foreman), then you can get started running `script/server` which will run `jekyll serve && compass --watch` commands via terminal. Open http://localhost:4000 and make changes to any of the, md, .html or .scss files and compass will compile them for you.
+I've worked hard to make develoment easy. Running `script/bootstrap`
+will get your gems setup (Jekyll, Sass, Compass, Foreman), then you can
+get started running `script/server` which will run `jekyll serve &&
+compass --watch` commands via terminal. Open http://localhost:4000 and
+make changes to any of the, md, .html or .scss files and compass will
+compile them for you.
 
-Simply refresh your browser (or use something like livereload) and develop away. Most of the colors and sizing is found in the _variables.scss file.
-
-
-
-<script type="text/javascript">
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '53d548978bfdf75475003e3a');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
+Simply refresh your browser (or use something like livereload) and
+develop away. Most of the colors and sizing is found in the
+_variables.scss file.

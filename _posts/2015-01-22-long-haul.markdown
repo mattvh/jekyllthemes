@@ -6,13 +6,15 @@ homepage: https://github.com/brianmaierjr/long-haul
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: http://brianmaierjr.com/long-haul/
 author: Brian Maier Jr.
-thumbnail: longhaul.png
-license: MIT
+thumbnail: long-haul.png
+license: MIT License
 license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
 ---
 
 ## Long Haul
-Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts.
+
+Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY
+and focuses on long form blog plosts.
 
 ## Features
 

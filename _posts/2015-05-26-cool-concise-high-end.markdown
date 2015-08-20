@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Cool Concise High-end"
-date:   2015-05-26 08:20:00
-homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io/releases/tag/v1.1
+title: Cool Concise High-end
+date: 2015-05-26 08:20:00
+homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: http://gaohaoyang.github.io/
 author: Gaohaoyang
@@ -22,7 +22,10 @@ license_link: https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LIC
 
 # Cool Jekyll Blog Theme
 
-This is a blog theme based on jekyll. You can use on your own blog. Before you use it, please click a star on [this respository](https://github.com/Gaohaoyang/gaohaoyang.github.io/). You will encourage me to do more great things!
+This is a blog theme based on jekyll. You can use on your own blog.
+Before you use it, please click a star on [this
+respository](https://github.com/Gaohaoyang/gaohaoyang.github.io/). You
+will encourage me to do more great things!
 
 ## Sample
 
@@ -38,7 +41,9 @@ This is a blog theme based on jekyll. You can use on your own blog. Before you u
 
 ## Attention
 
-When you use this theme. Please make sure to add the author's info, like this: Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang) or Designed by [Gaohaoyang](https://github.com/Gaohaoyang) 
+When you use this theme. Please make sure to add the author's info,
+like this: Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang)
+or Designed by [Gaohaoyang](https://github.com/Gaohaoyang)
 
 While you should delete statistics code in _includes/head.html.
 

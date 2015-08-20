@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Resumecards"
-date:   2015-01-15 11:00:00
-homepage: http://ellekasai.github.io/resumecards/
-download: http://github.com/ellekasai/resumecards/
+title: ResumeCards
+date: 2015-01-15 11:00:00
+homepage: https://github.com/ellekasai/resumecards/
+download: https://github.com/ellekasai/resumecards/archive/gh-pages.zip
 demo: http://ellekasai.github.io/resumecards/
 author: Elle Kasai
 thumbnail: resumecards.png
@@ -11,7 +11,8 @@ license: MIT License
 license_link: http://ellekasai.mit-license.org/
 ---
 
-ResumeCards is a Jekyll based resume generator. It looks great on mobile/desktop and can be saved as PDF.
+ResumeCards is a Jekyll based resume generator. It looks great on
+mobile/desktop and can be saved as PDF.
 
 ## Screenshots
 

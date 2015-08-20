@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "autm-rb"
+title: autm-rb
 date: 2014-10-10 10:00:00
 homepage: https://github.com/railsr/autm-rb
 download: https://github.com/railsr/autm-rb/archive/master.zip
@@ -11,6 +11,7 @@ license_link: https://github.com/railsr/autm-rb/blob/master/LICENSE
 ---
 
 ### Features
+
 - github, stackoverflow, twitter links
 - share buttons: twitter, facebook, google plus
 - comments via DISQUS
