@@ -6,19 +6,24 @@ homepage: https://github.com/gdg-managua/jekyll-mdl
 download: https://github.com/gdg-managua/jekyll-mdl/releases
 demo: http://www.gdgmanagua.org/jekyll-mdl 
 author: Google Developers Group Managua
-thumbnail: jekyll-mdl-screen.jpg
-license: Apache 2.0
-license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md
+thumbnail: jekyll-mdl.jpg
+license: Apache License Version 2.0
+license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
 ---
 
 > A Jekyll theme based in Google Material Design Lite library.
 
 ## Sites using jekyll-mdl
 
-If you are using this cool jekyll theme, please open an issue or fork the project, add your site to the list and send us a pull request, we will be happy to know where the theme has been used.
+If you are using this cool jekyll theme, please open an issue or fork
+the project, add your site to the list and send us a pull request, we
+will be happy to know where the theme has been used.
 
 ## Contributing
-If you want to contribute to this project, please read the [CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md) file and perform the following steps
+
+If you want to contribute to this project, please read the
+[CONTRIBUTING](https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md)
+file and perform the following steps:
 
     # Fork this repository
     # Clone your fork
@@ -32,4 +37,6 @@ If you want to contribute to this project, please read the [CONTRIBUTING](https:
 
 ### Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/gdg-managua/jekyll-mdl/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't
+hesitate to [open an issue](https://github.com/gdg-managua/jekyll-mdl/issues)
+or making a pull request for your fork!
