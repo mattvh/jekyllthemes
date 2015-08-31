@@ -23,5 +23,5 @@ vendor/bundle/
 Thumbs.db
 .DS_Store
 
-#IDE
+# IntelliJ IDEA
 .idea/*
