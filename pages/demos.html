@@ -1,0 +1,25 @@
+---
+layout: default
+permalink: /demos/
+---
+
+<main class='demos'>
+  <nav class='swiper-container'>
+    <ul class='swiper-wrapper'>
+      {% for theme in site.posts %}
+      {% if theme.demo %}
+        <li class='swiper-slide'
+            onclick='demoSelected(this)'
+            data-title='{{ theme.title }}'
+            data-demo='{{ theme.demo }}'>
+          <img src='{{ site.baseurl }}/thumbnails/{{ theme.thumbnail }}'>
+          <div>{{ theme.title }}</div>
+        </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    <div class='swiper-scrollbar'></div>
+  </nav>
+  <article id='demo'>
+  </article>
+</main>

@@ -1,0 +1,32 @@
+.demos {
+  li {
+    text-align: center;
+    vertical-align: top;
+    box-shadow: 0 0 1px 1px #ccc;
+    background: #fff;
+    margin: 2px 0.5% 20px;;
+    padding: 10px 1%;
+    width: 32%;
+    cursor: pointer;
+
+    @media (min-width: 600px) { width: 18%; }
+    @media (min-width: 800px) { width: 15%; }
+  }
+
+  img {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+
+  article {
+    margin: 25px 2%;
+  }
+
+  iframe {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 1px 1px #ddd;
+    background: #fff;
+  }
+}
