@@ -1,0 +1,12 @@
+a, a:hover, a:focus { text-decoration: none; }
+button, textarea, a:focus { outline: none; }
+li { padding: 5px 0; }
+main { margin: 25px 0; }
+hr { border-top-color: #ccc; }
+
+body {
+  background: #eee;
+  font-family: 'Roboto', sans-serif;
+}
+
+.page { padding: 25px 15% }

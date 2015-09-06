@@ -1,14 +1,17 @@
 name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
-
-permalink: /themes/:title/
-
-highlighter: pygments
-paginate: 20
-
+description: A directory of the best-looking themes for Jekyll blogs
+url: 'https://themes-jekyll.github.io/jekyll-themes'
+baseurl: ''
+github: 'https://github.com/themes-jekyll/themes-jekyll.github.io'
+permalink: /:title/
 markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

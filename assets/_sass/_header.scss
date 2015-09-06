@@ -1,0 +1,28 @@
+header {
+  box-shadow: 0 0 1px 1px #000;
+  background-color: #383838;
+  background-image: radial-gradient(#4A4949 15%, rgb(56, 56, 56) 35%);
+  background-size: 3px 3px;
+  text-align: center;
+  color: #eee;
+  a { color: #eee; }
+  a:hover, a:focus { color: #ccc; }
+}
+
+#logo {
+  font-family: 'Playball', cursive;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  font-size: 2.8em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+}

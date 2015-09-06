@@ -1,38 +1,43 @@
 ---
 layout: default
 ---
-
-<div id="post" class="container">
-
-	<div class="postthumb"><img src="/thumbnails/{{ page.thumbnail }}" /></div>
-
-	<h1>{{ page.title }}</h1>
-
-	<div class="meta clearfix">
-		<strong>Author:</strong> {{ page.author }}
-
-		{% if page.license %}
-			<br /><strong>License:</strong> {{ page.license }}
-		{% endif %}
-
-		<br /><br />
-		{% if page.homepage %}
-			<a class="btn" href="{{ page.homepage }}"><i class="icon-home"></i> Homepage</a>
-		{% endif %}
-		{% if page.download %}
-			<a class="btn" href="{{ page.download }}"><i class="icon-download-alt"></i> Download</a>
-		{% endif %}
-		{% if page.demo %}
-			<a class="btn" href="{{ page.demo }}"><i class="icon-road"></i> Demo</a>
-		{% endif %}
-		{% if page.license_link %}
-			<a class="btn" href="{{ page.license_link }}"><i class="icon-file"></i> License</a>
-		{% endif %}
-	</div>
-
-
-	<div class="post-content">
-	{{ content }}
-	</div>
-
-</div>
+<main class='post'>
+  <section class='thumbnail-wrapper'>
+    <img src='{{ site.baseurl }}/thumbnails/{{ page.thumbnail }}' class='thumbnail'>
+  </section>
+  <section>
+    <h1>{{ page.title }}</h1>
+    <dl>
+      <dt>Author:</dt>
+      <dd>{{ page.author }}</dd>
+      <dt>License:</dt>
+      <dd>{{ page.license }}</dd>
+    </dl>
+    <nav>
+    {% if page.homepage %}
+      <a class='btn' href='{{ page.homepage }}'>
+        <i class='glyphicon glyphicon-home'></i> Homepage
+      </a>
+    {% endif %}
+    {% if page.download %}
+      <a class='btn' href='{{ page.download }}'>
+        <i class='glyphicon glyphicon-download-alt'></i> Download
+      </a>
+    {% endif %}
+    {% if page.demo %}
+      <a class='btn' href='{{ page.demo }}'>
+        <i class='glyphicon glyphicon-road'></i> Demo
+      </a>
+    {% endif %}
+    {% if page.license_link %}
+      <a class='btn' href='{{ page.license_link }}'>
+        <i class='glyphicon glyphicon-file'></i> License
+      </a>
+    {% endif %}
+    </nav>
+  </section>
+  <hr />
+  <article>
+    {{ content }}
+  </article>
+</main>

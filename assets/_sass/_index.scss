@@ -1,0 +1,24 @@
+.index {
+  text-align: center;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    margin: 5px 0.5%;
+    padding: 10px 1%;
+    width: 97%;
+
+    @media (min-width: 600px) { width: 46%; }
+    @media (min-width: 800px) { width: 23%; }
+  }
+
+  img { width: 100%; }
+  a { color: #333; }
+  a:hover { opacity: 0.7; }
+}

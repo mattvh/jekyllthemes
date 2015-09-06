@@ -1,0 +1,31 @@
+.post {
+  padding: 10px 10%;
+
+  section {
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+    width: 100%;
+    @media (min-width: 600px) { width: 49%; }
+    @media (min-width: 800px) { width: auto; }
+  }
+
+  .thumbnail-wrapper { background: #fff; }
+  .thumbnail { width: 100%; }
+
+  h1 { margin: 0; }
+
+  dt {
+    float: left;
+    font-weight: bold;
+    padding-right: 5px;
+  }
+
+  article {
+    font-size: 1.2em;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
