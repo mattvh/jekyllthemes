@@ -9,6 +9,7 @@
   li {
     display: inline-block;
     vertical-align: top;
+    box-shadow: 0 0 1px 1px #ccc;
     background: #fff;
     margin: 5px 0.5%;
     padding: 10px 1%;
@@ -18,7 +19,11 @@
     @media (min-width: 800px) { width: 23%; }
   }
 
-  img { width: 100%; }
+  img {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+
   a { color: #333; }
   a:hover { opacity: 0.7; }
 }
