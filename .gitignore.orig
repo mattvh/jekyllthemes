@@ -1,0 +1,29 @@
+.sass-cache
+_site
+Gemfile.lock
+<<<<<<< HEAD
+=======
+Gemfile
+
+# Bundler related.
+.bundle
+vendor/bundle/
+
+# Other.
+*.orig
+*.core
+*.rej
+*~
+*.swp
+*.log
+*.tmp
+*.bak
+.*\#.*\#$
+
+# OS garbage.
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA
+.idea/*
+>>>>>>> guovz/master
