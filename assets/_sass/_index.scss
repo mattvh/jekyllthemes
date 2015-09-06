@@ -26,4 +26,9 @@
 
   a { color: #333; }
   a:hover { opacity: 0.7; }
+
+  &.authors {
+    text-align: left;
+    padding: 0 10%;
+  }
 }

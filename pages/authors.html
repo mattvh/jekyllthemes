@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /authors/
+---
+{% assign authors = site.posts | map: 'author' | sort %}
+
+<main class='index authors'>
+  {% for author in authors %}
+    {% unless author == previous %}
+      {% assign posts = site.posts | where: 'author', author %}
+
+      <h2>{{ author }}</h2>
+      <ul>
+        {% for post in posts %}
+        <li>
+          <a href='{{ site.baseurl }}{{ post.url }}'>
+            <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
+            <div>{{ post.title }}</div>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    {% endunless %}
+    {% assign previous = author %}
+  {% endfor %}
+</main>
