@@ -8,10 +8,14 @@ layout: default
   <section>
     <h1>{{ page.title }}</h1>
     <dl>
-      <dt>Author:</dt>
-      <dd>{{ page.author }}</dd>
-      <dt>License:</dt>
-      <dd>{{ page.license }}</dd>
+      {% if page.author %}
+        <dt>Author:</dt>
+        <dd>{{ page.author }}</dd>
+      {% endif %}
+      {% if page.license %}
+        <dt>License:</dt>
+        <dd>{{ page.license }}</dd>
+      {% endif %}
     </dl>
     <nav>
     {% if page.homepage %}
