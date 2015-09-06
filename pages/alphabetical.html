@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /alphabetical/
+---
+
+{% assign sorted_titles = site.posts | map: 'title' | sort %}
+
+<main class='index'>
+  <ul>
+    {% for title in sorted_titles %}
+      {% assign post = site.posts | where: 'title', title | first %}
+
+    <li>
+      <a href='{{ site.baseurl }}{{ post.url }}'>
+        <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
+        <div>{{ title }}</div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</main>
