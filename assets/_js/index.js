@@ -11,12 +11,17 @@ if(document.getElementById('demo')) {
   function demoSelected(item) {
     var title = item.getAttribute('data-title');
     var demo = item.getAttribute('data-demo');
-    loadDemo(title, demo);
+    var url = item.getAttribute('data-url');
+    loadDemo(title, demo, url);
   }
 
-  function loadDemo(title, demo) {
-    articleElement.innerHTML = '<h1>' + title + '</h1><iframe src="' + demo + '" />';
+  function loadDemo(title, demo, url) {
+    articleElement.innerHTML = '<a href="{{ site.baseurl }}' + url + '">' +
+                                 '<h1>' + title + '</h1>' +
+                               '</a>' +
+                               '<iframe src="' + demo + '" />';
   }
 
-  loadDemo('{{ site.posts.first.title }}', '{{ site.posts.first.demo }}');
+  {% assign first = site.posts.first %}
+  loadDemo('{{ first.title }}', '{{ first.demo }}', '{{ first.url }}');
 }
