@@ -1,8 +1,8 @@
 name: Jekyll Themes
 description: A directory of the best-looking themes for Jekyll blogs
 url: 'https://themes-jekyll.github.io/jekyll-themes'
-baseurl: ''
-github: 'https://github.com/themes-jekyll/themes-jekyll.github.io'
+baseurl: '/jekyllthemes'
+github: 'https://github.com/jekyllrc/jekyllthemes'
 permalink: /:title/
 markdown: rdiscount
 gems:
