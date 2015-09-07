@@ -2,7 +2,6 @@ if(document.getElementById('demo')) {
   new Swiper ('.swiper-container', {
     direction: 'horizontal',
     slidesPerView: 'auto',
-    loop: true,
     scrollbar: '.swiper-scrollbar',
     scrollbarHide: false
   });
