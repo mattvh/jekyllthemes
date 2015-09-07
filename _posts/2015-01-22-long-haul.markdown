@@ -4,7 +4,7 @@ homepage: https://github.com/brianmaierjr/long-haul
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: http://brianmaierjr.com/long-haul/
 author: Brian Maier Jr.
-thumbnail: long-haul.png
+thumbnail: long-haul.jpg
 license: MIT License
 license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
 github_repo: brianmaierjr/long-haul

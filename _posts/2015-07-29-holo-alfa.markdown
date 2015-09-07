@@ -4,7 +4,7 @@ homepage: https://github.com/steinvc/holo-alfa
 download: https://github.com/steinvc/holo-alfa/archive/gh-pages.zip
 demo: http://steinvc.github.io/holo-alfa/
 author: Stijn van Cuijk
-thumbnail: holo-alfa.png
+thumbnail: holo-alfa.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: steinvc/holo-alfa

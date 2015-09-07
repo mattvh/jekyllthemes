@@ -3,15 +3,17 @@
 
   section {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: bottom;
     padding: 5px;
     width: 100%;
     @media (min-width: 600px) { width: 49%; }
-    @media (min-width: 800px) { width: auto; }
   }
 
-  .thumbnail-wrapper { background: #fff; }
   .thumbnail { width: 100%; }
+  .thumbnail-wrapper {
+    background: #fff;
+    max-width: 400px;
+  }
 
   h1 { margin: 0; }
 

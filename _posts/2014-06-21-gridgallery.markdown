@@ -4,7 +4,7 @@ homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
 demo: https://nadjetey.github.io/GridGallery
 author: Nii Adjetey Sowah
-thumbnail: gridgallery.png
+thumbnail: gridgallery.jpg
 license: WTF Public License
 license_link: http://www.wtfpl.net/txt/copying/
 github_repo: nadjetey/GridGallery

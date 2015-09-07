@@ -4,7 +4,7 @@ homepage: https://github.com/drvy/minimal-block
 download: https://github.com/drvy/minimal-block/archive/master.zip
 demo: http://blog.drvy.net/minimal-block/
 author: Dragomir Yordanov
-thumbnail: minimal-block.png
+thumbnail: minimal-block.jpg
 license: MIT License
 license_link: https://github.com/drvy/minimal-block/blob/master/LICENSE.md
 github_repo: drvy/minimal-block

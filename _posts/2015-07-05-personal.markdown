@@ -30,8 +30,7 @@ Have you published your own website by forking { Personal } and now you want to 
   * Timeline
     * Tell your story so far with a sleek timeline of dates, pictures and descriptions
   * White on black text, making the reading experience tireless
-  * Google analytics  
-* Customization and control of your website and blog through the site config
+  * Google analytics
 * Blogging functionality
   * Preview of the latest post in the home page
   * Archive page

@@ -4,7 +4,7 @@ homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/archive/v1.0.2.zip
 demo: http://vinitkumar.me/white-paper/
 author: Vinit Kumar
-thumbnail: white-paper.png
+thumbnail: white-paper.jpg
 license: MIT License
 license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
 github_repo: vinitkumar/white-paper

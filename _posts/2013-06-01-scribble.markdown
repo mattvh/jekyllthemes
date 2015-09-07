@@ -4,7 +4,7 @@ homepage: https://github.com/muan/scribble
 download: https://github.com/muan/scribble/archive/master.zip
 demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
 author: Mu-An Chiou
-thumbnail: scribble.png
+thumbnail: scribble.jpg
 license: MIT License
 license_link: https://github.com/muan/scribble/blob/master/LICENSE
 github_repo: muan/scribble

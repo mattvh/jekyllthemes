@@ -4,7 +4,7 @@ homepage: https://github.com/kkninjae/book/
 download: https://github.com/kkninjae/book/archive/master.zip
 demo: https://kkninjae.github.io/book
 author: Lang Liu
-thumbnail: book.png
+thumbnail: book.jpg
 license: MIT License
 license_link: https://github.com/kkninjae/book/blob/master/LICENSE
 github_repo: kkninjae/book

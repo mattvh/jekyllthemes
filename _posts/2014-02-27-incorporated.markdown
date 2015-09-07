@@ -4,7 +4,7 @@ homepage: http://incorporated.sendtoinc.com/
 download: https://github.com/kippt/jekyll-incorporated/archive/master.zip
 demo: http://blog.sendtoinc.com/
 author: Kippt Inc.
-thumbnail: incorporated.png
+thumbnail: incorporated.jpg
 license: MIT License
 license_link: https://github.com/kippt/jekyll-incorporated/blob/master/LICENSE
 github_repo: kippt/jekyll-incorporated

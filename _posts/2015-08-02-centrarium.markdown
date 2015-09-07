@@ -4,7 +4,7 @@ homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: http://bencentra.com/centrarium/
 author: Ben Centra
-thumbnail: centrarium.png
+thumbnail: centrarium.jpg
 license: MIT License
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
 github_repo: bencentra/centrarium

@@ -4,7 +4,7 @@ homepage: http://chibicode.github.io/solo/
 download: http://github.com/chibicode/solo/
 demo: http://chibicode.github.io/solo/
 author: Shu Uesugi
-thumbnail: solo.png
+thumbnail: solo.jpg
 license: MIT License
 license_link: http://chibicode.mit-license.org/
 github_repo: chibicode/solo

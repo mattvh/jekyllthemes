@@ -4,7 +4,7 @@ homepage: https://github.com/clayh53/tufte-jekyll
 download: https://github.com/clayh53/tufte-jekyll/archive/master.zip
 demo: http://clayh53.github.io/tufte-jekyll/
 author: Clay Harmon
-thumbnail: tufte-jekyll.png
+thumbnail: tufte-jekyll.jpg
 license: MIT License
 license_link: https://github.com/clayh53/tufte-jekyll/blob/master/LICENSE
 github_repo: clayh53/tufte-jekyll

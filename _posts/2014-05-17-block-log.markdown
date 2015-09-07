@@ -4,7 +4,7 @@ homepage: https://github.com/anandubajith/block-log
 download: https://github.com/anandubajith/block-log/archive/master.zip
 demo: https://anandu.net/demo/block-log
 author: Anandu B Ajith
-thumbnail: block-log.png
+thumbnail: block-log.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: anandubajith/block-log

@@ -4,7 +4,7 @@ homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
 demo: http://wenva.github.io/
 author: Pawpaw
-thumbnail: pithy.png
+thumbnail: pithy.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: smallmuou/Jekyll-Pithy

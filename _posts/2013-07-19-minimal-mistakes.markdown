@@ -4,7 +4,7 @@ homepage: https://github.com/mmistakes/minimal-mistakes
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: http://mmistakes.github.io/minimal-mistakes/
 author: Michael Rose
-thumbnail: minimal-mistakes.png
+thumbnail: minimal-mistakes.jpg
 license: MIT License
 license_link: https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 github_repo: mmistakes/minimal-mistakes

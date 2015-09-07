@@ -4,7 +4,7 @@ homepage: https://github.com/ariestiyansyah/naringu
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip
 demo: http://naringu.oonlab.com
 author: Rizky Ariestiyansyah
-thumbnail: naringu.png
+thumbnail: naringu.jpg
 license: MIT License
 license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
 github_repo: ariestiyansyah/naringu

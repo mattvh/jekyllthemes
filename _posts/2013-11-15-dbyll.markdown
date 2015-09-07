@@ -4,7 +4,7 @@ homepage: https://github.com/dbtek/dbyll
 download: https://github.com/dbtek/dbyll/archive/master.zip
 demo: http://dbtek.github.io/dbyll/
 author: Ismail Demirbilek
-thumbnail: dbyll.png
+thumbnail: dbyll.jpg
 license: MIT License
 license_link: https://github.com/dbtek/dbyll/blob/master/LICENSE
 github_repo: dbtek/dbyll

@@ -4,7 +4,7 @@ homepage: https://github.com/dbtek/paper
 download: https://github.com/dbtek/paper/archive/master.zip
 demo: http://dbtek.github.io/paper-demo/
 author: Ismail Demirbilek
-thumbnail: paper.png
+thumbnail: paper.jpg
 license: MIT License
 license_link: https://github.com/dbtek/paper/blob/master/LICENSE
 github_repo: dbtek/paper

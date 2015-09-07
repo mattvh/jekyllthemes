@@ -4,7 +4,7 @@ homepage: https://github.com/jacobtomlinson/carte-noire
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: http://carte-noire.jacobtomlinson.co.uk/
 author: Jacob Tomlinson
-thumbnail: carte-noire.png
+thumbnail: carte-noire.jpg
 license: GNU General Public License Version 3
 license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
 github_repo: jacobtomlinson/carte-noire

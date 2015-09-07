@@ -4,7 +4,7 @@ homepage: https://github.com/mattvh/solar-theme-jekyll
 download: https://github.com/mattvh/solar-theme-jekyll/archive/master.zip
 demo: http://mattvh.github.io/solar-theme-jekyll/
 author: Matt Harzewski
-thumbnail: solar.png
+thumbnail: solar.jpg
 license: GNU General Public License Version 2 or higher
 license_link: https://github.com/mattvh/solar-theme-jekyll#license
 github_repo: mattvh/solar-theme-jekyll

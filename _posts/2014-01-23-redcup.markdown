@@ -4,7 +4,7 @@ homepage: https://github.com/nadjetey/redcup
 download: https://github.com/nadjetey/redcup/archive/master.zip
 demo: http://nadjetey.github.io/redcup/
 author: Nii Adjetey Sowah
-thumbnail: redcup.png
+thumbnail: redcup.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: http://creativecommons.org/licenses/by/3.0/deed.en_US
 github_repo: nadjetey/redcup

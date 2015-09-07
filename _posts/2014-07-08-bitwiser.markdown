@@ -4,7 +4,7 @@ homepage: http://bitwiser.in/bitwiser/
 download: http://goo.gl/iC85jv
 demo: http://bitwiser.in/bitwiser/demo.html
 author: Brijesh Bittu
-thumbnail: bitwiser.png
+thumbnail: bitwiser.jpg
 license: MIT License
 license_link: https://github.com/brijeshb42/bitwiser/blob/master/LICENSE
 github_repo: brijeshb42/bitwiser

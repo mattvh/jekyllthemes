@@ -4,7 +4,7 @@ homepage: https://github.com/berkoz/gereksiz
 download: https://github.com/berkoz/gereksiz/archive/master.zip
 demo: https://jekyll-demos.github.io/gereksiz
 author: Berk Özbalcı
-thumbnail: gereksiz.png
+thumbnail: gereksiz.jpg
 license: BSD 2-Clause License
 license_link: https://github.com/berkoz/gereksiz/blob/master/LICENSE
 github_repo: berkoz/gereksiz

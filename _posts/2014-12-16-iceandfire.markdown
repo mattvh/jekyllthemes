@@ -4,7 +4,7 @@ homepage: https://github.com/SpaceG/iceandfire
 download: https://github.com/SpaceG/iceandfire/archive/master.zip
 demo: http://lucasgatsas.ch
 author: Lucas Gatsas
-thumbnail: ice-and-fire.png
+thumbnail: ice-and-fire.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/SpaceG/iceandfire/blob/master/LICENSE
 github_repo: SpaceG/iceandfire

@@ -4,7 +4,7 @@ homepage: https://github.com/the-development/flex
 download: https://github.com/the-development/flex/archive/master.zip
 demo: http://the-development.github.io/flex
 author: Jeff Martin
-thumbnail: flex.png
+thumbnail: flex.jpg
 license: MIT License
 license_link: https://github.com/the-development/flex/blob/master/LICENSE
 github_repo: the-development/flex

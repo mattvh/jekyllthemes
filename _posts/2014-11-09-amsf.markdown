@@ -4,7 +4,7 @@ homepage: https://github.com/sparanoid/almace-scaffolding
 download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip
 demo: http://sparanoid.com/lab/amsf/
 author: Tunghsiao Liu
-thumbnail: amsf.png
+thumbnail: amsf.jpg
 license: MIT License
 license_link: https://github.com/sparanoid/almace-scaffolding/blob/master/LICENSE
 github_repo: sparanoid/almace-scaffolding

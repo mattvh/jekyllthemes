@@ -4,7 +4,7 @@ homepage: https://github.com/mondss/simplygrey-jekyll
 download: https://github.com/mondss/simplygrey-jekyll/archive/master.zip
 demo: https://jekyll-demos.github.io/simplygrey-jekyll
 author: exaem
-thumbnail: simply-grey.png
+thumbnail: simply-grey.jpg
 license: BSD License
 license_link: https://github.com/exaem/simplygrey-jekyll/blob/master/LICENSE
 github_repo: mondss/simplygrey-jekyll

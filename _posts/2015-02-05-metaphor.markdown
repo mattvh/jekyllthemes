@@ -4,7 +4,7 @@ homepage: https://github.com/prio101/metaphor-jekyll
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip
 demo: http://mahabubislam.me
 author: Mahabub I.
-thumbnail: metaphor.png
+thumbnail: metaphor.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: prio101/metaphor-jekyll

@@ -4,7 +4,7 @@ homepage: https://github.com/hmfaysal/Notepad
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: http://www.hossainmohdfaysal.com/Notepad/
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal-notepad.png
+thumbnail: hmfaysal-notepad.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: hmfaysal/Notepad

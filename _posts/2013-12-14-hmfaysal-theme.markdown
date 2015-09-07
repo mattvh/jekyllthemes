@@ -4,7 +4,7 @@ homepage: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
 demo: http://jekyll-demos.github.io/Jekyll-HMFAYSAL-Theme/
 author: Hossain Mohd Faysal
-thumbnail: hmfaysal.png
+thumbnail: hmfaysal.jpg
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/LICENSE
 github_repo: hmfaysal/Jekyll-HMFAYSAL-Theme

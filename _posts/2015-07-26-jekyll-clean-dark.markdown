@@ -4,7 +4,7 @@ homepage: https://github.com/streetturtle/jekyll-clean-dark
 download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip
 demo: http://pavelmakhov.com/jekyll-clean-dark/
 author: Pavel Makhov
-thumbnail: jekyll-clean-dark.png
+thumbnail: jekyll-clean-dark.jpg
 license: Creative Commons Attribution International 4.0 License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 github_repo: streetturtle/jekyll-clean-dark

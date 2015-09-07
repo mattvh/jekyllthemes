@@ -4,7 +4,7 @@ homepage: http://richbray.me/frap/
 download: http://richbray.me/frap/vbc.zip
 demo: http://richbray.me/frap/vbc/
 author: Richard Bray
-thumbnail: vanilla-bean-creme.png
+thumbnail: vanilla-bean-creme.jpg
 ---
 
 VBC is a simple black & white, serif font (Georgia and Noto Serif)

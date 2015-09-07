@@ -4,7 +4,7 @@ homepage: https://rohanchandra.github.io/project/type/
 download: https://github.com/rohanchandra/type-theme/archive/master.zip
 demo: https://rohanchandra.github.io/type-theme/
 author: Rohan Chandra
-thumbnail: type-theme.png
+thumbnail: type-theme.jpg
 license: MIT License
 license_link: https://github.com/rohanchandra/type-theme/blob/master/LICENSE
 github_repo: rohanchandra/type-theme

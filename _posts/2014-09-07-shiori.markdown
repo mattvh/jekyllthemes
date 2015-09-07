@@ -4,7 +4,7 @@ homepage: https://github.com/ellekasai/shiori/
 download: https://github.com/ellekasai/shiori/archive/gh-pages.zip
 demo: http://ellekasai.github.io/shiori/
 author: Elle Kasai
-thumbnail: shiori.png
+thumbnail: shiori.jpg
 license: MIT License
 license_link: http://ellekasai.mit-license.org/
 github_repo: ellekasai/shiori

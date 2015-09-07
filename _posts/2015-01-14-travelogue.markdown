@@ -4,7 +4,7 @@ homepage: https://github.com/SalGnt/Travelogue
 download: https://github.com/SalGnt/Travelogue/archive/master.zip
 demo: http://salgnt.github.io/Travelogue/
 author: Salvatore Gentile
-thumbnail: travelogue.png
+thumbnail: travelogue.jpg
 license: MIT License
 license_link: https://github.com/SalGnt/Travelogue/blob/master/LICENSE
 github_repo: SalGnt/Travelogue

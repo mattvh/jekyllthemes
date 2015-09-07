@@ -4,7 +4,7 @@ homepage: https://github.com/tybenz/otter-pop/
 download: https://github.com/tybenz/otter-pop/archive/gh-pages.zip
 demo: http://tybenz.com/otter-pop
 author: Tyler Benziger
-thumbnail: otter-pop.png
+thumbnail: otter-pop.jpg
 license: MIT License
 license_link: https://github.com/tybenz/otter-pop/blob/gh-pages/LICENSE.txt
 github_repo: tybenz/otter-pop

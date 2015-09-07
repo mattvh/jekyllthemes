@@ -4,7 +4,7 @@ homepage: https://github.com/swcool/landing-page-theme
 download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: http://shaneweng.com/landing-page-theme/
 author: Shane Weng
-thumbnail: landing-page.png
+thumbnail: landing-page.jpg
 license: Apache License Version 2.0
 license_link: http://www.apache.org/licenses/LICENSE-2.0.html
 github_repo: swcool/landing-page-theme

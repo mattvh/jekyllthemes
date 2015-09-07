@@ -4,7 +4,7 @@ homepage: https://github.com/holman/left
 download: https://github.com/holman/left/archive/gh-pages.zip
 demo: http://zachholman.com/left/
 author: Zach Holman
-thumbnail: left.png
+thumbnail: left.jpg
 license: MIT License
 license_link: https://github.com/holman/left/blob/gh-pages/LICENSE
 github_repo: holman/left

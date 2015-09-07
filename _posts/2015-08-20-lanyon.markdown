@@ -4,7 +4,7 @@ homepage: https://github.com/poole/lanyon
 download: https://github.com/poole/lanyon/archive/master.zip
 demo: http://lanyon.getpoole.com/
 author: Mark Otto
-thumbnail: lanyon.png
+thumbnail: lanyon.jpg
 license: MIT License
 license_link: https://github.com/poole/lanyon/blob/master/LICENSE.md
 github_repo: poole/lanyon

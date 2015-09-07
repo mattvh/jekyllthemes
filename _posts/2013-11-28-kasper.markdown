@@ -4,7 +4,7 @@ homepage: https://github.com/rosario/kasper
 download: https://github.com/rosario/kasper/archive/master.zip
 demo: http://rosario.io/2013/11/10/kasper-theme-for-jekyll.html
 author: Rosario Rascuna
-thumbnail: kasper.png
+thumbnail: kasper.jpg
 license: MIT License
 license_link: https://github.com/rosario/kasper/blob/master/LICENSE.txt
 github_repo: rosario/kasper

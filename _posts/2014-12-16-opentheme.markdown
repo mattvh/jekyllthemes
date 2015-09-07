@@ -4,7 +4,7 @@ homepage: https://github.com/open-start/opentheme
 download: https://github.com/open-start/opentheme/archive/master.zip
 demo: http://opentheme.co/
 author: Manav Sehgal
-thumbnail: opentheme.png
+thumbnail: opentheme.jpg
 license: MIT License
 license_link: https://github.com/open-start/opentheme/blob/master/LICENSE
 github_repo: open-start/opentheme

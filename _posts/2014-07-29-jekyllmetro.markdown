@@ -4,7 +4,7 @@ homepage: https://github.com/olakara/JekyllMetro
 download: https://github.com/olakara/JekyllMetro/archive/master.zip
 demo: http://abdelraoof.com
 author: Abdel Raoof Olakara
-thumbnail: jekyll-metro.png
+thumbnail: jekyll-metro.jpg
 license: MIT License
 license_link: https://github.com/olakara/JekyllMetro/blob/master/LICENSE.md
 github_repo: olakara/JekyllMetro
