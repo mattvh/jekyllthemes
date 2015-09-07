@@ -8,4 +8,5 @@ author: CloudCannon (http://cloudcannon.com)
 thumbnail: aviator.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+demo: https://jekyll-demos.github.io/Aviator-Jekyll-Theme
 ---

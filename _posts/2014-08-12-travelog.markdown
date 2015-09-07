@@ -8,6 +8,7 @@ author: Rowan Oulton
 thumbnail: travelog.png
 license: MIT License
 license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
+demo: https://jekyll-demos.github.io/travelog-theme
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright

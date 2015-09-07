@@ -8,4 +8,5 @@ author: Template by http://templated.co, images by http://unsplash.com, ported b
 thumbnail: horizons.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://github.com/CloudCannon/Horizons-Jekyll-Theme/blob/master/LICENSE.txt
+demo: https://jekyll-demos.github.io/Horizons-Jekyll-Theme
 ---

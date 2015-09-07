@@ -8,4 +8,5 @@ author: HTML5 UP (html5up.net), @n33co
 thumbnail: dopetrope.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/blob/master/LICENSE.txt
+demo: https://jekyll-demos.github.io/DopeTrope-Jekyll-Theme
 ---

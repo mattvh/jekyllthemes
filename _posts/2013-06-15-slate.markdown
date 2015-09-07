@@ -8,6 +8,7 @@ author: Jason Costello
 thumbnail: slate.png
 license: MIT License
 license_link: https://github.com/jasoncostello/slate/blob/master/LICENSE
+demo: https://jekyll-demos.github.io/slate
 ---
 
 Slate is responsive theme for GitHub Pages. [Fork
