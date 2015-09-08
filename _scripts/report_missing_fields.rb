@@ -1,9 +1,9 @@
-require 'yaml'
+require_relative 'utils'
 
 fields = [
-	'layout',
-	'title',
-	'date',
+  'layout',
+  'title',
+  'date',
   'homepage',
   'download',
   'demo',
@@ -13,12 +13,12 @@ fields = [
   'license_link'
 ]
 
-report = ''
+Utils.find_or_create_folder('reports')
 
-Dir[File.expand_path('../../_posts/*', __FILE__)].each do |file|
-  theme = YAML.load(File.read(file).split('---')[1])
-  missing = fields - theme.keys
-  report << "#{File.basename(file)} - #{missing.join(', ')}\n" unless missing.empty?
+Utils.create_report('reports/missing_fields.txt') do |report|
+  Utils.for_each_theme do |theme, file|
+    missing = fields - theme.keys
+    next if missing.empty?
+    report << "#{File.basename(file)} - #{missing.join(', ')}\n"
+  end
 end
-
-File.write(File.expand_path('../reports/missing_fields.txt', __FILE__), report)
