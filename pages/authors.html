@@ -2,25 +2,21 @@
 layout: default
 permalink: /authors/
 ---
-{% assign authors = site.posts | map: 'author' | sort %}
+
+{% assign author_groups = site.posts | group_by: 'author' | sort: 'name' %}
 
 <main class='index authors'>
-  {% for author in authors %}
-    {% unless author == previous %}
-      {% assign posts = site.posts | where: 'author', author %}
-
-      <h2>{{ author }}</h2>
-      <ul>
-        {% for post in posts %}
-        <li>
-          <a href='{{ site.baseurl }}{{ post.url }}'>
-            <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
-            <div>{{ post.title }}</div>
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-    {% endunless %}
-    {% assign previous = author %}
+  {% for author_group in author_groups %}
+    <h2>{{ author_group.name }}</h2>
+    <ul>
+      {% for post in author_group.items %}
+      <li>
+        <a href='{{ site.baseurl }}{{ post.url }}'>
+          <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
+          <div>{{ post.title }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
   {% endfor %}
 </main>

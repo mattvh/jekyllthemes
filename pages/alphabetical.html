@@ -3,13 +3,11 @@ layout: default
 permalink: /alphabetical/
 ---
 
-{% assign sorted_titles = site.posts | map: 'title' | sort %}
+{% assign posts = site.posts | sort: 'title' %}
 
 <main class='index'>
   <ul>
-    {% for title in sorted_titles %}
-      {% assign post = site.posts | where: 'title', title | first %}
-
+    {% for post in posts %}
     <li>
       <a href='{{ site.baseurl }}{{ post.url }}'>
         <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
