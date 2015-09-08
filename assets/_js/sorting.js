@@ -1,6 +1,10 @@
 var transparentImage = '{{ site.baseurl }}/assets/transparent.png';
 var indexList = document.getElementById('index-list');
 
+if(indexList) {
+  sort('shuffle');
+}
+
 function sort(method) {
   this[method]();
   var html = '';
@@ -54,5 +58,3 @@ function popularity() {
     return b.stars - a.stars;
   });
 }
-
-sort('shuffle');
