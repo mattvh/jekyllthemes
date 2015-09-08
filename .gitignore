@@ -1,11 +1,11 @@
 # Jekyll and Ruby specific.
 .sass-cache
-_site/*
+_site/
 Gemfile.lock
 Gemfile
 
 # Bundler related.
-.bundle
+.bundle/
 vendor/bundle/
 
 # Other.
@@ -22,3 +22,6 @@ vendor/bundle/
 # OS garbage.
 Thumbs.db
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
