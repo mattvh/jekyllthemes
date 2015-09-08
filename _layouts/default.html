@@ -1,51 +1,49 @@
 ---
 layout: compress
 ---
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <meta name='description' content='{{ site.description }}'>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ site.description }}">
 
-    <title>
-      {{ site.name }}
-      {% if page.title %}| {{ page.title }}{% endif %}
-    </title>
+    <title>{{ site.name }}{% if page.title %}| {{ page.title }}{% endif %}</title>
 
-    <link href='{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html', '' }}' rel='canonical'>
-    <link href='//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css' rel='stylesheet'>
-    <link href='//fonts.googleapis.com/css?family=Roboto|Playball' rel='stylesheet'>
-    <link href='{{ site.baseurl }}/assets/app.css' rel='stylesheet'>
+    <link href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}" rel="canonical">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Roboto|Playball" rel="stylesheet">
+    <link href="{{ '/assets/app.css' | prepend: site.baseurl }}" rel="stylesheet">
 
     <!--[if lte IE 8]>
-      <script src='//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js'></script>
-      <script src='//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js'></script>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
   <body>
     <header>
-      <a href='{{ site.baseurl }}/'>
-        <h1 id='logo'>{{ site.name }}</h1>
+      <a href="{{ site.baseurl }}/">
+        <h1 id="logo">{{ site.name }}</h1>
       </a>
-      <nav role='navigation'>
+      <nav role="navigation">
         <ul>
-          <li><a href='{{ site.baseurl }}/alphabetical'>Alphabetical</a></li>
+          <li><a href="{{ '/alphabetical' | prepend: site.baseurl }}">Alphabetical</a></li>
           &bull;
-          <li><a href='{{ site.baseurl }}/authors'>Authors</a></li>
+          <li><a href="{{ '/authors' | prepend: site.baseurl }}">Authors</a></li>
           &bull;
-          <li><a href='{{ site.baseurl }}/demos'>Demos</a></li>
+          <li><a href="{{ '/demos' | prepend: site.baseurl }}">Demos</a></li>
           &bull;
-          <li><a href='{{ site.baseurl }}/contributing'>Contributing</a></li>
+          <li><a href="{{ '/contributing' | prepend: site.baseurl }}">Contributing</a></li>
           &bull;
-          <li><a href='{{ site.github }}' target='_blank'>GitHub</a></li>
+          <li><a href="{{ site.github }}" target="_blank">GitHub</a></li>
           &bull;
-          <li><a href='{{ site.baseurl }}/feed.xml'>RSS</a></li>
+          <li><a href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS</a></li>
         </ul>
       </nav>
     </header>
     {{ content }}
-    <script src='{{ site.baseurl }}/assets/app.js'></script>
+    <script src="{{ '/assets/app.js' | prepend: site.baseurl }}"></script>
   </body>
 </html>

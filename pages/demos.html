@@ -3,24 +3,24 @@ layout: default
 permalink: /demos/
 ---
 
-<main class='demos'>
-  <nav class='swiper-container'>
-    <ul class='swiper-wrapper'>
+<main class="demos">
+  <nav class="swiper-container">
+    <ul class="swiper-wrapper">
       {% for theme in site.posts %}
       {% if theme.demo %}
-        <li class='swiper-slide'
-            onclick='demoSelected(this)'
-            data-title='{{ theme.title }}'
-            data-demo='{{ theme.demo }}'
-            data-url='{{ theme.url }}'>
-          <img src='{{ site.baseurl }}/thumbnails/{{ theme.thumbnail }}'>
+        <li class="swiper-slide"
+            onclick="demoSelected(this);"
+            data-title="{{ theme.title }}"
+            data-demo="{{ theme.demo }}"
+            data-url="{{ theme.url }}">
+          <img src="{{ theme.thumbnail | prepend: '/thumbnails/' | prepend: site.baseurl }}">
           <div>{{ theme.title }}</div>
         </li>
       {% endif %}
       {% endfor %}
     </ul>
-    <div class='swiper-scrollbar'></div>
+    <div class="swiper-scrollbar"></div>
   </nav>
-  <article id='demo'>
+  <article id="demo">
   </article>
 </main>

@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-<main class='post'>
-  <section class='thumbnail-wrapper'>
-    <img src='{{ site.baseurl }}/thumbnails/{{ page.thumbnail }}' class='thumbnail'>
+
+<main class="post">
+  <section class="thumbnail-wrapper">
+    <img src="{{ page.thumbnail | prepend: '/thumbnails/' | prepend: site.baseurl }}" class="thumbnail">
   </section>
   <section>
     <h1>{{ page.title }}</h1>
@@ -19,23 +20,23 @@ layout: default
     </dl>
     <nav>
     {% if page.homepage %}
-      <a class='btn' href='{{ page.homepage }}'>
-        <i class='glyphicon glyphicon-home'></i> Homepage
+      <a class="btn" href="{{ page.homepage }}">
+        <i class="glyphicon glyphicon-home"></i> Homepage
       </a>
     {% endif %}
     {% if page.download %}
-      <a class='btn' href='{{ page.download }}'>
-        <i class='glyphicon glyphicon-download-alt'></i> Download
+      <a class="btn" href="{{ page.download }}">
+        <i class="glyphicon glyphicon-download-alt"></i> Download
       </a>
     {% endif %}
     {% if page.demo %}
-      <a class='btn' href='{{ page.demo }}'>
-        <i class='glyphicon glyphicon-road'></i> Demo
+      <a class="btn" href="{{ page.demo }}">
+        <i class="glyphicon glyphicon-road"></i> Demo
       </a>
     {% endif %}
     {% if page.license_link %}
-      <a class='btn' href='{{ page.license_link }}'>
-        <i class='glyphicon glyphicon-file'></i> License
+      <a class="btn" href="{{ page.license_link }}">
+        <i class="glyphicon glyphicon-file"></i> License
       </a>
     {% endif %}
     </nav>
