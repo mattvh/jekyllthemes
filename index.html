@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<main class='index'>
+<main class="index">
   <ul>
     {% for post in site.posts %}
     <li>
-      <a href='{{ site.baseurl }}{{ post.url }}'>
-        <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{{ site.baseurl }}/assets/transparent.png"
+             data-echo="{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}">
         <div>{{ post.title }}</div>
       </a>
     </li>
