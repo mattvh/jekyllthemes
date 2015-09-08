@@ -9,6 +9,7 @@ author: Cole Townsend
 thumbnail: balzac.jpg
 license: MIT License
 license_link: https://github.com/ColeTownsend/Balzac-for-Jekyll/blob/master/LICENSE
+demo: http://gtat.me/balzac/
 ---
 
 This is built on [Semantic.gs](http://semantic.gs/) grid framework

@@ -8,6 +8,7 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal-v2.png
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
+demo: http://jekyll-demos.github.io/Jekyll-HMFAYSAL-V2-Theme/
 ---
 
 HMFAYSAL V2 is a responsive, minimal theme for Jekyll, featuring big

@@ -1,7 +1,5 @@
 2013-06-02-green-tea.markdown - license, license_link
 2013-06-02-vanilla-bean-creme.markdown - license, license_link
-2013-12-14-hmfaysal-theme.markdown - demo
-2013-12-17-hmfaysal-v2-theme.markdown - demo
 2014-11-09-jekyll-masonry.markdown - license, license_link
 2015-08-20-drjekyll-bootstrap.markdown - license_link
 2015-08-20-drjekyll-classics-book.markdown - license_link
