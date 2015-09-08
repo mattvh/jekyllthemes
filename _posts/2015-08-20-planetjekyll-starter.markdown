@@ -8,4 +8,5 @@ demo: http://planetjekyll.github.io/jekyll-starter-theme/
 author: Gerald Bauer
 thumbnail: planetjekyll-starter.png
 license: Public Domain
+license_link: https://github.com/planetjekyll/jekyll-starter-theme#meta
 ---

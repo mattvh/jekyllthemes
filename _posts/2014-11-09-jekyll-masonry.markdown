@@ -7,6 +7,8 @@ download: https://github.com/pasindud/jekyll-masonry/archive/master.zip
 demo: http://pasindud.github.io/
 author: Pasindu De Silva
 thumbnail: jeykll-masonry.jpg
+license: MIT License
+license_link: https://github.com/pasindud/jekyll-masonry#license
 ---
 
 ### Jekyll Masonry

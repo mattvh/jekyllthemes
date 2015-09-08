@@ -8,4 +8,5 @@ demo: http://drjekyllthemes.github.io/jekyll-book-theme/
 author: Gerald Bauer
 thumbnail: drjekyll-classics-book.png
 license: Public Domain
+license_link: https://github.com/drjekyllthemes/jekyll-book-theme#meta
 ---
