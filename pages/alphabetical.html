@@ -3,17 +3,32 @@ layout: default
 permalink: /alphabetical/
 ---
 
-{% assign posts = site.posts | sort: 'title' %}
+{% assign titles = site.posts | map: 'title' %}
+{% assign lowercase_titles = '' | split: ',' %}
+
+{% for title in titles %}
+  {% assign lowercase_title = title | downcase %}
+  {% assign lowercase_titles = lowercase_titles | push: lowercase_title %}
+{% endfor %}
+
+{% assign sorted_titles = lowercase_titles | sort %}
 
 <main class='index'>
   <ul>
-    {% for post in posts %}
-    <li>
-      <a href='{{ site.baseurl }}{{ post.url }}'>
-        <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
-        <div>{{ post.title }}</div>
-      </a>
-    </li>
+    {% for title in sorted_titles %}
+      {% for post in site.posts %}
+        {% assign lowercase_title = post.title | downcase %}
+        {% if lowercase_title == title %}
+
+          <li>
+            <a href='{{ site.baseurl }}{{ post.url }}'>
+              <img src='{{ site.baseurl }}/thumbnails/{{ post.thumbnail }}'>
+              <div>{{ post.title }}</div>
+            </a>
+          </li>
+
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ul>
 </main>
