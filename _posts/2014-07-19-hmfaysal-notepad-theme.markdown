@@ -2,7 +2,7 @@
 layout: post
 title: HMFAYSAL Notepad Theme
 date: 2014-07-19 00:31:50
-homepage: http://www.hossainmohdfaysal.com/
+homepage: https://github.com/hmfaysal/Notepad
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: http://www.hossainmohdfaysal.com/Notepad/
 author: Hossain Mohd Faysal

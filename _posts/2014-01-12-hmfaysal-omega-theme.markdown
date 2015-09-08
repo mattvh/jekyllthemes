@@ -2,7 +2,7 @@
 layout: post
 title: HMFAYSAL OMEGA Theme
 date: 2014-01-12 09:37:16
-homepage: http://alum.mit.edu/www/hmfaysal
+homepage: https://github.com/hmfaysal/hmfaysal-omega-theme
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/gh-pages.zip
 demo: http://www.hossainmohdfaysal.com/hmfaysal-omega-theme/
 author: Hossain Mohd Faysal
