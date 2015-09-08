@@ -4,11 +4,11 @@ title: Simply Grey
 date: 2013-12-23 01:27:30
 homepage: https://github.com/mondss/simplygrey-jekyll
 download: https://github.com/mondss/simplygrey-jekyll/archive/master.zip
+demo: https://jekyll-demos.github.io/simplygrey-jekyll
 author: exaem
 thumbnail: simply-grey.png
 license: BSD License
 license_link: https://github.com/exaem/simplygrey-jekyll/blob/master/LICENSE
-demo: https://jekyll-demos.github.io/simplygrey-jekyll
 ---
 
 A simple, easy to use and minimal grey theme for Jekyll. This theme is

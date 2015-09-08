@@ -4,11 +4,11 @@ title: HMFAYSAL Theme
 date: 2013-12-14 01:36:00
 homepage: http://hmfaysal.github.io
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/archive/master.zip
+demo: http://jekyll-demos.github.io/Jekyll-HMFAYSAL-Theme/
 author: Hossain Mohd Faysal
 thumbnail: hmfaysal.png
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/LICENSE
-demo: http://jekyll-demos.github.io/Jekyll-HMFAYSAL-Theme/
 ---
 
 A bold, minimal theme for Jekyll, perfect for bloggers. The theme

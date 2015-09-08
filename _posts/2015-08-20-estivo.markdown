@@ -4,9 +4,9 @@ title: Estivo
 date: 2015-08-20 00:00:00
 homepage: https://github.com/fffabs/estivo
 download: https://github.com/fffabs/estivo/archive/master.zip
+demo: https://jekyll-demos.github.io/estivo
 author: Fabio Basile
 thumbnail: estivo.jpg
 license: MIT License
 license_link: https://github.com/fffabs/estivo/blob/master/LICENSE
-demo: https://jekyll-demos.github.io/estivo
 ---
