@@ -6,3 +6,4 @@
 
 {% include_relative _js/index.js %}
 {% include_relative _js/demos.js %}
+{% include_relative _js/sorting.js %}
