@@ -4,7 +4,7 @@ title: Slate
 date: 2013-06-15 01:38:11
 homepage: https://github.com/jasoncostello/slate
 download: https://github.com/jasoncostello/slate/archive/master.zip
-demo: https://jekyll-demos.github.io/slate
+demo: http://jasoncostello.github.io/slate
 author: Jason Costello
 thumbnail: slate.png
 license: MIT License
