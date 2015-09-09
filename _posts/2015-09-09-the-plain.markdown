@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Plain"
-date:   2015-09-09 10:23:00
+title: The Plain
+date: 2015-09-09 10:23:00
 homepage: https://github.com/heiswayi/the-plain
 download: https://github.com/heiswayi/the-plain/archive/gh-pages.zip
 demo: http://heiswayi.github.io/the-plain/
