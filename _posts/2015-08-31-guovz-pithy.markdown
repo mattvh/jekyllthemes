@@ -13,8 +13,12 @@ license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
 
 ### Simple Jekyll Theme
 
-The [Guovz Pithy](https://github.com/guovz/pithy) An open source minimal theme for Jekyll. You can Fork, Star it and make a New Version of it. of course. it's free.
+The [Guovz Pithy](https://github.com/guovz/pithy) An open source
+minimal theme for Jekyll. You can Fork, Star it and make a New Version
+of it. of course. it's free.
 
 ### Contact
 
-If you have any questions or suggestions for improvements, don't hesitate to [open an issue](https://github.com/guovz/pithy/issues) or making a pull request for your fork!
+If you have any questions or suggestions for improvements, don't
+hesitate to [open an issue](https://github.com/guovz/pithy/issues) or
+making a pull request for your fork!
