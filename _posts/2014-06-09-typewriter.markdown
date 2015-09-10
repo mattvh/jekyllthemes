@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Typewriter
 homepage: http://alixedi.github.io/typewriter
 download: https://github.com/alixedi/typewriter/zipball/master

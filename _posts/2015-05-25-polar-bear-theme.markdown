@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Polar Bear
 homepage: https://github.com/diezcami/polar-bear-theme/
 download: https://github.com/diezcami/polar-bear-theme/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: QckTheme
 homepage: https://github.com/qckanemoto/jekyll-qck-theme
 download: https://github.com/qckanemoto/jekyll-qck-theme/archive/master.zip

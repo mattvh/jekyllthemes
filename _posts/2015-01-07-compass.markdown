@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Compass
 homepage: https://github.com/excentris/compass
 download: https://github.com/excentris/compass/archive/master.zip

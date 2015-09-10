@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Read Only
 homepage: https://github.com/CloudCannon/Read-Only-Jekyll-Theme
 download: https://github.com/CloudCannon/Read-Only-Jekyll-Theme/archive/master.zip

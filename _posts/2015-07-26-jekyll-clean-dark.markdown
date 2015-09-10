@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Clean Dark
 homepage: https://github.com/streetturtle/jekyll-clean-dark
 download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip

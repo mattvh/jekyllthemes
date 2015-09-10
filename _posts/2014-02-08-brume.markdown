@@ -1,5 +1,4 @@
 ---
-layout: post
 title: brume
 homepage: https://github.com/aigarsdz/brume
 download: https://github.com/aigarsdz/brume/archive/master.zip

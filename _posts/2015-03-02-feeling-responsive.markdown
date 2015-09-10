@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Feeling Responsive
 homepage: https://github.com/Phlow/feeling-responsive
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip

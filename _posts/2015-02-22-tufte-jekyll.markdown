@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tufte-Jekyll
 homepage: https://github.com/clayh53/tufte-jekyll
 download: https://github.com/clayh53/tufte-jekyll/archive/master.zip

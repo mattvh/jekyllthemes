@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dbyll
 homepage: https://github.com/dbtek/dbyll
 download: https://github.com/dbtek/dbyll/archive/master.zip

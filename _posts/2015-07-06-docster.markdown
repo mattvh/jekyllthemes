@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Docster
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip

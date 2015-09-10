@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Leap Day
 homepage: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip

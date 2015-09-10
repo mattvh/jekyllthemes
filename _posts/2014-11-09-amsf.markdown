@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Almace Scaffolding
 homepage: https://github.com/sparanoid/almace-scaffolding
 download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip

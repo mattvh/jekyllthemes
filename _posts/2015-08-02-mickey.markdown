@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mickey
 homepage: https://github.com/vincentchan/mickey
 download: https://github.com/vincentchan/mickey/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "*folio"
 homepage: https://github.com/bogoli/-folio
 download: https://github.com/bogoli/-folio/archive/master.zip

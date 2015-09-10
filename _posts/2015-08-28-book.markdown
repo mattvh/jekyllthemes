@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Book
 homepage: https://github.com/kkninjae/book/
 download: https://github.com/kkninjae/book/archive/master.zip

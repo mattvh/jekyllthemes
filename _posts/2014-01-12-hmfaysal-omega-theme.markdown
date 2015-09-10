@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HMFAYSAL OMEGA Theme
 homepage: https://github.com/hmfaysal/hmfaysal-omega-theme
 download: https://github.com/hmfaysal/hmfaysal-omega-theme/archive/gh-pages.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: One Page Wonder
 homepage: https://github.com/mushishi78/one-page-wonder-jekyll
 download: https://github.com/mushishi78/one-page-wonder-jekyll/archive/gh-pages.zip

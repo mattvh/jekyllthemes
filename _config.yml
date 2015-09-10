@@ -17,3 +17,10 @@ exclude:
   - README.md
   - vendor/
   - CNAME
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wangana
 homepage: https://github.com/nadjetey/wangana
 download: https://github.com/nadjetey/wangana/archive/master.zip

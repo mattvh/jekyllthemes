@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Travelog
 homepage: https://github.com/rowanoulton/travelog-theme
 download: https://github.com/rowanoulton/travelog-theme/archive/master.zip

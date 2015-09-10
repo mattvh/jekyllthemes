@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Carte Noire
 homepage: https://github.com/jacobtomlinson/carte-noire
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip

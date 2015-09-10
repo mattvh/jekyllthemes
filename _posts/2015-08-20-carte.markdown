@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Carte
 homepage: https://github.com/Wiredcraft/carte
 download: https://github.com/Wiredcraft/carte/archive/gh-pages.zip

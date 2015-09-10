@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HPSTR
 homepage: https://github.com/mmistakes/hpstr-jekyll-theme
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip

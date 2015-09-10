@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Minimal
 homepage: https://github.com/orderedlist/minimal
 download: https://github.com/orderedlist/minimal/archive/master.zip

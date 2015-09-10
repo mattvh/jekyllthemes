@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stylish Portfolio
 homepage: https://github.com/volny/stylish-portfolio-jekyll
 download: https://github.com/volny/stylish-portfolio-jekyll/archive/master.zip

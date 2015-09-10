@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Solar
 homepage: https://github.com/mattvh/solar-theme-jekyll
 download: https://github.com/mattvh/solar-theme-jekyll/archive/master.zip

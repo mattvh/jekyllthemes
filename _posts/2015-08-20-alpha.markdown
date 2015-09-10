@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alpha
 homepage: https://github.com/CloudCannon/Alpha-Jekyll-Theme
 download: https://github.com/CloudCannon/Alpha-Jekyll-Theme/archive/master.zip

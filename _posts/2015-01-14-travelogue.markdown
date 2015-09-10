@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Travelogue
 homepage: https://github.com/SalGnt/Travelogue
 download: https://github.com/SalGnt/Travelogue/archive/master.zip

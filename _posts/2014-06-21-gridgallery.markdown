@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GridGallery
 homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip

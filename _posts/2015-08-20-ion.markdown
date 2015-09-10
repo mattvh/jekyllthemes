@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ion
 homepage: https://github.com/CloudCannon/Ion-Jekyll-Theme
 download: https://github.com/CloudCannon/Ion-Jekyll-Theme/archive/master.zip

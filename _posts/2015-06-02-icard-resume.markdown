@@ -1,5 +1,4 @@
 ---
-layout: post
 title: iCard-Resume
 homepage: https://github.com/ddbullfrog/iCard-Resume
 download: https://github.com/ddbullfrog/iCard-Resume/archive/gh-pages.zip

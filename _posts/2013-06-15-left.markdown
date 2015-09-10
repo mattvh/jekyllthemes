@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Left
 homepage: https://github.com/holman/left
 download: https://github.com/holman/left/archive/gh-pages.zip

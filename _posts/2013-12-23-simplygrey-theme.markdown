@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Simply Grey
 homepage: https://github.com/mondss/simplygrey-jekyll
 download: https://github.com/mondss/simplygrey-jekyll/archive/master.zip

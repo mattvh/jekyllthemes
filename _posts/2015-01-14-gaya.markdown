@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gaya
 homepage: https://github.com/gayanvirajith/gaya
 download: https://github.com/gayanvirajith/gaya/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pithy
 homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip

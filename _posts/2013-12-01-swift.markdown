@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Swift
 homepage: https://github.com/pranavrajs/swift/
 download: https://github.com/pranavrajs/swift/archive/master.zip

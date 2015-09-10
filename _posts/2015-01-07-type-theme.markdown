@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Type Theme
 homepage: https://rohanchandra.github.io/project/type/
 download: https://github.com/rohanchandra/type-theme/archive/master.zip

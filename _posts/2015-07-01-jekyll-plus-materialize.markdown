@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Plus Materialize
 homepage: https://github.com/enterthecrucible/materialized_jekyll_theme
 download: https://github.com/enterthecrucible/materialized_jekyll_theme/archive/master.zip

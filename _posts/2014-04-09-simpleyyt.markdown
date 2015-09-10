@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Simpleyyt
 homepage: https://github.com/Simpleyyt/simpleyyt.github.io
 download: https://github.com/Simpleyyt/simpleyyt.github.io/archive/master.zip

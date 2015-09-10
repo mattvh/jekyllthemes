@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Modernist
 homepage: https://github.com/orderedlist/modernist
 download: https://github.com/orderedlist/modernist/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Exemplar
 homepage: https://github.com/tybenz/exemplar
 download: https://github.com/tybenz/exemplar/archive/master.zip

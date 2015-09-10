@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Beautiful Jekyll
 homepage: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip

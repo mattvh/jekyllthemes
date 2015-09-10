@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Resume
 homepage: https://github.com/jglovier/resume-template
 download: https://github.com/jglovier/resume-template/archive/gh-pages.zip

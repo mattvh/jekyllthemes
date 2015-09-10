@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ResumeCards
 homepage: https://github.com/ellekasai/resumecards/
 download: https://github.com/ellekasai/resumecards/archive/gh-pages.zip

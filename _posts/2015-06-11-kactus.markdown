@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kactus
 homepage: https://github.com/nickbalestra/kactus
 download: https://github.com/nickbalestra/kactus/archive/master.zip

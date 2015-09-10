@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bitwiser Material
 homepage: https://github.com/brijeshb42/bitwiser-material
 download: https://github.com/brijeshb42/bitwiser-material/archive/gh-pages.zip

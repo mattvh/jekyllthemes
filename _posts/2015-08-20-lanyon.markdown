@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lanyon
 homepage: https://github.com/poole/lanyon
 download: https://github.com/poole/lanyon/archive/master.zip

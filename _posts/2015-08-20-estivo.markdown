@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Estivo
 homepage: https://github.com/fffabs/estivo
 download: https://github.com/fffabs/estivo/archive/master.zip

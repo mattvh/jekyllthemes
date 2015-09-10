@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Skinny Bones
 homepage: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip

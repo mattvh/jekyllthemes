@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Metaphor
 homepage: https://github.com/prio101/metaphor-jekyll
 download: https://github.com/prio101/metaphor-jekyll/archive/master.zip

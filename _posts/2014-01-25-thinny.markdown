@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thinny
 homepage: https://github.com/camporez/Thinny
 download: https://github.com/camporez/Thinny/releases/latest

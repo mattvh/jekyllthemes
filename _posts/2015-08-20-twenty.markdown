@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Twenty
 homepage: https://github.com/CloudCannon/Twenty-Jekyll-Theme
 download: https://github.com/CloudCannon/Twenty-Jekyll-Theme/archive/master.zip

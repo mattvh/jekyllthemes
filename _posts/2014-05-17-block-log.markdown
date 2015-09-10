@@ -1,5 +1,4 @@
 ---
-layout: post
 title: block-log
 homepage: https://github.com/anandubajith/block-log
 download: https://github.com/anandubajith/block-log/archive/master.zip

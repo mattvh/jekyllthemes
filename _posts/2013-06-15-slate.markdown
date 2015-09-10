@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Slate
 homepage: https://github.com/jasoncostello/slate
 download: https://github.com/jasoncostello/slate/archive/master.zip

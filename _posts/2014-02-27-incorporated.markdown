@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Incorporated
 homepage: http://incorporated.sendtoinc.com/
 download: https://github.com/kippt/jekyll-incorporated/archive/master.zip

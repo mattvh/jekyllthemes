@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Holo Alfa
 homepage: https://github.com/steinvc/holo-alfa
 download: https://github.com/steinvc/holo-alfa/archive/gh-pages.zip

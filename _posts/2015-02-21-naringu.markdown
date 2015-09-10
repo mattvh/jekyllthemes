@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Naringu
 homepage: https://github.com/ariestiyansyah/naringu
 download: https://github.com/ariestiyansyah/naringu/archive/master.zip

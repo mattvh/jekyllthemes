@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gereksiz
 homepage: https://github.com/berkoz/gereksiz
 download: https://github.com/berkoz/gereksiz/archive/master.zip

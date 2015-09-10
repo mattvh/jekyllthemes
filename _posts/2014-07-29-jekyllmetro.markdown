@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Metro
 homepage: https://github.com/olakara/JekyllMetro
 download: https://github.com/olakara/JekyllMetro/archive/master.zip

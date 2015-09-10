@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dr Jekyll's Minimal
 homepage: https://github.com/drjekyllthemes/jekyll-minimal-theme
 download: https://github.com/drjekyllthemes/jekyll-minimal-theme/archive/gh-pages.zip

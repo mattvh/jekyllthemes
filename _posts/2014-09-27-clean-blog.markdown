@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Clean Blog
 homepage: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/archive/gh-pages.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: architect
 homepage: https://github.com/pietromenna/jekyll-architect-theme
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip

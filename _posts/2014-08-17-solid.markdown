@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Solid
 homepage: https://github.com/st4ple/solid-jekyll
 download: https://github.com/st4ple/solid-jekyll/archive/master.zip

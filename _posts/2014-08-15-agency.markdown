@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Agency
 homepage: https://github.com/y7kim/agency-jekyll-theme
 download: https://github.com/y7kim/agency-jekyll-theme/archive/gh-pages.zip

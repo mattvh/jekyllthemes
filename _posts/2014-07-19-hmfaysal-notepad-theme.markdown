@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HMFAYSAL Notepad Theme
 homepage: https://github.com/hmfaysal/Notepad
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip

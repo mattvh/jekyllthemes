@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Aviator
 homepage: https://github.com/CloudCannon/Aviator-Jekyll-Theme
 download: https://github.com/CloudCannon/Aviator-Jekyll-Theme/archive/master.zip

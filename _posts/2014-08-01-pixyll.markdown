@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pixyll
 homepage: https://github.com/johnotander/pixyll
 download: https://github.com/johnotander/pixyll/archive/master.zip

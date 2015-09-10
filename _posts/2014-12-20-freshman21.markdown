@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Freshman21
 homepage: https://github.com/yulijia/freshman21
 download: https://github.com/yulijia/freshman21/archive/master.zip

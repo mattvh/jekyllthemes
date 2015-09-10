@@ -1,5 +1,4 @@
 ---
-layout: post
 title: White Paper
 homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/archive/v1.0.2.zip

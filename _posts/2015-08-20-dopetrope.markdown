@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dopetrope
 homepage: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme
 download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.zip

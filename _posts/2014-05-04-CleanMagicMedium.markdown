@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CleanMagicMedium
 homepage: https://github.com/SpaceG/CleanMagicMedium-Jekyll
 download: https://github.com/SpaceG/CleanMagicMedium-Jekyll/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Now
 homepage: https://github.com/barryclark/jekyll-now
 download: https://github.com/barryclark/jekyll-now/archive/master.zip

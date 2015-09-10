@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HMFAYSAL V2 Theme
 homepage: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zip

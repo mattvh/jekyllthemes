@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Herring Cove
 homepage: https://github.com/arnp/herring-cove
 download: https://github.com/arnp/herring-cove/archive/master.zip

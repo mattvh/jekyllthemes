@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Emerald
 homepage: https://github.com/KingFelix/emerald
 download: https://github.com/KingFelix/emerald/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Clean
 homepage: http://github.com/scotte/jekyll-clean
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages

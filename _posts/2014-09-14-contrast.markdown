@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Contrast
 homepage: https://github.com/niklasbuschmann/contrast
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip

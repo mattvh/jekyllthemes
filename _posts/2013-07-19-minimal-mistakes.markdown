@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Minimal Mistakes
 homepage: https://github.com/mmistakes/minimal-mistakes
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kasper
 homepage: https://github.com/rosario/kasper
 download: https://github.com/rosario/kasper/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Midnight
 homepage: https://github.com/mattgraham/midnight
 download: https://github.com/mattgraham/midnight/archive/master.zip

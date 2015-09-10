@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bitwiser
 homepage: http://bitwiser.in/bitwiser/
 download: http://goo.gl/iC85jv

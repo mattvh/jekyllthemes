@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Arcana
 homepage: https://github.com/CloudCannon/Arcana-Jekyll-Theme
 download: https://github.com/CloudCannon/Arcana-Jekyll-Theme/archive/master.zip

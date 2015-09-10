@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Strange Case
 homepage: https://github.com/thephuse/strange_case
 download: https://github.com/thephuse/strange_case/archive/gh-pages.zip

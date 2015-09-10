@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Masonry
 homepage: https://github.com/pasindud/jekyll-masonry
 download: https://github.com/pasindud/jekyll-masonry/archive/master.zip

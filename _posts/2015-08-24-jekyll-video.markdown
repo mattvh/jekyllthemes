@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Video
 homepage: https://github.com/mushishi78/jekyll-video
 download: https://github.com/mushishi78/jekyll-video/archive/gh-pages.zip

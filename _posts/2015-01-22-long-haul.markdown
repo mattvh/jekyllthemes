@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Long Haul
 homepage: https://github.com/brianmaierjr/long-haul
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip

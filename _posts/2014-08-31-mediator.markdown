@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mediator
 homepage: https://github.com/dirkfabisch/mediator
 download: https://github.com/dirkfabisch/mediator/archive/master.zip

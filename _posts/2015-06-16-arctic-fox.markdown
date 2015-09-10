@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Arctic Fox
 homepage: https://github.com/diezcami/arctic-fox-theme/
 download: https://github.com/diezcami/arctic-fox-theme/archive/master.zip

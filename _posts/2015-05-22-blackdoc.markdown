@@ -1,5 +1,4 @@
 ---
-layout: post
 title: BlackDoc
 homepage: https://github.com/karloespiritu/BlackDoc
 download: https://github.com/karloespiritu/BlackDoc/archive/master.zip

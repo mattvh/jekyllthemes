@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tiffany
 homepage: https://github.com/dubuyuye/blog
 download: https://github.com/dubuyuye/blog/archive/gh-pages.zip

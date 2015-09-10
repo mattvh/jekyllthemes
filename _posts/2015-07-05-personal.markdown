@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "{ Personal }"
 homepage: https://github.com/PanosSakkos/personal-jekyll-theme
 download: https://github.com/PanosSakkos/personal-jekyll-theme/archive/master.zip

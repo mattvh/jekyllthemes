@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Guovz Pithy
 homepage: https://github.com/guovz/pithy
 download: https://github.com/guovz/pithy/archive/gh-pages.zip

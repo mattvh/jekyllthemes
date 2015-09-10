@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Scribble
 homepage: https://github.com/muan/scribble
 download: https://github.com/muan/scribble/archive/master.zip

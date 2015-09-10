@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Planet Jekyll's Starter (Minimal)
 homepage: https://github.com/planetjekyll/jekyll-starter-theme
 download: https://github.com/planetjekyll/jekyll-starter-theme/archive/gh-pages.zip

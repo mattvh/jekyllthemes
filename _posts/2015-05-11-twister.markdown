@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Twister
 homepage: https://github.com/DigitalMindCH/twister
 download: http://digitalmind.ch/media/downloads/twister_theme.zip

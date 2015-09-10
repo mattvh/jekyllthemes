@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vanilla Bean Creme
 homepage: http://richbray.me/frap/
 download: http://richbray.me/frap/vbc.zip

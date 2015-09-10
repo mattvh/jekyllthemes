@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Landing Page
 homepage: https://github.com/swcool/landing-page-theme
 download: https://github.com/swcool/landing-page-theme/archive/master.zip

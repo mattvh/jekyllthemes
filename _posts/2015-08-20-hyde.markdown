@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hyde
 homepage: https://github.com/poole/hyde
 download: https://github.com/poole/hyde/archive/master.zip

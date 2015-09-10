@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HPSTR Version 2 - Vietnamese
 homepage: https://github.com/minhhuy150894/minhhuy150894.github.io
 download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Solo (single-page)
 homepage: http://chibicode.github.io/solo/
 download: http://github.com/chibicode/solo/

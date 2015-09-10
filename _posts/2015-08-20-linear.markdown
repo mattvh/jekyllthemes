@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linear
 homepage: https://github.com/CloudCannon/Linear-Jekyll-Theme
 download: https://github.com/CloudCannon/Linear-Jekyll-Theme/archive/master.zip

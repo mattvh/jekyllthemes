@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hikari
 homepage: https://github.com/mx3m/hikari-for-Jekyll
 download: https://github.com/mx3m/hikari-for-Jekyll/archive/master.zip

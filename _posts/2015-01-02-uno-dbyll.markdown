@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Uno-dbyll
 homepage: https://github.com/talk2ankan/uno-dbyll
 download: https://github.com/talk2ankan/uno-dbyll/archive/gh-pages.zip

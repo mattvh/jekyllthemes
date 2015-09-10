@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SinglePaged
 homepage: https://github.com/t413/SinglePaged
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip

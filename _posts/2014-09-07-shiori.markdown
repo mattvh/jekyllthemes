@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shiori
 homepage: https://github.com/ellekasai/shiori/
 download: https://github.com/ellekasai/shiori/archive/gh-pages.zip

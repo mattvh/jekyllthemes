@@ -1,5 +1,4 @@
 ---
-layout: post
 title: redcup
 homepage: https://github.com/nadjetey/redcup
 download: https://github.com/nadjetey/redcup/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Otter Pop
 homepage: https://github.com/tybenz/otter-pop/
 download: https://github.com/tybenz/otter-pop/archive/gh-pages.zip

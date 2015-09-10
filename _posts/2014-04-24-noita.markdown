@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Noita
 homepage: https://github.com/penibelst/jekyll-noita
 download: https://github.com/penibelst/jekyll-noita/archive/gh-pages.zip

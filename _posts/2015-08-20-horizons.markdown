@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Horizons
 homepage: https://github.com/CloudCannon/Horizons-Jekyll-Theme
 download: https://github.com/CloudCannon/Horizons-Jekyll-Theme/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Flex
 homepage: https://github.com/the-development/flex
 download: https://github.com/the-development/flex/archive/master.zip

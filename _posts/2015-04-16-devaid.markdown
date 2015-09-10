@@ -1,5 +1,4 @@
 ---
-layout: post
 title: devAid
 homepage: https://github.com/kevit/devaid-jekyll-theme
 download: https://github.com/kevit/devaid-jekyll-theme/archive/master.zip

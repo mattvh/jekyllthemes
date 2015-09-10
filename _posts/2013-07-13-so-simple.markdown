@@ -1,5 +1,4 @@
 ---
-layout: post
 title: So Simple
 homepage: https://github.com/mmistakes/so-simple-theme
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip

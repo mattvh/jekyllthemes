@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Harmony
 homepage: https://github.com/gayanvirajith/harmony
 download: https://github.com/gayanvirajith/harmony/archive/master.zip

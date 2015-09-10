@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Centrarium
 homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip

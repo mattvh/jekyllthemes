@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Strata
 homepage: https://github.com/CloudCannon/Strata-Jekyll-Theme
 download: https://github.com/CloudCannon/Strata-Jekyll-Theme/archive/master.zip

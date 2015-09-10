@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dr Jekyll's Classics Book
 homepage: https://github.com/drjekyllthemes/jekyll-book-theme
 download: https://github.com/drjekyllthemes/jekyll-book-theme/archive/gh-pages.zip

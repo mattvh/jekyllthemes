@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll Material Design Lite
 homepage: https://github.com/gdg-managua/jekyll-mdl
 download: https://github.com/gdg-managua/jekyll-mdl/releases

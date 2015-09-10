@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Will Jekyll Template
 homepage: https://github.com/willianjusten/will-jekyll-template
 download: https://github.com/willianjusten/will-jekyll-template/archive/master.zip

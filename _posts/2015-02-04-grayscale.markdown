@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Grayscale
 homepage: https://github.com/jeromelachaud/grayscale-theme
 download: https://github.com/jeromelachaud/grayscale-theme/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Minimal-block
 homepage: https://github.com/drvy/minimal-block
 download: https://github.com/drvy/minimal-block/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rifyll
 homepage: https://github.com/itsrifat/rifyll
 download: https://github.com/itsrifat/rifyll/archive/master.zip

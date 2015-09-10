@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Freelancer
 homepage: https://github.com/jeromelachaud/freelancer-theme
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OpenTheme
 homepage: https://github.com/open-start/opentheme
 download: https://github.com/open-start/opentheme/archive/master.zip

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ICE AND FIRE
 homepage: https://github.com/SpaceG/iceandfire
 download: https://github.com/SpaceG/iceandfire/archive/master.zip

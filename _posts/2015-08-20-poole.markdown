@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Poole
 homepage: https://github.com/poole/poole
 download: https://github.com/poole/poole/archive/master.zip
