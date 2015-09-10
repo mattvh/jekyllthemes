@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Simply Grey
-date: 2013-12-23 01:27:30
 homepage: https://github.com/mondss/simplygrey-jekyll
 download: https://github.com/mondss/simplygrey-jekyll/archive/master.zip
 demo: https://jekyll-demos.github.io/simplygrey-jekyll

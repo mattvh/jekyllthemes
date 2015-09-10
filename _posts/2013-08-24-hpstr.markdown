@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HPSTR
-date: 2013-08-25 01:18:00
 homepage: https://github.com/mmistakes/hpstr-jekyll-theme
 download: https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip
 demo: http://mmistakes.github.io/hpstr-jekyll-theme/

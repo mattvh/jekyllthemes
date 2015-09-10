@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lagom
-date: 2013-08-23 20:00:00
 homepage: https://github.com/swanson/lagom
 download: https://github.com/swanson/lagom/archive/master.zip
 demo: http://lagom.mdswanson.com/

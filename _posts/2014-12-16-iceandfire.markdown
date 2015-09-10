@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ICE AND FIRE
-date: 2014-12-16 12:00:00
 homepage: https://github.com/SpaceG/iceandfire
 download: https://github.com/SpaceG/iceandfire/archive/master.zip
 demo: http://lucasgatsas.ch

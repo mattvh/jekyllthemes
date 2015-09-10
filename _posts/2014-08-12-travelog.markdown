@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Travelog
-date: 2014-08-12 04:00:00
 homepage: https://github.com/rowanoulton/travelog-theme
 download: https://github.com/rowanoulton/travelog-theme/archive/master.zip
 demo: https://jekyll-demos.github.io/travelog-theme

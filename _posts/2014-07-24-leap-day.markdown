@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Leap Day
-date: 2014-07-27 05:42:00
 homepage: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip
 demo: http://madebygraham.com/leapday/

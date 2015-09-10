@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Travelogue
-date: 2015-01-14 00:00:00
 homepage: https://github.com/SalGnt/Travelogue
 download: https://github.com/SalGnt/Travelogue/archive/master.zip
 demo: http://salgnt.github.io/Travelogue/

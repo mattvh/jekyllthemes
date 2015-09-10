@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HPSTR Version 2 - Vietnamese
-date: 2015-06-02 03:10:00
 homepage: https://github.com/minhhuy150894/minhhuy150894.github.io
 download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/master.zip
 demo: http://minhhuy150894.github.io

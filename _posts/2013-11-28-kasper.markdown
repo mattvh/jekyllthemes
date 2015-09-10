@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kasper
-date: 2013-11-28 10:20:00
 homepage: https://github.com/rosario/kasper
 download: https://github.com/rosario/kasper/archive/master.zip
 demo: http://rosario.io/2013/11/10/kasper-theme-for-jekyll.html

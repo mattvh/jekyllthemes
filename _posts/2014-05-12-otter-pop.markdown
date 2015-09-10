@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Otter Pop
-date: 2014-05-12 13:20:00
 homepage: https://github.com/tybenz/otter-pop/
 download: https://github.com/tybenz/otter-pop/archive/gh-pages.zip
 demo: http://tybenz.com/otter-pop

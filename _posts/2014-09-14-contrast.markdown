@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Contrast
-date: 2014-09-14 04:03:00
 homepage: https://github.com/niklasbuschmann/contrast
 download: https://github.com/niklasbuschmann/contrast/archive/gh-pages.zip
 demo: http://niklasbuschmann.github.io/contrast

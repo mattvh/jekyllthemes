@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Almace Scaffolding
-date: 2014-11-09 10:00:00
 homepage: https://github.com/sparanoid/almace-scaffolding
 download: https://github.com/sparanoid/almace-scaffolding/archive/master.zip
 demo: http://sparanoid.com/lab/amsf/

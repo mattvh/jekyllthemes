@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Minimal-block
-date: 2015-01-03 13:46:00
 homepage: https://github.com/drvy/minimal-block
 download: https://github.com/drvy/minimal-block/archive/master.zip
 demo: http://blog.drvy.net/minimal-block/

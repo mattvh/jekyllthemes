@@ -1,7 +1,6 @@
 ---
 layout: post
 title: So Simple
-date: 2013-07-14 08:42:00
 homepage: https://github.com/mmistakes/so-simple-theme
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: http://mmistakes.github.io/so-simple-theme/

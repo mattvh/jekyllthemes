@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pithy
-date: 2015-05-08 16:42:00
 homepage: https://github.com/smallmuou/Jekyll-Pithy
 download: https://github.com/smallmuou/Jekyll-Pithy/archive/master.zip
 demo: http://wenva.github.io/

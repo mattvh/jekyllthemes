@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Centrarium
-date: 2015-08-02 09:42:00
 homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: http://bencentra.com/centrarium/

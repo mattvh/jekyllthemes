@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GridGallery
-date: 2014-06-21 05:00:00
 homepage: https://github.com/nadjetey/GridGallery
 download: https://github.com/nadjetey/GridGallery/archive/master.zip
 demo: https://nadjetey.github.io/GridGallery

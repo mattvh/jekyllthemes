@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rifyll
-date: 2015-01-31 13:28:53
 homepage: https://github.com/itsrifat/rifyll
 download: https://github.com/itsrifat/rifyll/archive/master.zip
 demo: http://itsrifat.github.io/rifyll/

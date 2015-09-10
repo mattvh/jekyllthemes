@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Left
-date: 2013-06-15 10:31:00
 homepage: https://github.com/holman/left
 download: https://github.com/holman/left/archive/gh-pages.zip
 demo: http://zachholman.com/left/

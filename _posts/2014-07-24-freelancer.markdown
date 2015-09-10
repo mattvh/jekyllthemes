@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Freelancer
-date: 2014-07-24 04:00:00
 homepage: https://github.com/jeromelachaud/freelancer-theme
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme

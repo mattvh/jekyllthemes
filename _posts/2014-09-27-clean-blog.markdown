@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Clean Blog
-date: 2014-09-27 19:09:00
 homepage: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/archive/gh-pages.zip
 demo: http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/

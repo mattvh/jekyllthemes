@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stylish Portfolio
-date: 2015-09-08 03:03:00
 homepage: https://github.com/volny/stylish-portfolio-jekyll
 download: https://github.com/volny/stylish-portfolio-jekyll/archive/master.zip
 demo: https://volny.github.io/stylish-portfolio-jekyll/

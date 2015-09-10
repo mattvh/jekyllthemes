@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jekyll Metro
-date: 2014-07-29 04:00:00
 homepage: https://github.com/olakara/JekyllMetro
 download: https://github.com/olakara/JekyllMetro/archive/master.zip
 demo: http://abdelraoof.com

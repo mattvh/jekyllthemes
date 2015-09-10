@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tufte-Jekyll
-date: 2015-02-22 08:46:00
 homepage: https://github.com/clayh53/tufte-jekyll
 download: https://github.com/clayh53/tufte-jekyll/archive/master.zip
 demo: http://clayh53.github.io/tufte-jekyll/

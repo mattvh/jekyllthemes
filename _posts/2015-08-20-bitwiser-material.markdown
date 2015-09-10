@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bitwiser Material
-date: 2015-08-20 02:00:00
 homepage: https://github.com/brijeshb42/bitwiser-material
 download: https://github.com/brijeshb42/bitwiser-material/archive/gh-pages.zip
 demo: http://bitwiser.in/bitwiser-material/

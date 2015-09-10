@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jekyll Masonry
-date: 2014-11-09 00:00:00
 homepage: https://github.com/pasindud/jekyll-masonry
 download: https://github.com/pasindud/jekyll-masonry/archive/master.zip
 demo: http://pasindud.github.io/

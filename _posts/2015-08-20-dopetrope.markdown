@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dopetrope
-date: 2015-08-20 02:00:00
 homepage: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme
 download: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/archive/master.zip
 demo: https://jekyll-demos.github.io/DopeTrope-Jekyll-Theme

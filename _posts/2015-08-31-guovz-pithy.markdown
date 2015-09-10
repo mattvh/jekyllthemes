@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Guovz Pithy
-date: 2015-08-31 16:37:00
 homepage: https://github.com/guovz/pithy
 download: https://github.com/guovz/pithy/archive/gh-pages.zip
 demo: http://www.guovz.com

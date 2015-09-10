@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SinglePaged
-date: 2014-09-21 12:20:00
 homepage: https://github.com/t413/SinglePaged
 download: https://github.com/t413/SinglePaged/archive/gh-pages.zip
 demo: http://t413.com/SinglePaged

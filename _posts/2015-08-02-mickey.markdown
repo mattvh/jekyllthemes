@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mickey
-date: 2015-08-02 09:42:00
 homepage: https://github.com/vincentchan/mickey
 download: https://github.com/vincentchan/mickey/archive/master.zip
 demo: http://vincentchan.github.io/mickey/

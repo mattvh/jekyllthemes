@@ -1,7 +1,6 @@
 ---
 layout: post
 title: devAid
-date: 2015-04-16 22:00:00
 homepage: https://github.com/kevit/devaid-jekyll-theme
 download: https://github.com/kevit/devaid-jekyll-theme/archive/master.zip
 demo: http://themes.3rdwavemedia.com/demo/devaid/

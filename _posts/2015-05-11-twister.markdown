@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Twister
-date: 2015-05-11 16:55:00
 homepage: https://github.com/DigitalMindCH/twister
 download: http://digitalmind.ch/media/downloads/twister_theme.zip
 demo: http://digitalmind.ch/themes/twister-jekyll-theme/demo/

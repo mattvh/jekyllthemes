@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gaya
-date: 2015-01-14 18:14:00
 homepage: https://github.com/gayanvirajith/gaya
 download: https://github.com/gayanvirajith/gaya/archive/master.zip
 demo: http://gayan.me/gaya/

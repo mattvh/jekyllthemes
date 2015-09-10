@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Uno-dbyll
-date: 2015-01-02 03:26:00
 homepage: https://github.com/talk2ankan/uno-dbyll
 download: https://github.com/talk2ankan/uno-dbyll/archive/gh-pages.zip
 demo: http://blog.ankanbiswas.in/uno-dbyll/

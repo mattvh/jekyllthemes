@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jekyll Clean
-date: 2014-08-23 19:31:11
 homepage: http://github.com/scotte/jekyll-clean
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: http://scotte.github.io/jekyll-clean

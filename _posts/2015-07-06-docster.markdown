@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Docster
-date: 2015-07-06 14:44:00
 homepage: https://github.com/DigitalMindCH/docster-jekyll-theme
 download: https://github.com/DigitalMindCH/docster-jekyll-theme/archive/gh-pages.zip
 demo: http://digitalmind.ch/themes/docster-jekyll-theme/demo/

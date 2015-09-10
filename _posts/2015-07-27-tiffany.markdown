@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tiffany
-date: 2015-07-27 03:03:00
 homepage: https://github.com/dubuyuye/blog
 download: https://github.com/dubuyuye/blog/archive/gh-pages.zip
 demo: http://blog.rainynight.top/2015-03-12/spring-security/

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Compass
-date: 2015-01-07 19:33:00
 homepage: https://github.com/excentris/compass
 download: https://github.com/excentris/compass/archive/master.zip
 demo: http://excentris.github.io/compass/

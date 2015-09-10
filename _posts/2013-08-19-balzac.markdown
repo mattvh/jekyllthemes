@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Balzac
-date: 2013-08-19 21:52:00
 homepage: https://github.com/coletownsend/balzac-for-jekyll
 download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
 demo: http://gtat.me/balzac/

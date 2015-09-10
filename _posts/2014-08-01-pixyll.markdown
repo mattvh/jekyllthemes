@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pixyll
-date: 2014-08-01 07:33:00
 homepage: https://github.com/johnotander/pixyll
 download: https://github.com/johnotander/pixyll/archive/master.zip
 demo: http://pixyll.com

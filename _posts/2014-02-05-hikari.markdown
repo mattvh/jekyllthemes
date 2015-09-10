@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hikari
-date: 2014-02-05 12:42:00
 homepage: https://github.com/mx3m/hikari-for-Jekyll
 download: https://github.com/mx3m/hikari-for-Jekyll/archive/master.zip
 demo: http://mx3m.github.io/hikari-for-Jekyll/

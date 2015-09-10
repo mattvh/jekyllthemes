@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Typewriter
-date: 2014-06-09 22:37:30
 homepage: http://alixedi.github.io/typewriter
 download: https://github.com/alixedi/typewriter/zipball/master
 demo: http://alixedi.github.io

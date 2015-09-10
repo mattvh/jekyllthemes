@@ -1,7 +1,6 @@
 ---
 layout: post
 title: One Page Wonder
-date: 2015-04-22 04:00:00
 homepage: https://github.com/mushishi78/one-page-wonder-jekyll
 download: https://github.com/mushishi78/one-page-wonder-jekyll/archive/gh-pages.zip
 demo: http://mushishi78.github.io/one-page-wonder-jekyll

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: White Paper
-date: 2014-07-02 05:00:00
 homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/archive/v1.0.2.zip
 demo: http://vinitkumar.me/white-paper/

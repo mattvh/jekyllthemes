@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Solo (single-page)
-date: 2014-01-24 19:00:00
 homepage: http://chibicode.github.io/solo/
 download: http://github.com/chibicode/solo/
 demo: http://chibicode.github.io/solo/

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Thinny
-date: 2014-01-25 18:50:00
 homepage: https://github.com/camporez/Thinny
 download: https://github.com/camporez/Thinny/releases/latest
 demo: https://jekyll-demos.github.io/Thinny

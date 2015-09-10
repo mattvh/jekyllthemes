@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Swift
-date: 2013-12-01 03:55:00
 homepage: https://github.com/pranavrajs/swift/
 download: https://github.com/pranavrajs/swift/archive/master.zip
 demo: http://pranavrajs.me/swift/

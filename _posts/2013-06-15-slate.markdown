@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Slate
-date: 2013-06-15 10:38:11
 homepage: https://github.com/jasoncostello/slate
 download: https://github.com/jasoncostello/slate/archive/master.zip
 demo: http://jasoncostello.github.io/slate

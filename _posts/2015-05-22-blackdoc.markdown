@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BlackDoc
-date: 2015-05-22 07:59:00
 homepage: https://github.com/karloespiritu/BlackDoc
 download: https://github.com/karloespiritu/BlackDoc/archive/master.zip
 demo: http://karloespiritu.com/blackdoc

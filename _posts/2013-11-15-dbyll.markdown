@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dbyll
-date: 2013-11-15 11:53:00
 homepage: https://github.com/dbtek/dbyll
 download: https://github.com/dbtek/dbyll/archive/master.zip
 demo: http://dbtek.github.io/dbyll/

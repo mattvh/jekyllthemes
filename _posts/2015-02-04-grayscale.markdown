@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Grayscale
-date: 2015-02-04 00:00:00
 homepage: https://github.com/jeromelachaud/grayscale-theme
 download: https://github.com/jeromelachaud/grayscale-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/grayscale-theme

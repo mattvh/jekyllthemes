@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Simpleyyt
-date: 2014-04-09 05:00:00
 homepage: https://github.com/Simpleyyt/simpleyyt.github.io
 download: https://github.com/Simpleyyt/simpleyyt.github.io/archive/master.zip
 demo: http://simpleyyt.github.io/

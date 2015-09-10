@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Holo Alfa
-date: 2015-07-29 04:19:00
 homepage: https://github.com/steinvc/holo-alfa
 download: https://github.com/steinvc/holo-alfa/archive/gh-pages.zip
 demo: http://steinvc.github.io/holo-alfa/

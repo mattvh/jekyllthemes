@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "{ Personal }"
-date: 2015-07-05 07:11:18
 homepage: https://github.com/PanosSakkos/personal-jekyll-theme
 download: https://github.com/PanosSakkos/personal-jekyll-theme/archive/master.zip
 demo: https://panossakkos.github.io/personal-jekyll-theme/

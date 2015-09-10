@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flex
-date: 2013-12-09 14:52:00
 homepage: https://github.com/the-development/flex
 download: https://github.com/the-development/flex/archive/master.zip
 demo: http://the-development.github.io/flex

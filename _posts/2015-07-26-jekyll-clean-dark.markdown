@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jekyll Clean Dark
-date: 2015-07-26 21:07:11
 homepage: https://github.com/streetturtle/jekyll-clean-dark
 download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip
 demo: http://pavelmakhov.com/jekyll-clean-dark/

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: architect
-date: 2014-04-07 13:31:00
 homepage: https://github.com/pietromenna/jekyll-architect-theme
 download: https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
 demo: http://pietro.menna.net.br/jekyll-architect-theme/

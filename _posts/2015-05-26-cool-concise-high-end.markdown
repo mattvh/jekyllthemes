@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cool Concise High-end
-date: 2015-05-26 11:20:00
 homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: http://gaohaoyang.github.io/

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Scribble
-date: 2013-06-01 15:42:00
 homepage: https://github.com/muan/scribble
 download: https://github.com/muan/scribble/archive/master.zip
 demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/

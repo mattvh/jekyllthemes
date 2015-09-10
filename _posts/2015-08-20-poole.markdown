@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Poole
-date: 2015-08-20 02:00:00
 homepage: https://github.com/poole/poole
 download: https://github.com/poole/poole/archive/master.zip
 demo: http://demo.getpoole.com/

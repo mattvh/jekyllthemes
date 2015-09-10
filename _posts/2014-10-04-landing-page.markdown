@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Landing Page
-date: 2014-10-04 04:00:00
 homepage: https://github.com/swcool/landing-page-theme
 download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: http://shaneweng.com/landing-page-theme/

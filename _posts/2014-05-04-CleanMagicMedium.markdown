@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CleanMagicMedium
-date: 2014-05-04 17:00:00
 homepage: https://github.com/SpaceG/CleanMagicMedium-Jekyll
 download: https://github.com/SpaceG/CleanMagicMedium-Jekyll/archive/master.zip
 demo: http://www.lucasgatsas.ch

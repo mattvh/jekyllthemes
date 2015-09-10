@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Skinny Bones
-date: 2014-09-03 04:00:00
 homepage: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
 demo: http://mmistakes.github.io/skinny-bones-jekyll/

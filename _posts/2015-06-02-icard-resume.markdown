@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iCard-Resume
-date: 2015-06-02 11:08:00
 homepage: https://github.com/ddbullfrog/iCard-Resume
 download: https://github.com/ddbullfrog/iCard-Resume/archive/gh-pages.zip
 demo: http://ddbullfrog.github.io/iCard-Resume

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Exemplar
-date: 2013-11-28 10:20:00
 homepage: https://github.com/tybenz/exemplar
 download: https://github.com/tybenz/exemplar/archive/master.zip
 demo: http://exemplar.tybenz.com

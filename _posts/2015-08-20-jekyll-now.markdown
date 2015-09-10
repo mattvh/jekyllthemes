@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jekyll Now
-date: 2015-08-20 02:00:00
 homepage: https://github.com/barryclark/jekyll-now
 download: https://github.com/barryclark/jekyll-now/archive/master.zip
 demo: http://www.jekyllnow.com/

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Polar Bear
-date: 2015-05-25 10:42:00
 homepage: https://github.com/diezcami/polar-bear-theme/
 download: https://github.com/diezcami/polar-bear-theme/archive/master.zip
 demo: https://diezcami.github.io/polar-bear-theme

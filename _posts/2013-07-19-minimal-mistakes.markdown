@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Minimal Mistakes
-date: 2013-07-19 19:05:00
 homepage: https://github.com/mmistakes/minimal-mistakes
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: http://mmistakes.github.io/minimal-mistakes/

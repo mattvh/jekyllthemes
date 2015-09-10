@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Carte Noire
-date: 2015-04-24 19:00:00
 homepage: https://github.com/jacobtomlinson/carte-noire
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: http://carte-noire.jacobtomlinson.co.uk/

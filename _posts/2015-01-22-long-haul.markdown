@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Long Haul
-date: 2015-01-22 12:00:00
 homepage: https://github.com/brianmaierjr/long-haul
 download: https://github.com/brianmaierjr/long-haul/archive/master.zip
 demo: http://brianmaierjr.com/long-haul/

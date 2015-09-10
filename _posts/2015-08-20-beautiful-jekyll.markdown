@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Beautiful Jekyll
-date: 2015-08-20 02:00:00
 homepage: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: http://deanattali.com/beautiful-jekyll/

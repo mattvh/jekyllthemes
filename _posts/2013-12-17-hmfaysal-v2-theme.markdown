@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HMFAYSAL V2 Theme
-date: 2013-12-17 09:48:00
 homepage: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme
 download: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/archive/master.zip
 demo: http://jekyll-demos.github.io/Jekyll-HMFAYSAL-V2-Theme/

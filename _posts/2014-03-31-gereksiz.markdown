@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gereksiz
-date: 2014-03-31 05:00:00
 homepage: https://github.com/berkoz/gereksiz
 download: https://github.com/berkoz/gereksiz/archive/master.zip
 demo: https://jekyll-demos.github.io/gereksiz
