@@ -2,6 +2,7 @@
 title: Up
 homepage: http://carlosbecker.com/posts/up-a-jekyll-theme/
 download: https://github.com/caarlos0/up/archive/gh-pages.zip
+demo: https://jekyll-demos.github.io/up
 author: Carlos Alexandro Becker
 thumbnail: up.jpg
 license: MIT License
