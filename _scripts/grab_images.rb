@@ -1,4 +1,5 @@
-require_relative 'utils'
+require_relative 'lib/image_grabber'
+require_relative 'lib/utils'
 
 images = [
   ['https://jekyll-demos.github.io/Arcana-Jekyll-Theme', 'arcana.jpg'],
@@ -9,6 +10,6 @@ thumbails = Utils.find_or_create_folder('thumbnails')
 
 images.each do |(url, name)|
   path = File.expand_path(name, thumbails)
-  Utils.grab_image(path: path, url: url, width: 250, height: 200)
+  ImageGrabber.grab_image(path: path, url: url, width: 250, height: 200)
 end
 
