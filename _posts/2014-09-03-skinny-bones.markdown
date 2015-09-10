@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skinny Bones
-date: 2014-09-03 00:00:00
+date: 2014-09-03 04:00:00
 homepage: https://github.com/mmistakes/skinny-bones-jekyll
 download: https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip
 demo: http://mmistakes.github.io/skinny-bones-jekyll/
@@ -9,12 +9,14 @@ author: Michael Rose
 thumbnail: skinny-bones.gif
 license: MIT License
 license_link: https://github.com/mmistakes/skinny-bones-jekyll/blob/master/LICENSE
+github_repo: mmistakes/skinny-bones-jekyll
+stars: 287
 ---
 
 Just a little something to jump start your Jekyll powered site.
 Purposely kept minimal to make adding your own markup and flare easier.
 
----
+
 
 ### Notable Features
 
@@ -29,7 +31,7 @@ Purposely kept minimal to make adding your own markup and flare easier.
 
 Sass preprocessing and the use of Data Files require Jekyll 2.x
 
----
+
 
 <a href="http://mmistakes.github.io/skinny-bones-jekyll/"><img
 src="http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg"

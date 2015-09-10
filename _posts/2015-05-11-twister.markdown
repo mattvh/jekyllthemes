@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twister
-date: 2015-05-11 13:55:00
+date: 2015-05-11 16:55:00
 homepage: https://github.com/DigitalMindCH/twister
 download: http://digitalmind.ch/media/downloads/twister_theme.zip
 demo: http://digitalmind.ch/themes/twister-jekyll-theme/demo/
@@ -9,6 +9,8 @@ author: Digitalmind
 thumbnail: twister.jpg
 license: MIT License
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
+github_repo: DigitalMindCH/twister
+stars: 22
 ---
 
 ## Multimedia

@@ -9,6 +9,8 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal-v2.png
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
+github_repo: hmfaysal/Jekyll-HMFAYSAL-V2-Theme
+stars: 29
 ---
 
 HMFAYSAL V2 is a responsive, minimal theme for Jekyll, featuring big
@@ -20,7 +22,7 @@ theme features the following and more:
 * Responsive templates. Features an off-canvas menu in mobile browsers.
 * Gracefully degrading in older browsers. Compatible with Internet
   Explorer 8+ and all modern browsers.
-* Minimal embellishments --- content first.
+* Minimal embellishments  content first.
 * Large feature images for posts and pages.
 * Author sidebar to pimp your bio, photo[^2], and social media links.
 * Simple and clear permalink structure *(ie:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feeling Responsive
-date: 2015-03-02
+date: 2015-03-02 00:00:00
 homepage: https://github.com/Phlow/feeling-responsive
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: http://phlow.github.io/feeling-responsive/
@@ -9,6 +9,8 @@ author: Phlow – Moritz »mo.« Sauer
 thumbnail: feeling-responsive.jpg
 license: MIT License
 license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+github_repo: Phlow/feeling-responsive
+stars: 136
 ---
 
 ## 10 Reasons to Use *Feeling Responsive* Theme
@@ -25,13 +27,13 @@ license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
    *Feeling Responsive*
 10. Well-documented.
 
----
+
 
 <iframe width="100%" height="720"
 src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0"
 allowfullscreen=""></iframe>
 
----
+
 
 ![Feeling Responsive
 Screenshot](http://phlow.github.io/feeling-responsive/images/presentation-feeling-responsive.jpg)

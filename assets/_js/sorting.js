@@ -49,4 +49,10 @@ function latest() {
   });
 }
 
+function popularity() {
+  themes.sort(function(a, b){
+    return b.stars - a.stars;
+  });
+}
+
 sort('shuffle');

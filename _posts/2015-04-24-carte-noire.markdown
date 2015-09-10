@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carte Noire
-date: 2015-04-24 15:00:00
+date: 2015-04-24 19:00:00
 homepage: https://github.com/jacobtomlinson/carte-noire
 download: https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip
 demo: http://carte-noire.jacobtomlinson.co.uk/
@@ -9,6 +9,8 @@ author: Jacob Tomlinson
 thumbnail: carte-noire.png
 license: GNU General Public License Version 3
 license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
+github_repo: jacobtomlinson/carte-noire
+stars: 56
 ---
 
 ### About Carte Noire

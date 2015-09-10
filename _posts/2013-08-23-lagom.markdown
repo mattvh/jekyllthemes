@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lagom
-date: 2013-08-23 12:00:00
+date: 2013-08-23 20:00:00
 homepage: https://github.com/swanson/lagom
 download: https://github.com/swanson/lagom/archive/master.zip
 demo: http://lagom.mdswanson.com/
@@ -9,6 +9,8 @@ author: Matt Swanson
 thumbnail: lagom.png
 license: MIT License
 license_link: https://github.com/swanson/lagom/blob/master/LICENSE
+github_repo: swanson/lagom
+stars: 205
 ---
 
 Lagom, a [Jekyll][j] blog theme with just the right amount of style.

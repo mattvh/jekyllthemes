@@ -6,4 +6,5 @@ gem 'github-pages'
 
 group :development  do
   gem 'webshot'
+  gem 'octokit'
 end

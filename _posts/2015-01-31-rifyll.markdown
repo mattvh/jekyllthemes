@@ -9,6 +9,8 @@ author: Moinul
 thumbnail: rifyll.png
 license: MIT License
 license_link: https://github.com/itsrifat/rifyll/blob/master/LICENSE.md
+github_repo: itsrifat/rifyll
+stars: 9
 ---
 
 This is plain and simple blog template I made for my personal website,

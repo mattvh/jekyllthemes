@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guovz Pithy
-date: 2015-08-31 14:37:00
+date: 2015-08-31 16:37:00
 homepage: https://github.com/guovz/pithy
 download: https://github.com/guovz/pithy/archive/gh-pages.zip
 demo: http://www.guovz.com
@@ -9,6 +9,8 @@ author: Jaylin Wang
 thumbnail: guovz-pithy.png
 license: MIT License
 license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
+github_repo: guovz/pithy
+stars: 0
 ---
 
 ### Simple Jekyll Theme

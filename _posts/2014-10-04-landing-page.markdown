@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Landing Page
-date: 2014-10-04 00:00:00
+date: 2014-10-04 04:00:00
 homepage: https://github.com/swcool/landing-page-theme
 download: https://github.com/swcool/landing-page-theme/archive/master.zip
 demo: http://shaneweng.com/landing-page-theme/
@@ -9,6 +9,8 @@ author: Shane Weng
 thumbnail: landing-page.png
 license: Apache License Version 2.0
 license_link: http://www.apache.org/licenses/LICENSE-2.0.html
+github_repo: swcool/landing-page-theme
+stars: 85
 ---
 
 ## Landing Page

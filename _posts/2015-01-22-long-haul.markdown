@@ -9,6 +9,8 @@ author: Brian Maier Jr.
 thumbnail: long-haul.png
 license: MIT License
 license_link: https://github.com/brianmaierjr/long-haul/blob/master/LICENSE
+github_repo: brianmaierjr/long-haul
+stars: 100
 ---
 
 ## Long Haul

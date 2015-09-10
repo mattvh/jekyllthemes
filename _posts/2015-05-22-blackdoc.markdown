@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlackDoc
-date: 2015-05-22 04:59:00
+date: 2015-05-22 07:59:00
 homepage: https://github.com/karloespiritu/BlackDoc
 download: https://github.com/karloespiritu/BlackDoc/archive/master.zip
 demo: http://karloespiritu.com/blackdoc
@@ -9,6 +9,8 @@ author: Karlo Espiritu
 thumbnail: blackdoc.png
 license: MIT License
 license_link: https://github.com/karloespiritu/BlackDoc/blob/master/LICENSE.md
+github_repo: karloespiritu/BlackDoc
+stars: 11
 ---
 
 BlackDoc is a two-column black theme with a scrolling sidebar. It's

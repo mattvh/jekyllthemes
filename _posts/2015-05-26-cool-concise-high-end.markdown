@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cool Concise High-end
-date: 2015-05-26 08:20:00
+date: 2015-05-26 11:20:00
 homepage: https://github.com/Gaohaoyang/gaohaoyang.github.io
 download: https://github.com/Gaohaoyang/gaohaoyang.github.io/archive/v1.1.zip
 demo: http://gaohaoyang.github.io/
@@ -9,6 +9,8 @@ author: Gaohaoyang
 thumbnail: cool-concise-high-end.jpg
 license: MIT License
 license_link: https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md
+github_repo: Gaohaoyang/gaohaoyang.github.io
+stars: 146
 ---
 
 # Update
@@ -18,7 +20,7 @@ license_link: https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LIC
 * Fix bug of footer jumping
 * Add response interactive of demo page
 
----
+
 
 # Cool Jekyll Blog Theme
 
@@ -70,7 +72,7 @@ like this:
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();  
 
----
+
 
 Thank you.
 Here is my blog: [HyG](http://gaohaoyang.github.io)

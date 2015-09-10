@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimal Mistakes
-date: 2013-07-19 10:05:00
+date: 2013-07-19 19:05:00
 homepage: https://github.com/mmistakes/minimal-mistakes
 download: https://github.com/mmistakes/minimal-mistakes/archive/master.zip
 demo: http://mmistakes.github.io/minimal-mistakes/
@@ -9,6 +9,8 @@ author: Michael Rose
 thumbnail: minimal-mistakes.png
 license: MIT License
 license_link: https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+github_repo: mmistakes/minimal-mistakes
+stars: 572
 ---
 
 A minimal Jekyll theme that is all about:

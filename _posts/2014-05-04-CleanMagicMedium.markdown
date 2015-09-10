@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CleanMagicMedium
-date: 2014-05-04 12:00:00
+date: 2014-05-04 17:00:00
 homepage: https://github.com/SpaceG/CleanMagicMedium-Jekyll
 download: https://github.com/SpaceG/CleanMagicMedium-Jekyll/archive/master.zip
 demo: http://www.lucasgatsas.ch
@@ -9,6 +9,8 @@ author: Lucas Gatsas
 thumbnail: cleanmagicmedium.png
 license: Apache License Version 2.0
 license_link: https://github.com/SpaceG/CleanMagicMedium-Jekyll/blob/master/LICENSE
+github_repo: SpaceG/CleanMagicMedium-Jekyll
+stars: 12
 ---
 
 ### CleanMagicMedium

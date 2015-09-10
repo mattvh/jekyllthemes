@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimal
-date: 2015-08-20 00:00:00
+date: 2015-08-20 02:00:00
 homepage: https://github.com/orderedlist/minimal
 download: https://github.com/orderedlist/minimal/archive/master.zip
 demo: http://orderedlist.com/minimal/
@@ -9,4 +9,6 @@ author: Steve Smith
 thumbnail: minimal.jpg
 license: Creative Commons Attribution-ShareAlike 3.0 Unported License
 license_link: http://creativecommons.org/licenses/by-sa/3.0/
+github_repo: orderedlist/minimal
+stars: 756
 ---

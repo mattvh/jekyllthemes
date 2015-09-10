@@ -9,6 +9,8 @@ author: Phuse
 thumbnail: strange-case.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: thephuse/strange_case
+stars: 31
 ---
 
 Strange Case is a simple, clean and responsive theme for Jekyll.

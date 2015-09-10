@@ -9,6 +9,8 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal-omega.jpg
 license: MIT License
 license_link: http://www.hossainmohdfaysal.com/hmfaysal-omega-theme/license/
+github_repo: hmfaysal/hmfaysal-omega-theme
+stars: 207
 ---
 
 HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll
@@ -68,7 +70,7 @@ something in a certain way? Ping me on Twitter
 [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub
 Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
 
----
+
 
 ## Requests?
 
@@ -77,7 +79,7 @@ custom coding some elements, message me on Twitter
 [@hmfaysal](http://twitter.com/hmfaysal) or email me at
 [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
 
----
+
 
 ## License
 

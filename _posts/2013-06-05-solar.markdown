@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solar
-date: 2013-06-05 01:42:00
+date: 2013-06-05 10:42:00
 homepage: https://github.com/mattvh/solar-theme-jekyll
 download: https://github.com/mattvh/solar-theme-jekyll/archive/master.zip
 demo: http://mattvh.github.io/solar-theme-jekyll/
@@ -9,6 +9,8 @@ author: Matt Harzewski
 thumbnail: solar.png
 license: GNU General Public License Version 2 or higher
 license_link: https://github.com/mattvh/solar-theme-jekyll#license
+github_repo: mattvh/solar-theme-jekyll
+stars: 105
 ---
 
 A stylish theme for Jekyll blogs, based on the Solarized color palette.

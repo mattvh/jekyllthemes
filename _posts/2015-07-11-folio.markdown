@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "*folio"
-date: 2015-07-11 20:10:00
+title: *folio
+date: 2015-07-11 22:10:00
 homepage: https://github.com/bogoli/-folio
 download: https://github.com/bogoli/-folio/archive/master.zip
 demo: http://liabogoev.com/-folio/
@@ -9,6 +9,8 @@ author: Lia Bogoev
 thumbnail: folio.png
 license: MIT License
 license_link: https://github.com/bogoli/-folio/blob/master/README.md
+github_repo: bogoli/-folio
+stars: 5
 ---
 
 *folio is a clean, minimal, helvetica-based theme for showcasing your

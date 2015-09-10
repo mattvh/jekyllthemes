@@ -9,6 +9,8 @@ author: Ismail Demirbilek
 thumbnail: dbyll.png
 license: MIT License
 license_link: https://github.com/dbtek/dbyll/blob/master/LICENSE
+github_repo: dbtek/dbyll
+stars: 202
 ---
 
 Bootstrap based two-column, minimalistic theme for your jekyll powered

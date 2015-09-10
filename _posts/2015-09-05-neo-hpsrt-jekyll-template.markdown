@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neo-HPSTR Jekyll template
-date: 2015-09-05 12:00:00
+date: 2015-09-05 14:00:00
 homepage: http://github.com/aron-bordin/neo-hpstr-jekyll-theme
 download: http://github.com/aron-bordin/neo-hpstr-jekyll-theme/archive/master.zip
 demo: http://aron-bordin.github.io/neo-hpstr-jekyll-theme/
@@ -9,6 +9,8 @@ author: Aron Bordin
 thumbnail: neo-hpsrt-jekyll-template.png
 license: MIT License
 license_link: https://raw.githubusercontent.com/aron-bordin/neo-hpstr-jekyll-theme/master/LICENSE
+github_repo: aron-bordin/neo-hpstr-jekyll-theme
+stars: 0
 ---
 
 ### Neo-HPSTR Jekyll Template

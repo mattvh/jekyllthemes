@@ -1,7 +1,7 @@
 ---
 layout: post
 title: block-log
-date: 2014-05-17 00:00:00
+date: 2014-05-17 05:00:00
 homepage: https://github.com/anandubajith/block-log
 download: https://github.com/anandubajith/block-log/archive/master.zip
 demo: https://anandu.net/demo/block-log
@@ -9,6 +9,8 @@ author: Anandu B Ajith
 thumbnail: block-log.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: anandubajith/block-log
+stars: 9
 ---
 
 block-log is a minimalist, colorful, responsive and blocky Jekyll theme.

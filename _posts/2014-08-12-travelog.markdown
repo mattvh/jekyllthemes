@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travelog
-date: 2014-08-12 00:00:00
+date: 2014-08-12 04:00:00
 homepage: https://github.com/rowanoulton/travelog-theme
 download: https://github.com/rowanoulton/travelog-theme/archive/master.zip
 demo: https://jekyll-demos.github.io/travelog-theme
@@ -9,6 +9,8 @@ author: Rowan Oulton
 thumbnail: travelog.png
 license: MIT License
 license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
+github_repo: rowanoulton/travelog-theme
+stars: 52
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright

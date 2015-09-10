@@ -9,6 +9,8 @@ author: Ankan Biswas
 thumbnail: uno-dbyll.png
 license: MIT License
 license_link: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/LICENSE
+github_repo: talk2ankan/uno-dbyll
+stars: 6
 ---
 
 ### Uno-dbyll

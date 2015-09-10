@@ -9,6 +9,8 @@ author: Mahabub I.
 thumbnail: metaphor.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: prio101/metaphor-jekyll
+stars: 1
 ---
 
 **This is a simple type blog theme made with Jekyll**
@@ -24,6 +26,6 @@ license_link: http://opensource.org/licenses/MIT
 * Bootstrap Included
 
 
----
+
 
 This is Metaphor.

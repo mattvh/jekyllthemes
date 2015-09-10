@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Clean Dark
-date: 2015-07-26 19:07:11
+date: 2015-07-26 21:07:11
 homepage: https://github.com/streetturtle/jekyll-clean-dark
 download: https://github.com/streetturtle/jekyll-clean-dark/archive/gh-pages.zip
 demo: http://pavelmakhov.com/jekyll-clean-dark/
@@ -9,6 +9,8 @@ author: Pavel Makhov
 thumbnail: jekyll-clean-dark.png
 license: Creative Commons Attribution International 4.0 License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
+github_repo: streetturtle/jekyll-clean-dark
+stars: 0
 ---
 
 Cool dark theme which looks nice on a desktop and on mobile devices.

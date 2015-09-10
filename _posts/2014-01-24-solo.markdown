@@ -9,6 +9,8 @@ author: Shu Uesugi
 thumbnail: solo.png
 license: MIT License
 license_link: http://chibicode.mit-license.org/
+github_repo: chibicode/solo
+stars: 131
 ---
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports

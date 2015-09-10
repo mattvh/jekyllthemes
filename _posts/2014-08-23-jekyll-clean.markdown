@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Clean
-date: 2014-08-23 15:31:11
+date: 2014-08-23 19:31:11
 homepage: http://github.com/scotte/jekyll-clean
 download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: http://scotte.github.io/jekyll-clean
@@ -9,6 +9,8 @@ author: Scott Emmons
 thumbnail: jekyll-clean.png
 license: Creative Commons Attribution International 4.0 License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
+github_repo: scotte/jekyll-clean
+stars: 48
 ---
 
 A simple and clean Jekyll theme that's easy to modify and very modular

@@ -9,6 +9,8 @@ author: Takashi Kanemoto
 thumbnail: qcktheme.png
 license: MIT License
 license_link: https://github.com/qckanemoto/jekyll-qck-theme/blob/master/LICENSE
+github_repo: qckanemoto/jekyll-qck-theme
+stars: 5
 ---
 
 A simple and customizable theme for Jekyll.

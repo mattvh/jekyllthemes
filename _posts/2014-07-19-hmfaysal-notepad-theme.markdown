@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HMFAYSAL Notepad Theme
-date: 2014-07-19 00:31:50
+date: 2014-07-19 04:31:50
 homepage: https://github.com/hmfaysal/Notepad
 download: https://github.com/hmfaysal/Notepad/archive/gh-pages.zip
 demo: http://www.hossainmohdfaysal.com/Notepad/
@@ -9,6 +9,8 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal-notepad.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: hmfaysal/Notepad
+stars: 87
 ---
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful.

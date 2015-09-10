@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beautiful Jekyll
-date: 2015-08-20 00:00:00
+date: 2015-08-20 02:00:00
 homepage: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
 demo: http://deanattali.com/beautiful-jekyll/
@@ -9,6 +9,8 @@ author: Dean Attali
 thumbnail: beautiful-jekyll.png
 license: MIT License
 license_link: https://github.com/daattali/beautiful-jekyll/blob/master/LICENSE
+github_repo: daattali/beautiful-jekyll
+stars: 41
 ---
 
 ### Beautiful Jekyll theme

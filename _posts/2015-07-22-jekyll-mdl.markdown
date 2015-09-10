@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Jekyll Material Design Lite
-date: 2015-07-22 10:10:10
+date: 2015-07-22 12:10:10
 homepage: https://github.com/gdg-managua/jekyll-mdl
 download: https://github.com/gdg-managua/jekyll-mdl/releases
-demo: http://www.gdgmanagua.org/jekyll-mdl 
+demo: http://www.gdgmanagua.org/jekyll-mdl
 author: Google Developers Group Managua
 thumbnail: jekyll-mdl.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
+github_repo: gdg-managua/jekyll-mdl
+stars: 51
 ---
 
 > A Jekyll theme based in Google Material Design Lite library.

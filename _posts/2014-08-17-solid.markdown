@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solid
-date: 2014-08-17 12:00:00
+date: 2014-08-17 16:00:00
 homepage: https://github.com/st4ple/solid-jekyll
 download: https://github.com/st4ple/solid-jekyll/archive/master.zip
 demo: http://st4ple.github.io/solid-jekyll/
@@ -9,6 +9,8 @@ author: Oliver Stapleton
 thumbnail: solid.png
 license: Apache License Version 2.0
 license_link: http://opensource.org/licenses/Apache-2.0
+github_repo: st4ple/solid-jekyll
+stars: 125
 ---
 
 ### Solid

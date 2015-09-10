@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Freelancer
-date: 2014-07-24 00:00:00
+date: 2014-07-24 04:00:00
 homepage: https://github.com/jeromelachaud/freelancer-theme
 download: https://github.com/jeromelachaud/freelancer-theme/archive/master.zip
 demo: https://jeromelachaud.github.io/freelancer-theme
@@ -9,6 +9,8 @@ author: Jerome Lachaud
 thumbnail: freelancer.png
 license: Apache License Version 2.0
 license_link: https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE
+github_repo: jeromelachaud/freelancer-theme
+stars: 305
 ---
 
 ## Freelancer

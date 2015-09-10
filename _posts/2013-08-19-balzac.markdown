@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Balzac
-date: 2013-08-19 13:52:00
+date: 2013-08-19 21:52:00
 homepage: https://github.com/coletownsend/balzac-for-jekyll
 download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
 demo: http://gtat.me/balzac/
@@ -9,6 +9,8 @@ author: Cole Townsend
 thumbnail: balzac.jpg
 license: MIT License
 license_link: https://github.com/ColeTownsend/Balzac-for-Jekyll/blob/master/LICENSE
+github_repo: coletownsend/balzac-for-jekyll
+stars: 236
 ---
 
 This is built on [Semantic.gs](http://semantic.gs/) grid framework

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So Simple
-date: 2013-07-13 23:42:00
+date: 2013-07-14 08:42:00
 homepage: https://github.com/mmistakes/so-simple-theme
 download: https://github.com/mmistakes/so-simple-theme/archive/master.zip
 demo: http://mmistakes.github.io/so-simple-theme/
@@ -9,6 +9,8 @@ author: Michael Rose
 thumbnail: so-simple.png
 license: MIT License
 license_link: https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+github_repo: mmistakes/so-simple-theme
+stars: 526
 ---
 
 A simple and clean responsive Jekyll theme for words and photos.

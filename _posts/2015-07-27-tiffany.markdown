@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiffany
-date: 2015-07-27 01:03:00
+date: 2015-07-27 03:03:00
 homepage: https://github.com/dubuyuye/blog
 download: https://github.com/dubuyuye/blog/archive/gh-pages.zip
 demo: http://blog.rainynight.top/2015-03-12/spring-security/
@@ -9,6 +9,8 @@ author: RainyNight
 thumbnail: tiffany.png
 license: MIT License
 license_link: https://github.com/dubuyuye/blog/blob/gh-pages/LICENSE
+github_repo: dubuyuye/blog
+stars: 10
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

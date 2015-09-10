@@ -9,6 +9,8 @@ author: Gayan Virajith
 thumbnail: gaya.jpg
 license: MIT License
 license_link: https://github.com/gayanvirajith/gaya/blob/master/LICENSE.md
+github_repo: gayanvirajith/gaya
+stars: 41
 ---
 
 # Gaya Jekyll Theme
@@ -23,7 +25,7 @@ smartphones, tablets, desktops or even the large monitors.
 - SEO Friendly.
 - Embed image, YouTube/Vimeo video or SoundCloud audio to your post.
 
----
+
 
 ![Theme
 preview](http://gayan.me/thumbnails/gaya-jekyll-theme-preview-590x300.png

@@ -9,6 +9,8 @@ author: Eduardo Rubio
 thumbnail: compass.png
 license: MIT License
 license_link: https://github.com/excentris/compass/blob/master/LICENSE
+github_repo: excentris/compass
+stars: 37
 ---
 
 A simple and elegant personal landing page.

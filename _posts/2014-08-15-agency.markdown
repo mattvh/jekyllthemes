@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agency
-date: 2014-08-15 00:00:00
+date: 2014-08-15 04:00:00
 homepage: https://github.com/y7kim/agency-jekyll-theme
 download: https://github.com/y7kim/agency-jekyll-theme/archive/gh-pages.zip
 demo: https://y7kim.github.io/agency-jekyll-theme
@@ -9,6 +9,8 @@ author: Rick Kim
 thumbnail: agency.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/y7kim/agency-jekyll-theme/blob/gh-pages/LICENSE
+github_repo: y7kim/agency-jekyll-theme
+stars: 139
 ---
 
 ## Agency

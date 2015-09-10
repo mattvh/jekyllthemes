@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leap Day
-date: 2014-07-27 01:42:00
+date: 2014-07-27 05:42:00
 homepage: https://github.com/mattgraham/Leap-Day
 download: https://github.com/mattgraham/Leap-Day/archive/master.zip
 demo: http://madebygraham.com/leapday/
@@ -9,6 +9,8 @@ author: Matt Graham
 thumbnail: leap-day.png
 license: MIT License
 license_link: https://github.com/mattgraham/Leap-Day/blob/master/LICENCE
+github_repo: mattgraham/Leap-Day
+stars: 73
 ---
 
 Open source content for Leap Day theme. Theme was first designed /

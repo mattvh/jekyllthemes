@@ -9,6 +9,8 @@ author: Hossain Mohd Faysal
 thumbnail: hmfaysal.png
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-Theme/blob/master/LICENSE
+github_repo: hmfaysal/Jekyll-HMFAYSAL-Theme
+stars: 7
 ---
 
 A bold, minimal theme for Jekyll, perfect for bloggers. The theme

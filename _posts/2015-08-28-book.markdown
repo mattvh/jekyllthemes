@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book
-date: 2015-08-28 07:11:00
+date: 2015-08-28 09:11:00
 homepage: https://github.com/kkninjae/book/
 download: https://github.com/kkninjae/book/archive/master.zip
 demo: https://kkninjae.github.io/book
@@ -9,6 +9,8 @@ author: Lang Liu
 thumbnail: book.png
 license: MIT License
 license_link: https://github.com/kkninjae/book/blob/master/LICENSE
+github_repo: kkninjae/book
+stars: 2
 ---
 
 Book, a simple Jekyll theme.

@@ -9,6 +9,8 @@ author: Ian Camporez Brunelli
 thumbnail: thinny.png
 license: MIT License
 license_link: https://github.com/camporez/Thinny/blob/master/LICENSE
+github_repo: camporez/Thinny
+stars: 223
 ---
 
 [Thinny](https://github.com/camporez/Thinny) is a beautiful and simple

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean Blog
-date: 2014-09-27 15:09:00
+date: 2014-09-27 19:09:00
 homepage: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll
 download: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/archive/gh-pages.zip
 demo: http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/
@@ -9,6 +9,8 @@ author: Start Bootstrap
 thumbnail: clean-blog.png
 license: Apache License Version 2.0
 license_link: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE
+github_repo: IronSummitMedia/startbootstrap-clean-blog-jekyll
+stars: 345
 ---
 
 ## Clean Blog by [Start Bootstrap](http://startbootstrap.com)

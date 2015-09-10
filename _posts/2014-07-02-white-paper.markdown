@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White Paper
-date: 2014-07-02 00:00:00
+date: 2014-07-02 05:00:00
 homepage: https://github.com/vinitkumar/white-paper
 download: https://github.com/vinitkumar/white-paper/archive/v1.0.2.zip
 demo: http://vinitkumar.me/white-paper/
@@ -9,6 +9,8 @@ author: Vinit Kumar
 thumbnail: white-paper.png
 license: MIT License
 license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
+github_repo: vinitkumar/white-paper
+stars: 34
 ---
 
 White Paper is a jekyll theme for tech blogs. It is clean and simple

@@ -9,6 +9,8 @@ author: exaem
 thumbnail: simply-grey.png
 license: BSD License
 license_link: https://github.com/exaem/simplygrey-jekyll/blob/master/LICENSE
+github_repo: mondss/simplygrey-jekyll
+stars: 17
 ---
 
 A simple, easy to use and minimal grey theme for Jekyll. This theme is

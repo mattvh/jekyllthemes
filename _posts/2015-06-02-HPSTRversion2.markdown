@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HPSTR Version 2 - Vietnamese
-date: 2015-06-02 00:10:00
+date: 2015-06-02 03:10:00
 homepage: https://github.com/minhhuy150894/minhhuy150894.github.io
 download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/master.zip
 demo: http://minhhuy150894.github.io
@@ -9,6 +9,8 @@ author: David Ng (Nguyen Minh Huy) - Michael Rose
 thumbnail: hpstr-v2.png
 license: MIT License
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
+github_repo: minhhuy150894/minhhuy150894.github.io
+stars: 2
 ---
 
 ### OpenTheme

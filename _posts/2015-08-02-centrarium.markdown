@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Centrarium
-date: 2015-08-02 07:42:00
+date: 2015-08-02 09:42:00
 homepage: https://github.com/bencentra/centrarium
 download: https://github.com/bencentra/centrarium/archive/master.zip
 demo: http://bencentra.com/centrarium/
@@ -9,6 +9,8 @@ author: Ben Centra
 thumbnail: centrarium.png
 license: MIT License
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
+github_repo: bencentra/centrarium
+stars: 16
 ---
 
 ### Centrarium
