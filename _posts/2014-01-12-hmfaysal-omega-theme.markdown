@@ -70,7 +70,7 @@ something in a certain way? Ping me on Twitter
 [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub
 Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
 
-
+---
 
 ## Requests?
 
@@ -79,7 +79,7 @@ custom coding some elements, message me on Twitter
 [@hmfaysal](http://twitter.com/hmfaysal) or email me at
 [hmfaysal@alum.mit.edu](mailto:hmfaysal@alum.mit.edu)
 
-
+---
 
 ## License
 

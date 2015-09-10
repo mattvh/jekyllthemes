@@ -16,7 +16,7 @@ stars: 287
 Just a little something to jump start your Jekyll powered site.
 Purposely kept minimal to make adding your own markup and flare easier.
 
-
+---
 
 ### Notable Features
 
@@ -31,7 +31,7 @@ Purposely kept minimal to make adding your own markup and flare easier.
 
 Sass preprocessing and the use of Data Files require Jekyll 2.x
 
-
+---
 
 <a href="http://mmistakes.github.io/skinny-bones-jekyll/"><img
 src="http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg"

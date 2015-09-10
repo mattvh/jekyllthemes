@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '{ Personal }'
+title: "{ Personal }"
 date: 2015-07-05 07:11:18
 homepage: https://github.com/PanosSakkos/personal-jekyll-theme
 download: https://github.com/PanosSakkos/personal-jekyll-theme/archive/master.zip
@@ -252,11 +252,11 @@ file name "YYYY-MM-DD-title.markup". Also your file's content should
 start with a front matter this:
 
 ```
-
+---
 layout: post
 title: <Post's title>
 category: <Post's category>
-
+---
 ```
 
 After this header you can start writing your post using Markdown.

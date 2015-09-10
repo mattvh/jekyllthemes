@@ -25,7 +25,7 @@ stars: 1
 * Responsive
 * Bootstrap Included
 
-
+---
 
 
 This is Metaphor.

@@ -16,7 +16,7 @@ class Theme
   end
 
   def description
-  	@description ||= split_text[2..-1].join
+  	@description ||= split_text[2..-1].join('---')
   end
 
   def set(key, value)

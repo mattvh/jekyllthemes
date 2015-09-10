@@ -20,7 +20,7 @@ stars: 146
 * Fix bug of footer jumping
 * Add response interactive of demo page
 
-
+---
 
 # Cool Jekyll Blog Theme
 
@@ -72,7 +72,7 @@ like this:
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();  
 
-
+---
 
 Thank you.
 Here is my blog: [HyG](http://gaohaoyang.github.io)
