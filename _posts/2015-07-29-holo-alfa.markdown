@@ -8,7 +8,7 @@ thumbnail: holo-alfa.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: steinvc/holo-alfa
-stars: 7
+stars: 8
 ---
 
 Holo Alfa is a minimalist, mobile first Jekyll theme with focus on

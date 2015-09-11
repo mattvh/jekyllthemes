@@ -8,7 +8,7 @@ thumbnail: polar-bear.png
 license: MIT License
 license_link: https://github.com/diezcami/polar-bear-theme/blob/master/LICENSE
 github_repo: diezcami/polar-bear-theme
-stars: 19
+stars: 18
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

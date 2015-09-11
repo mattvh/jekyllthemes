@@ -8,7 +8,7 @@ thumbnail: beautiful-jekyll.png
 license: MIT License
 license_link: https://github.com/daattali/beautiful-jekyll/blob/master/LICENSE
 github_repo: daattali/beautiful-jekyll
-stars: 41
+stars: 43
 ---
 
 ### Beautiful Jekyll theme

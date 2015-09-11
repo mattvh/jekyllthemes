@@ -8,7 +8,7 @@ thumbnail: white-paper.png
 license: MIT License
 license_link: https://github.com/vinitkumar/white-paper/raw/master/LICENSE
 github_repo: vinitkumar/white-paper
-stars: 34
+stars: 35
 ---
 
 White Paper is a jekyll theme for tech blogs. It is clean and simple
