@@ -8,7 +8,7 @@ thumbnail: tufte-jekyll.png
 license: MIT License
 license_link: https://github.com/clayh53/tufte-jekyll/blob/master/LICENSE
 github_repo: clayh53/tufte-jekyll
-stars: 59
+stars: 61
 ---
 
 ### Tufte-Jekyll theme

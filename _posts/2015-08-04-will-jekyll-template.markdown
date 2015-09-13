@@ -8,7 +8,7 @@ thumbnail: will-jekyll-template.png
 license: MIT License
 license_link: https://github.com/willianjusten/will-jekyll-template/blob/master/LICENSE
 github_repo: willianjusten/will-jekyll-template
-stars: 32
+stars: 35
 ---
 
 ### Will Jekyll Template

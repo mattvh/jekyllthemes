@@ -8,7 +8,7 @@ thumbnail: kiko.png
 license: MIT License
 license_link: https://github.com/gfjaru/Kiko/blob/gh-pages/README.md
 github_repo: gfjaru/Kiko
-stars: 0
+stars: 1
 ---
 
 An open source minimal theme for Jekyll, ideal for blogging.

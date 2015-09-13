@@ -8,7 +8,7 @@ thumbnail: travelog.png
 license: MIT License
 license_link: https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE
 github_repo: rowanoulton/travelog-theme
-stars: 52
+stars: 53
 ---
 
 Travelog is a theme for Jekyll that is both elegant and downright
