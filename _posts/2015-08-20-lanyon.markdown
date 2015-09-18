@@ -8,5 +8,5 @@ thumbnail: lanyon.jpg
 license: MIT License
 license_link: https://github.com/poole/lanyon/blob/master/LICENSE.md
 github_repo: poole/lanyon
-stars: 1030
+stars: 1044
 ---

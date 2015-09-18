@@ -7,7 +7,7 @@ author: Motaquillah Maddane
 thumbnail: daktilo.jpg
 license: MIT License
 github_repo: kronik3r/daktilo
-stars: 6
+stars: 7
 ---
 
 Daktilo is a Jekyll theme with a minimal design inspired from typewriters.

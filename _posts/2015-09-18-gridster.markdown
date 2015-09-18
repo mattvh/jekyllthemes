@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Gridster
-date: 2015-09-18 11:15:00
 homepage: https://github.com/DigitalMindCH/gridster-jekyll-theme
 download: https://github.com/DigitalMindCH/gridster-jekyll-theme/archive/master.zip
 demo: http://digitalmind.ch/themes/gridster-jekyll-theme/demo/
@@ -9,6 +7,8 @@ author: Digitalmind
 thumbnail: gridster.jpg
 license: MIT License
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
+github_repo: DigitalMindCH/gridster-jekyll-theme
+stars: 0
 ---
 
 ## Multimedia

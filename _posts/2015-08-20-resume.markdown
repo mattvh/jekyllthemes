@@ -8,5 +8,5 @@ thumbnail: resume.jpg
 license: MIT License
 license_link: https://github.com/jglovier/resume-template/blob/gh-pages/LICENSE
 github_repo: jglovier/resume-template
-stars: 126
+stars: 127
 ---
