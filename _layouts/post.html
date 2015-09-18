@@ -41,6 +41,12 @@ layout: default
     {% endif %}
     </nav>
   </section>
+  <div class="chevrons">
+    <i class="glyphicon glyphicon-chevron-left"
+       onclick="previous('{{ page.title }}')"></i>
+    <i class="glyphicon glyphicon-chevron-right"
+       onclick="next('{{ page.title }}')"></i>
+  </div>
   <hr />
   <article>
     {{ content }}

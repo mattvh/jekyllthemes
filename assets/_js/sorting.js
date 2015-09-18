@@ -22,17 +22,17 @@ function sort(method) {
 }
 
 function saveOrder() {
-  var themeNames = themes.map(function(theme) { return theme.title; });
-  sessionStorage.setItem('order', JSON.stringify(themeNames));
+  var themeTitles = themes.map(function(theme) { return theme.title; });
+  sessionStorage.setItem('order', JSON.stringify(themeTitles));
 }
 
 function loadOrder() {
   var newOrder = [];
-  var themeNames = JSON.parse(sessionStorage.getItem('order'));
-  if(!themeNames) { shuffle(); return; }
+  var themeTitles = JSON.parse(sessionStorage.getItem('order'));
+  if(!themeTitles) { shuffle(); return; }
 
   themes.forEach(function(theme) {
-    newOrder[themeNames.indexOf(theme.title)] = theme;
+    newOrder[themeTitles.indexOf(theme.title)] = theme;
   });
 
   themes = newOrder;

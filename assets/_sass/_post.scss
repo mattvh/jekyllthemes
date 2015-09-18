@@ -16,6 +16,8 @@
   }
 
   h1 { margin: 0; }
+  article { font-size: 1.2em; }
+  img { max-width: 100%; }
 
   dt {
     float: left;
@@ -23,11 +25,11 @@
     padding-right: 5px;
   }
 
-  article {
-    font-size: 1.2em;
+  .chevrons {
+    font-size: 1.3em;
+    margin: 15px 0 -15px;
   }
-
-  img {
-    max-width: 100%;
-  }
+  .glyphicon-chevron-left,
+  .glyphicon-chevron-right { cursor: pointer; }
+  .glyphicon-chevron-right { float: right; }
 }
