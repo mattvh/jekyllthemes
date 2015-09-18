@@ -1,9 +1,6 @@
 var transparentImage = '{{ site.baseurl }}/assets/transparent.png';
 var indexList = document.getElementById('index-list');
-
-if(indexList) {
-  sort('shuffle');
-}
+if(indexList) { sort('loadOrder'); }
 
 function sort(method) {
   this[method]();
@@ -16,11 +13,29 @@ function sort(method) {
                       'data-echo="'+ themes[i].thumbnail +'">' +
                 '<div>' + themes[i].title + '</div>' +
               '</a>' +
-            '</li>'
+            '</li>';
   }
 
   indexList.innerHTML = html;
   echo.render();
+  saveOrder();
+}
+
+function saveOrder() {
+  var themeNames = themes.map(function(theme) { return theme.title; });
+  sessionStorage.setItem('order', JSON.stringify(themeNames));
+}
+
+function loadOrder() {
+  var newOrder = [];
+  var themeNames = JSON.parse(sessionStorage.getItem('order'));
+  if(!themeNames) { shuffle(); return; }
+
+  themes.forEach(function(theme) {
+    newOrder[themeNames.indexOf(theme.title)] = theme;
+  });
+
+  themes = newOrder;
 }
 
 function shuffle() {
