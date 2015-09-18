@@ -4,8 +4,8 @@ homepage: https://github.com/inded/Jekyll_modern-blog
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip
 demo: http://inded.github.io/Jekyll_modern-blog/
 author: Wferr
-thumbnail: modernblog.png
-license: GNU General Public License Version 3
+thumbnail: modern-blog.jpg
+license: GNU GPL license v3
 license_link: https://www.gnu.org/licenses/gpl-3.0.html
 github_repo: inded/Jekyll_modern-blog
 stars: 0
