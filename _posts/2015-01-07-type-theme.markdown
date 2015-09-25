@@ -8,7 +8,7 @@ thumbnail: type-theme.jpg
 license: MIT License
 license_link: https://github.com/rohanchandra/type-theme/blob/master/LICENSE
 github_repo: rohanchandra/type-theme
-stars: 143
+stars: 144
 ---
 
 Type Theme is a free and open-source Jekyll theme, that’s highly

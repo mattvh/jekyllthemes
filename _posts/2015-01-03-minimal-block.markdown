@@ -8,7 +8,7 @@ thumbnail: minimal-block.jpg
 license: MIT License
 license_link: https://github.com/drvy/minimal-block/blob/master/LICENSE.md
 github_repo: drvy/minimal-block
-stars: 14
+stars: 15
 ---
 
 Started out as a fork of Block-log but many changes were made so I'm

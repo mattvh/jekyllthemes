@@ -8,7 +8,7 @@ thumbnail: resumecards.jpg
 license: MIT License
 license_link: http://ellekasai.mit-license.org/
 github_repo: ellekasai/resumecards
-stars: 325
+stars: 328
 ---
 
 ResumeCards is a Jekyll based resume generator. It looks great on

@@ -8,7 +8,7 @@ thumbnail: landing-page.jpg
 license: Apache License Version 2.0
 license_link: http://www.apache.org/licenses/LICENSE-2.0.html
 github_repo: swcool/landing-page-theme
-stars: 86
+stars: 87
 ---
 
 ## Landing Page

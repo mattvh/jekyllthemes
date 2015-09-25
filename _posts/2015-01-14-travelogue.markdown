@@ -8,7 +8,7 @@ thumbnail: travelogue.jpg
 license: MIT License
 license_link: https://github.com/SalGnt/Travelogue/blob/master/LICENSE
 github_repo: SalGnt/Travelogue
-stars: 124
+stars: 125
 ---
 
 Travelogue is a minimal, single-column [Jekyll](http://jekyllrb.com/)

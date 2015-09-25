@@ -8,7 +8,7 @@ thumbnail: midnight.jpg
 license: MIT License
 license_link: https://github.com/mattgraham/midnight/blob/master/LICENCE
 github_repo: mattgraham/midnight
-stars: 84
+stars: 85
 ---
 
 Open source content for Midnight theme. Theme was first designed /

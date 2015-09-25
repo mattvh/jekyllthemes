@@ -8,7 +8,7 @@ thumbnail: kactus.jpg
 license: MIT License
 license_link: https://github.com/nickbalestra/kactus/blob/master/LICENSE
 github_repo: nickbalestra/kactus
-stars: 111
+stars: 117
 ---
 
 Kactus is a port of Cactus's default theme for Jekyll.

@@ -8,6 +8,7 @@ thumbnail: idk.jpg
 license: MIT
 license_link: https://github.com/UniFreak/unifreak.github.io/blob/master/LICENCE
 github_repo: UniFreak/unifreak.github.io
+stars: 0
 ---
 
 ### INTRO
