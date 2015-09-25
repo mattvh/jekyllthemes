@@ -1,14 +1,13 @@
 ---
-layout: post
 title: idk
-date: 2015-09-25 14:35:00
 homepage: https://github.com/UniFreak/unifreak.github.io
 download: https://codeload.github.com/UniFreak/unifreak.github.io/zip/master
 demo: https://unifreak.github.io
 author: FangHao
-thumbnail: idk.png
-license: MIT License
+thumbnail: idk.jpg
+license: MIT
 license_link: https://github.com/UniFreak/unifreak.github.io/blob/master/LICENCE
+github_repo: UniFreak/unifreak.github.io
 ---
 
 ### INTRO
@@ -29,8 +28,4 @@ Hope you like it :)
 
 ### YES, ELSE
 
-Thanks to [@Gaohaoyang's theme][gsTheme], I refered to it a lot when coding the theme
-
-
-[paginationJs]: http://paginationjs.com
-[gsTheme]: http://jekyllthemes.org/themes/cool-concise-high-end/
+Thanks to @Gaohaoyang's tiffany theme, I refered to it a lot when coding the theme
