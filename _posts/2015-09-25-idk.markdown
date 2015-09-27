@@ -21,7 +21,7 @@ If you wanna improve it, fork it.
 
 ### FEATURE
 
-Pagination per category/tag-ly, using pagination.js
+Pagination per category/tag-ly, using [pagination.js][paginationJs]
 
 Nothing else....
 
@@ -29,4 +29,8 @@ Hope you like it :)
 
 ### YES, ELSE
 
-Thanks to @Gaohaoyang's tiffany theme, I refered to it a lot when coding the theme
+Thanks to [@Gaohaoyang's theme][gsTheme], I refered to it a lot when coding the theme
+
+
+[paginationJs]: http://paginationjs.com
+[gsTheme]: http://jekyllthemes.org/themes/cool-concise-high-end/
