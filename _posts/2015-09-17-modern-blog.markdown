@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "ModernBlog"
-date:   2015-0917 01:01:00
+title: "ModernBlog"
+date: 2015-09-17 01:01:00
 homepage: https://github.com/inded/Jekyll_modern-blog
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip
 demo: http://inded.github.io/Jekyll_modern-blog/
 author: Wferr
-thumbnail: modern-blog.png
-license: GNU GPL license v3
+thumbnail: modernblog.png
+license: GNU General Public License Version 3
 license_link: https://www.gnu.org/licenses/gpl-3.0.html
 ---
+
 # Jekyll Modern Blog
 
 A Simple, Clean (a bit laggy) responsive modern blog for jekyll.
-
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
