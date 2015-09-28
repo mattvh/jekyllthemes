@@ -10,6 +10,7 @@ thumbnail: gridster.jpg
 license: MIT License
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
 ---
+
 ## Multimedia
 If we had to choose one word to describe Gridster that would be it. Gridster is a theme that focusses on multimedia. It contains different post types to create video posts, audio posts, image post or gallery posts with ease. We created a ton of Variables, that make customization super easy.
 
