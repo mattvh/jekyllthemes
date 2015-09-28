@@ -8,6 +8,7 @@ demo: http://knaman2609.github.io/clean/
 author: knaman2609
 thumbnail: clean.png
 license: MIT License
+license_link: http://opensource.org/licenses/MIT
 ---
 
 A simple clean theme for jekyll.
