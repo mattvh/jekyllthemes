@@ -8,6 +8,9 @@ Gemfile
 .bundle/
 vendor/bundle/
 
+# Node.js and NPM related.
+node_modules/
+
 # Other.
 *.orig
 *.core
@@ -23,7 +26,8 @@ vendor/bundle/
 Thumbs.db
 .DS_Store
 
-# IntelliJ IDEA
+# IntelliJ IDEA.
 .idea/
 
+# Project specific.
 _scripts/thumbnails/

@@ -32,7 +32,7 @@ The theme features:
 * Read time Calculator: Calculation of post read-time based on word
   count (Via Liquid Tags instead of a plugin)
 * Complex pagination script if you decide to turn pagination on
-* CSS3 transitions for better performance 
+* CSS3 transitions for better performance
 * Ability to turn of animations in _config.yml
 * Readable typography to make your words shine
 * Disqus comments if you choose to enable
@@ -57,8 +57,8 @@ The theme features:
 * Sitemap for search engines
 * Designed by an Electrical Engineer
 
-For a full list of features, visit [this
-link](http://hmfaysal.github.io/hmfaysal-omega-theme/theme-setup/about-hmfaysal-omega/)
+For a full list of features, visit
+[this link](http://hmfaysal.github.io/hmfaysal-omega-theme/theme-setup/about-hmfaysal-omega/)
 
 
 ## Questions?

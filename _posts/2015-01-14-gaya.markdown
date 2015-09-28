@@ -28,6 +28,3 @@ smartphones, tablets, desktops or even the large monitors.
 ![Theme
 preview](http://gayan.me/thumbnails/gaya-jekyll-theme-preview-590x300.png
 "Gaya jekyll theme")
-
-
-

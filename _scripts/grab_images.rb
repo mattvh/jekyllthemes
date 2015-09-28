@@ -2,8 +2,7 @@ require_relative 'lib/image_grabber'
 require_relative 'lib/utils'
 
 images = [
-  ['https://jekyll-demos.github.io/Arcana-Jekyll-Theme', 'arcana.jpg'],
-  ['https://jekyll-demos.github.io/Aviator-Jekyll-Theme', 'aviator.jpg']
+  ['https://volny.github.io/creative-theme-jekyll', 'creative-theme.jpg']
 ]
 
 thumbails = Utils.find_or_create_folder('thumbnails')

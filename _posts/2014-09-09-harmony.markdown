@@ -29,7 +29,6 @@ Harmony is a responsive jekyll theme.
 
 ![Blog article page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony.png "Blog article page")
 
-#### Blog archive page 
+#### Blog archive page
 
 ![Blog archive page](https://raw.githubusercontent.com/gayanvirajith/harmony/master/assets/css/images/harmony-blog-page.png "Blog archive page")
-

@@ -11,4 +11,7 @@ github_repo: dbtek/paper
 stars: 0
 ---
 
-Paper is a new theme for your  Jekyll blog utilising Material Design. Offering many theming customisations, Paper will serve you in the way you want it to. Visit [project page](https://github.com/dbtek/paper) for the details.
+Paper is a new theme for your Jekyll blog utilising Material Design.
+Offering many theming customisations, Paper will serve you in the way
+you want it to. Visit [project page](https://github.com/dbtek/paper)
+for the details.

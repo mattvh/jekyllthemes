@@ -34,6 +34,4 @@ if you want install Emerald in the root.
 
 ### License
 
-devAid is released under [CC BY 3.0
-License](https://creativecommons.org/licenses/by/3.0/).
-
+devAid is released under [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/).

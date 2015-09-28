@@ -53,7 +53,7 @@ like this:
     (function() {
       var hm = document.createElement("script");
       hm.src = "//hm.baidu.com/hm.js?**************************";
-      var s = document.getElementsByTagName("script")[0]; 
+      var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
 
@@ -68,7 +68,7 @@ like this:
             ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
             ds.charset = 'UTF-8';
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();  
+    })();
 
 ---
 

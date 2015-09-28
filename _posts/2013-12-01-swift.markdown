@@ -18,7 +18,6 @@ contents. It consists of fonts like 'Open Sans' and have inbuilt
 functionality for translation with Google Translate. Swift comes with
 inbuilt-integration in Google Analytics.
 
-
 ### Features
 - Share buttons: Twitter, FB , Google+
 - FeedBurner Integration
@@ -30,4 +29,3 @@ inbuilt-integration in Google Analytics.
 - bootstrap components
 - Font Awesome
 - Responsive
-

@@ -40,6 +40,4 @@ if you want install Emerald in the root.
 
 ### License
 
-Emerald is released under [MIT
-License](https://github.com/KingFelix/emerald/blob/master/license.md).
-
+Emerald is released under [MIT License](https://github.com/KingFelix/emerald/blob/master/license.md).

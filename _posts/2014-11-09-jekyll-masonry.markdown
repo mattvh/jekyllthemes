@@ -21,4 +21,3 @@ design.
 - Demo - [http://pasindud.github.io/](http://pasindud.github.io/)
 - What are you waiting for go [fork me on
   github!](https://github.com/pasindud/jekyll-masonry)
-

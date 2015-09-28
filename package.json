@@ -1,0 +1,17 @@
+{
+  "name": "themes.jekyllrc.org",
+  "version": "1.0.0",
+  "description": "Jekyll Research Center Themes laboratory",
+  "devDependencies": {
+    "phantomjs": "^1.9.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jekyllrc/jekyllthemes.git"
+  },
+  "author": "",
+  "license": "GNU General Public License Version 3",
+  "bugs": {
+    "url": "https://github.com/jekyllrc/jekyllthemes/issues"
+  }
+}

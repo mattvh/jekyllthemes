@@ -11,5 +11,4 @@ github_repo: mushishi78/one-page-wonder-jekyll
 stars: 9
 ---
 
-Port of [One Page
-Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+Port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).

@@ -10,18 +10,26 @@ license_link: https://github.com/jamesyu/jamesyu_jekyll_template/blob/master/LIC
 github_repo: jamesyu/jamesyu_jekyll_template
 stars: 33
 ---
-This is the Jekyll based blog template for my personal blog at [jamesyu.org](http://www.jamesyu.org/). You are free to use this template under the MIT license.
 
-The design is as minimal as possible so that the site would focus on the writing and my projects.
+This is the Jekyll based blog template for my personal blog at
+[jamesyu.org](http://www.jamesyu.org/). You are free to use this
+template under the MIT license.
 
-Usage
-=====
+The design is as minimal as possible so that the site would focus on
+the writing and my projects.
 
-I highly recommend reviewing [Paul Stamatiou's wonderful Jekyll tutorial](http://paulstamatiou.com/how-to-wordpress-to-jekyll) first to get oriented.
+## Usage
 
-You will need to install [Jekyll](https://github.com/mojombo/jekyll), [Sass](http://sass-lang.com/), and [RDiscount](https://github.com/rtomayko/rdiscount) to get everything working.
+I highly recommend reviewing
+[Paul Stamatiou's wonderful Jekyll tutorial](http://paulstamatiou.com/how-to-wordpress-to-jekyll)
+first to get oriented.
 
-To start Jekyll and Sass watching directories and regenerating files on the fly, simply run start.sh, and to stop, simply run stop.sh.
+You will need to install [Jekyll](https://github.com/mojombo/jekyll),
+[Sass](http://sass-lang.com/), and [RDiscount](https://github.com/rtomayko/rdiscount)
+to get everything working.
+
+To start Jekyll and Sass watching directories and regenerating files on
+the fly, simply run start.sh, and to stop, simply run stop.sh.
 
 To deploy:
 
@@ -33,9 +41,11 @@ To start a new post in Textmate:
 
 And that's it.
 
-Customizing
-===========
+## Customizing
 
-I replaced everything personal with placeholder text, so it should be easy to customize it to your needs. In the about.html and footer, you can optionally upload a photo of yourself.
+I replaced everything personal with placeholder text, so it should be
+easy to customize it to your needs. In the about.html and footer, you
+can optionally upload a photo of yourself.
 
-In about.html, you'll find slots of show off your projects and whatever else you'd like to display.
+In about.html, you'll find slots of show off your projects and whatever
+else you'd like to display.

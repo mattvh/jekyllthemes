@@ -33,7 +33,5 @@ Enjoy.
 ### Demo
 
 Single column, please see [my own blog](http://yulijia.net/en/)
-Two columns, please see the [theme
-http://i.imgur.com/yJmj72K.webm
-website](http://yulijia.net/freshman21/)
-
+Two columns, please see the
+[theme http://i.imgur.com/yJmj72K.webm website](http://yulijia.net/freshman21/)

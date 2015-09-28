@@ -34,4 +34,3 @@ In addition to the features of [Poole](http://getpoole.com) and
 * [BlackDoc Theme](http://karloespiritu.com/blackdoc)
 * I use this theme for the 'Code Cheatsheets' section of my website -
   [http://karloespiritu.com/cheatsheets](http://karloespiritu.com/cheatsheets)
-
