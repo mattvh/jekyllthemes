@@ -8,7 +8,7 @@ thumbnail: noita.jpg
 license: MIT License
 license_link: https://github.com/penibelst/jekyll-noita/blob/gh-pages/LICENSE
 github_repo: penibelst/jekyll-noita
-stars: 25
+stars: 26
 ---
 
 Noita is built with the responsive front-end framework

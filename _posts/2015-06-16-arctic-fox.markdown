@@ -8,7 +8,7 @@ thumbnail: arctic-fox.jpg
 license: MIT License
 license_link: https://github.com/diezcami/arctic-fox-theme/blob/master/LICENSE
 github_repo: diezcami/arctic-fox-theme
-stars: 17
+stars: 18
 ---
 
 An even more minimal theme for Jekyll, ideal for blogging.

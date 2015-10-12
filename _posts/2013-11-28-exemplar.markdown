@@ -8,7 +8,7 @@ thumbnail: exemplar.jpg
 license: MIT License
 license_link: https://github.com/tybenz/exemplar/blob/master/LICENSE.txt
 github_repo: tybenz/exemplar
-stars: 39
+stars: 40
 ---
 
 Exemplar is a clean and simple jekyll theme. It comes with some Rake

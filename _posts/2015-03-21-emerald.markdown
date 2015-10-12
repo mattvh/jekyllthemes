@@ -8,7 +8,7 @@ thumbnail: emerald.jpg
 license: MIT License
 license_link: https://github.com/KingFelix/emerald/blob/master/license.md
 github_repo: KingFelix/emerald
-stars: 48
+stars: 51
 ---
 
 ### About Emerald

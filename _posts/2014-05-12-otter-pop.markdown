@@ -8,7 +8,7 @@ thumbnail: otter-pop.jpg
 license: MIT License
 license_link: https://github.com/tybenz/otter-pop/blob/gh-pages/LICENSE.txt
 github_repo: tybenz/otter-pop
-stars: 10
+stars: 9
 ---
 
 Otter Pop is the world's greatest Jekyll theme.

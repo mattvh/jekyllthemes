@@ -7,5 +7,5 @@ author: Gerald Bauer
 thumbnail: drjekyll-bootstrap.jpg
 license: Public Domain
 github_repo: drjekyllthemes/jekyll-bootstrap-theme
-stars: 7
+stars: 9
 ---

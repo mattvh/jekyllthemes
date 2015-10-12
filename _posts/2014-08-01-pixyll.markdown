@@ -8,7 +8,7 @@ thumbnail: pixyll.jpg
 license: MIT License
 license_link: https://github.com/johnotander/pixyll/blob/master/LICENSE.txt
 github_repo: johnotander/pixyll
-stars: 660
+stars: 683
 ---
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content

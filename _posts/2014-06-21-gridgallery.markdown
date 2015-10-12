@@ -8,7 +8,7 @@ thumbnail: gridgallery.jpg
 license: WTF Public License
 license_link: http://www.wtfpl.net/txt/copying/
 github_repo: nadjetey/GridGallery
-stars: 21
+stars: 24
 ---
 
 ## GridGallery

@@ -8,7 +8,7 @@ thumbnail: folio.jpg
 license: MIT License
 license_link: https://github.com/bogoli/-folio/blob/master/README.md
 github_repo: bogoli/-folio
-stars: 6
+stars: 11
 ---
 
 *folio is a clean, minimal, helvetica-based theme for showcasing your

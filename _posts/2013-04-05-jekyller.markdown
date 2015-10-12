@@ -8,7 +8,7 @@ thumbnail: jekyller.jpg
 license: MIT License
 license_link: https://github.com/shower/jekyller/blob/gh-pages/LICENSE
 github_repo: shower/jekyller
-stars: 122
+stars: 124
 ---
 
 # Jekyller [![Build Status][build]][build-link]
