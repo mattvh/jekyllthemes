@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "dentistSmile"
-date:   2015-10-12 12:40:00
+title: dentistSmile
+date: 2015-10-12 12:40:00
 homepage: https://github.com/obaez/dentistsmile
 download: https://github.com/obaez/dentistsmile/archive/master.zip
 demo: http://obaez.com/dentistsmile/
