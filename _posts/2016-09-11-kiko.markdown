@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Kiko
-date:   2016-09-11 17:03:00
+title: Kiko
+date: 2016-09-11 17:03:00
 homepage: https://github.com/gfjaru/Kiko
 download: https://github.com/gfjaru/Kiko/releases
 demo: https://gfjaru.github.io/Kiko
