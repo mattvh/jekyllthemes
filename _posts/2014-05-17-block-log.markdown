@@ -11,4 +11,4 @@ license: MIT License
 license_link: http://opensource.org/licenses/MIT
 ---
 
-block-log is a minimalist ,colorful, responsive and blocky Jekyll theme.
+block-log is a minimalist, colorful, responsive and blocky Jekyll theme.
