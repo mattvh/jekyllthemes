@@ -8,5 +8,5 @@ thumbnail: jekyll-now.jpg
 license: MIT License
 license_link: https://github.com/barryclark/jekyll-now/blob/master/LICENSE
 github_repo: barryclark/jekyll-now
-stars: 1844
+stars: 1855
 ---

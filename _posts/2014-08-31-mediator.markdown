@@ -8,7 +8,7 @@ thumbnail: mediator.jpg
 license: MIT License
 license_link: https://github.com/dirkfabisch/mediator/blob/master/LICENCE
 github_repo: dirkfabisch/mediator
-stars: 304
+stars: 315
 ---
 
 A medium inspired Jekyll blog theme.

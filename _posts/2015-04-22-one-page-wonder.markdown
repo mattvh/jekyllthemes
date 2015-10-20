@@ -8,7 +8,7 @@ thumbnail: one-page-wonder.jpg
 license: MIT License
 license_link: https://github.com/mushishi78/one-page-wonder-jekyll/blob/gh-pages/LICENSE.txt
 github_repo: mushishi78/one-page-wonder-jekyll
-stars: 9
+stars: 10
 ---
 
 Port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
