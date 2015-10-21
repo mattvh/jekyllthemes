@@ -43,5 +43,6 @@ layout: compress
     </header>
     {{ content }}
     <script src="{{ '/assets/app.js' | prepend: site.baseurl }}"></script>
+    {% include piwik_analytics.html %}
   </body>
 </html>
