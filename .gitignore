@@ -2,7 +2,6 @@
 .sass-cache
 _site/
 Gemfile.lock
-Gemfile
 
 # Bundler related.
 .bundle/
