@@ -2,7 +2,7 @@
 title: Kiko
 homepage: https://github.com/gfjaru/Kiko
 download: https://github.com/gfjaru/Kiko/releases
-demo: https://gfjaru.github.io/Kiko
+demo: https://kiko.gfjaru.com
 author: gfjaru
 thumbnail: kiko.jpg
 license: MIT License
