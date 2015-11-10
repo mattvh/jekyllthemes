@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Sustain
-date: 2016-10-03 00:00:00
 homepage: https://github.com/biomadeira/sustain
 download: https://github.com/biomadeira/sustain/archive/gh-pages.zip
 demo: https://biomadeira.github.io/sustain/
@@ -9,6 +7,7 @@ author: biomadeira
 thumbnail: sustain.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: biomadeira/sustain
 ---
 
 A simple and elegant personal blog homepage.

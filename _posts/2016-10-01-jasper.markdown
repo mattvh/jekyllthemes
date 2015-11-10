@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Jasper
-date: 2016-10-01 00:00:00
 homepage: https://github.com/biomadeira/jasper
 download: https://github.com/biomadeira/jasper/archive/master.zip
 demo: https://biomadeira.github.io/jasper/
@@ -9,6 +7,7 @@ author: biomadeira
 thumbnail: jasper.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
+github_repo: biomadeira/jasper
 ---
 
 Jekyll-ready and full featured clone of Ghost's Casper theme.
