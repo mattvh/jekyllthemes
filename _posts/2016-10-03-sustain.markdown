@@ -8,6 +8,7 @@ thumbnail: sustain.png
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: biomadeira/sustain
+stars: 7
 ---
 
 A simple and elegant personal blog homepage.

@@ -8,5 +8,5 @@ thumbnail: estivo.jpg
 license: MIT License
 license_link: https://github.com/fffabs/estivo/blob/master/LICENSE
 github_repo: fffabs/estivo
-stars: 31
+stars: 34
 ---

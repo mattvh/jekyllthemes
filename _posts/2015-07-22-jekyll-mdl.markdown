@@ -8,7 +8,7 @@ thumbnail: jekyll-mdl.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE
 github_repo: gdg-managua/jekyll-mdl
-stars: 66
+stars: 77
 ---
 
 > A Jekyll theme based in Google Material Design Lite library.

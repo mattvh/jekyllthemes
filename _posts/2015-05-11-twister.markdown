@@ -8,7 +8,7 @@ thumbnail: twister.jpg
 license: MIT License
 license_link: https://github.com/DigitalMindCH/twister/blob/master/LICENSE.md
 github_repo: DigitalMindCH/twister
-stars: 25
+stars: 29
 ---
 
 ## Multimedia
