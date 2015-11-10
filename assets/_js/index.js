@@ -5,7 +5,7 @@ var themes = [
   {
     "title": "{{ theme.title }}",
     "date": "{{ theme.date }}",
-    "thumbnail": "{{ site.baseurl }}/thumbnails/{{ theme.thumbnail }}",
+    "thumbnail": "{{ site.cdn }}/thumbnails/{{ theme.thumbnail }}",
     "author": "{{ theme.author }}",
     "url": "{{ site.baseurl }}{{ theme.url }}",
     "stars": "{{ theme.stars }}",

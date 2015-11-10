@@ -13,4 +13,5 @@ Have a theme you want to share?
   YAML fields;
 - Make a 750x600 thumbnail and drop it in the thumbnails directory;
   List its filename in the post's markdown file;
-- Test it out, then push your changes up and open a pull request.
+- Test it out with the command `bundle exec jekyll serve --config _config-dev.yml`
+- When you're happy, push your changes up and open a pull request.
