@@ -8,7 +8,7 @@ thumbnail: jasper.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: biomadeira/jasper
-stars: 9
+stars: 14
 ---
 
 Jekyll-ready and full featured clone of Ghost's Casper theme.

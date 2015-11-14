@@ -8,7 +8,7 @@ thumbnail: jeykll-masonry.jpg
 license: MIT License
 license_link: https://github.com/pasindud/jekyll-masonry#license
 github_repo: pasindud/jekyll-masonry
-stars: 11
+stars: 12
 ---
 
 ### Jekyll Masonry

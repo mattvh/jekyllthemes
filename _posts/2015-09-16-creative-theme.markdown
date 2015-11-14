@@ -8,7 +8,7 @@ thumbnail: creative-theme.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/volny/creative-theme-jekyll/blob/master/LICENCE
 github_repo: volny/creative-theme-jekyll
-stars: 11
+stars: 12
 ---
 
 Creative is a one page Bootstrap theme for creatives, small businesses,

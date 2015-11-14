@@ -8,7 +8,7 @@ thumbnail: personal.jpg
 license: MIT License
 license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/LICENSE
 github_repo: PanosSakkos/personal-jekyll-theme
-stars: 57
+stars: 66
 ---
 ![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
 
