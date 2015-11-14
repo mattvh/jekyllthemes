@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Fengzhichu-Theme
-date: 2016-09-29 12:12:12
 homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/gh-pages
 download: https://github.com/fengzhichu/fengzhichu-theme.git
 demo: http://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
-thumbnail: fengzhichu-theme.png
+thumbnail: fengzhichu-theme.jpg
 license: MIT License
 license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
+github_repo: fengzhichu/fengzhichu-theme
 ---
 
 # Fengzhichu Theme
