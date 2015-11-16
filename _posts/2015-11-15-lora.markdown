@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Lora
-date: 2015-11-15 19:33:00
 homepage: https://github.com/nandomoreirame/lora
 download: https://github.com/nandomoreirame/lora/archive/master.zip
 demo: http://nandomoreira.me/lora/
 author: nandomoreira.me
-thumbnail: lora.png
+thumbnail: lora.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/lora/blob/master/LICENSE
+github_repo: nandomoreirame/lora
 ---
 
 ### Start in 4 steps
