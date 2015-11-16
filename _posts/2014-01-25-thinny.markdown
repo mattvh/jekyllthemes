@@ -8,7 +8,7 @@ thumbnail: thinny.jpg
 license: MIT License
 license_link: https://github.com/camporez/Thinny/blob/master/LICENSE
 github_repo: camporez/Thinny
-stars: 233
+stars: 234
 ---
 
 [Thinny](https://github.com/camporez/Thinny) is a beautiful and simple

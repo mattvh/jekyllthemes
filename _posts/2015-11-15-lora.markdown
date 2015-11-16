@@ -8,6 +8,7 @@ thumbnail: lora.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/lora/blob/master/LICENSE
 github_repo: nandomoreirame/lora
+stars: 0
 ---
 
 ### Start in 4 steps

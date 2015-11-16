@@ -8,7 +8,7 @@ thumbnail: solid.jpg
 license: Apache License Version 2.0
 license_link: http://opensource.org/licenses/Apache-2.0
 github_repo: st4ple/solid-jekyll
-stars: 140
+stars: 141
 ---
 
 ### Solid
