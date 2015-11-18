@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YAX-Coming-soon
-date: 2015-10-31 19:50:00
+date: 2015-11-18 19:50:00
 homepage: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template
 download: https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template/archive/v0.1-beta.zip
 demo: 
