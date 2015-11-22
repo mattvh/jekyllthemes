@@ -7,7 +7,7 @@ download: https://github.com/scotte/jekyll-clean/zipball/gh-pages
 demo: http://scotte.github.io/jekyll-clean
 author: Scott Emmons
 thumbnail: jekyll-clean.png
-license: Creative Commons Attribution International 4.0 License
+license: Creative Commons Attribution 4.0 International License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 ---
 

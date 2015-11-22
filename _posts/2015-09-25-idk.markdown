@@ -15,7 +15,8 @@ license_link: https://github.com/UniFreak/unifreak.github.io/blob/master/LICENCE
 
 Plan to start blogging, so designed this.
 
-My first design, the css code maybe messy, but I will improve it gradully.
+My first design, the css code maybe messy, but I will improve it
+gradully.
 
 If you wanna improve it, fork it.
 
@@ -29,8 +30,9 @@ Hope you like it :)
 
 ### YES, ELSE
 
-Thanks to [@Gaohaoyang's theme][gsTheme], I refered to it a lot when coding the theme
+Thanks to [@Gaohaoyang's theme][gsTheme], I refered to it a lot when
+coding the theme
 
 
-[paginationJs]: http://paginationjs.com
-[gsTheme]: http://jekyllthemes.org/themes/cool-concise-high-end/
+  [paginationJs]: http://paginationjs.com
+  [gsTheme]: http://jekyllthemes.org/themes/cool-concise-high-end/

@@ -16,4 +16,5 @@ license_link: https://github.com/vormwald/joon/blob/master/LICENSE
 Jekyll theme based on the Roon for [Ghost](http://github.com/tryghost/roon/).
 
 ## Demo
+
 View this jekyll theme in action [here](https://vormwald.github.io/joon)

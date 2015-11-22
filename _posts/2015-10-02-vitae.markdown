@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vitae
-date: 2016-10-03 00:00:00
+date: 2015-10-03 00:00:00
 homepage: https://github.com/biomadeira/vitae
 download: https://github.com/biomadeira/vitae/archive/gh-pages.zip
 demo: https://biomadeira.github.io/vitae/

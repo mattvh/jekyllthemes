@@ -11,4 +11,7 @@ license: MIT License
 license_link: https://github.com/dbtek/paper/blob/master/LICENSE
 ---
 
-Paper is a new theme for your  Jekyll blog utilising Material Design. Offering many theming customisations, Paper will serve you in the way you want it to. Visit [project page](https://github.com/dbtek/paper) for the details.
+Paper is a new theme for your  Jekyll blog utilising Material Design.
+Offering many theming customisations, Paper will serve you in the way
+you want it to. Visit [project page](https://github.com/dbtek/paper)
+for the details.
