@@ -7,7 +7,7 @@ download: https://github.com/yulijia/freshman21/archive/master.zip
 demo: http://yulijia.net/freshman21/
 author: Lijia Yu
 thumbnail: freshman21.png
-license:  MIT License 
+license: MIT License
 license_link: https://github.com/yulijia/freshman21/blob/master/LICENSE
 ---
 
@@ -33,7 +33,4 @@ Enjoy.
 ### Demo
 
 Single column, please see [my own blog](http://yulijia.net/en/)
-Two columns, please see the [theme
-http://i.imgur.com/yJmj72K.webm
-website](http://yulijia.net/freshman21/)
-
+Two columns, please see the [theme website](http://yulijia.net/freshman21/)

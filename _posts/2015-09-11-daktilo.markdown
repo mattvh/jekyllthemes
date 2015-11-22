@@ -11,7 +11,8 @@ license: MIT License
 license_link: http://opensource.org/licenses/MIT
 ---
 
-Daktilo is a Jekyll theme with a minimal design inspired from typewriters.
+Daktilo is a Jekyll theme with a minimal design inspired from
+typewriters.
 
 # Features
 - Fully responsive

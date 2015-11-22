@@ -6,7 +6,7 @@ homepage: https://github.com/minhhuy150894/minhhuy150894.github.io
 download: https://github.com/minhhuy150894/minhhuy150894.github.io/archive/master.zip
 demo: http://minhhuy150894.github.io
 author: David Ng (Nguyen Minh Huy) - Michael Rose
-thumbnail: hpstr-v2.png
+thumbnail: HPSTRversion2.png
 license: MIT License
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 ---

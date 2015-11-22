@@ -7,8 +7,11 @@ download: https://github.com/volny/creative-theme-jekyll/archive/master.zip
 demo: https://volny.github.io/creative-theme-jekyll
 author: start bootstrap, felix volny
 thumbnail: creative-theme.png
-license: apache license version 2.0
+license: Apache License Version 2.0
 license_link: https://github.com/volny/creative-theme-jekyll/blob/master/LICENCE
 ---
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses. The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project!
+Creative is a one page Bootstrap theme for creatives, small businesses,
+and other multipurpose uses. The theme includes a number of rich
+features and plugins that you can use as a great boilerplate for your
+next Jekyll project!

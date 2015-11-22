@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ModernBlo
+title: ModernBlog
 date: 2015-09-17 01:01:00
 homepage: https://github.com/inded/Jekyll_modern-blog
 download: https://github.com/inded/Jekyll_modern-blog/archive/gh-pages.zip
@@ -16,6 +16,7 @@ license_link: https://www.gnu.org/licenses/gpl-3.0.html
 A Simple, Clean (a bit laggy) responsive modern blog for jekyll.
 
 ## Attributions
+
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
 Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
@@ -23,6 +24,7 @@ Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
 Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+Created by Claudio Calautti for Codrops. Released under the
+[GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 Changes being that I made it jekyll ready and smushed the CSS together.
