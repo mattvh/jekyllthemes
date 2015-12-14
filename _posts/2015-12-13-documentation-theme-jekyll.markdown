@@ -6,7 +6,7 @@ homepage: http://idratherbewriting.com/documentation-theme-jekyll/mydoc/home.htm
 download: https://github.com/tomjohnson1492/documentation-theme-jekyll/archive/gh-pages.zip
 demo: http://idratherbewriting.com/documentation-theme-jekyll/mydoc/home.html
 author: tomjohnson1492
-thumbnail: docthemejekyll.png
+thumbnail: documentation-theme-jekyll.png
 license: MIT License
 license_link: https://github.com/tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
 ---
