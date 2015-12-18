@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fengzhichu-Theme
-date: 2015-09-29 12:12:12
-homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/gh-pages
+date: 2015-12-18 17:10:00
+homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/master
 download: https://github.com/fengzhichu/fengzhichu-theme.git
 demo: http://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
@@ -23,18 +23,20 @@ and change randomly.
 
 ## Screenshots
 
-![Home page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/gh-pages/img/Screenshot1.png)
-![Pst page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/gh-pages/img/Screenshot2.png)
-![Archive page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/gh-pages/img/Screenshot3.png)
-![Category page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/gh-pages/img/Screenshot4.png)
-![About page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/gh-pages/img/Screenshot5.png)
+![Home page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot1.png)
+![Pst page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot2.png)
+![Archive page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot3.png)
+![Category page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot4.png)
+![About page](https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot5.png)
 
 ## How to use it
 
-* Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme/tree/gh-pages#fork-destination-box).
+* Star & Fork the [repo](https://github.com/fengzhichu/fengzhichu-theme).
 * Rename repo as 'yourusername.github.io'.
+* You can delete gh-pages branch if you want.
+* Clone your <b>master branch</b> to local directory
 * Custom the '_config.yml' to your style.
-* run jekyll serve -w.
+* Run jekyll serve -w.
 
 ## Enjoy
 
