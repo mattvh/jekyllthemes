@@ -1,7 +1,7 @@
 ---
 layout: post
 title: dotX
-date: 2015-12-17 21:42:09
+date: 2015-12-21 21:42:09
 homepage: https://github.com/nandomoreirame/dotX
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
 demo: http://nandomoreira.me/dotX/
