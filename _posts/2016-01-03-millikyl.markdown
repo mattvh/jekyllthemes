@@ -6,7 +6,7 @@ homepage: https://github.com/fareez-ahamed/millikyl
 download: https://github.com/fareez-ahamed/millikyl/archive/master.zip
 demo: http://fareez-ahamed.github.io/millikyl/
 author: Fareez Ahamed
-thumbnail: 
+thumbnail: millikyl.png
 license: MIT License
 license_link: https://github.com/fareez-ahamed/millikyl/blob/master/LICENSE.TXT
 ---
