@@ -3,7 +3,7 @@ layout: post
 title: Fengzhichu-Theme
 date: 2015-12-18 17:10:00
 homepage: https://github.com/fengzhichu/fengzhichu-theme/tree/master
-download: https://github.com/fengzhichu/fengzhichu-theme.git
+download: https://github.com/fengzhichu/fengzhichu-theme/archive/master.zip
 demo: http://fengzhichu.com/fengzhichu-theme/
 author: 枫之楚 (@fengzhichu)
 thumbnail: fengzhichu-theme.png
