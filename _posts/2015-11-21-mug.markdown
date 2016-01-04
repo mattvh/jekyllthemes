@@ -26,7 +26,8 @@ Access, [localhost:4000/mug](http://localhost:4000/mug)
 
 ### Deploy in Github pages in 2 steps
 
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
+1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in
+  `Rakefile`
 2. Run `rake` or `rake publish` for build and publish on Github
 
 ---
@@ -51,6 +52,8 @@ Access, [localhost:4000/mug](http://localhost:4000/mug)
 
 It is under [the MIT license](/LICENSE).
 
-**Warning:** _Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`_
+**Warning:** _Please remove metas `<meta name="robots"
+content="noindex">` and `<meta name="googlebot" content="noindex">` in
+`_layouts/default.html`_
 
 Enjoy

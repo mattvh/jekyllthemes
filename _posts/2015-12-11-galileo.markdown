@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Galileo
-date: 2015-12-11 14:03
+date: 2015-12-11 14:03:00
 homepage: https://github.com/rowanoulton/galileo-theme
 download: https://github.com/rowanoulton/galileo-theme/archive/master.zip
 demo: http://travelog.io

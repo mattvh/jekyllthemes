@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation Theme for Jekyll
-date: 2015-12-13 12:55
+date: 2015-12-13 12:55:00
 homepage: http://idratherbewriting.com/documentation-theme-jekyll/mydoc/home.html
 download: https://github.com/tomjohnson1492/documentation-theme-jekyll/archive/gh-pages.zip
 demo: http://idratherbewriting.com/documentation-theme-jekyll/mydoc/home.html
