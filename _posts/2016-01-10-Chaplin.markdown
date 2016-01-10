@@ -6,7 +6,7 @@ homepage: https://github.com/bk2dcradle/Chaplin
 download: https://github.com/bk2dcradle/Chaplin/archive/master.zip
 demo: http://bk2dcradle.github.io/Chaplin
 author: Ankit Sultana
-thumbnail: Chaplin.jpg
+thumbnail: Chaplin.png
 license: MIT License
 license_link: https://github.com/bk2dcradle/Chaplin/blob/master/LICENSE
 ---
