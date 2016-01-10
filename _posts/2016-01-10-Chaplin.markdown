@@ -1,0 +1,13 @@
+---
+layout: post
+title: Chaplin 
+date: 2016-01-10 21:00:00
+homepage: https://github.com/bk2dcradle/Chaplin
+download: https://github.com/bk2dcradle/Chaplin/archive/master.zip
+demo: http://bk2dcradle.github.io/Chaplin
+author: Ankit Sultana
+thumbnail: Chaplin.jpg
+license: MIT License
+---
+
+Chaplin is an elegant single column theme for Jekyll. Check out the Demo website for Documentation.
