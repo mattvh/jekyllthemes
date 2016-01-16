@@ -6,9 +6,9 @@ homepage: https://github.com/joshgerdes/jekyll-uno
 download: https://github.com/joshgerdes/jekyll-uno/archive/master.zip
 demo: http://joshgerdes.com/jekyll-uno/
 author: Josh Gerdes
-thumbnail: jekyll-uno.png
+thumbnail: good-clean-read.png
 license: MIT License
-license_link: https://github.com/joshgerdes/jekyll-uno/blob/gh-pages/LICENSE
+license_link: https://github.com/chibicode/solo/blob/gh-pages/LICENSE
 ---
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost. Please visit the homepage for more details.
+Good Clean Read - A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
