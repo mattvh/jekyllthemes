@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Clean Rean
+title: Good Clean Read
 date: 2016-01-16 
 homepage: https://github.com/adueck/good-clean-read
 download: https://github.com/adueck/good-clean-read/archive/master.zip
