@@ -10,3 +10,4 @@ thumbnail: darkkimochi.png
 ---
 
 Simply dark flat theme for Jekyll, based on default theme :) Feel free to use
+
