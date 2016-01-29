@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ed
-date: 2016-01-24 10:00:00
+title: Busterni Jekyll theme
+date: 2016-01-29 10:00:00
 homepage: https://github.com/muhajirframe/busterni-jekyll-theme
 download: https://github.com/muhajirframe/busterni-jekyll-theme/archive/gh-pages.zip
 demo: http://muhajirframe.github.io/busterni-jekyll-theme
