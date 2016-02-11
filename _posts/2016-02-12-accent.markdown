@@ -10,5 +10,8 @@ license: MIT License
 license_link: https://github.com/bk2dcradle/accent/blob/gh-pages/LICENSE
 ---
 
-accent is a customizable theme, single column jekyll theme. You can change the accent color of the
-theme to any color you want. Instructions for this and installation are on the demo website itself.
+accent is a customizable, single column jekyll theme. 
+
+You can change the main color of the theme to any color you want. 
+
+Instructions for this and installation are on the demo website itself.
