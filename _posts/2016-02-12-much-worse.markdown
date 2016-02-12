@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Much-Worse Jekyll Theme for academic page and blog
-date: 2016-02-09 23:00:00
+date: 2016-02-12 22:00:00
 homepage: https://github.com/gchauras/much-worse-jekyll-theme
 download: https://github.com/gchauras/much-worse-jekyll-theme/archive/gh-pages.zip
 demo: http://gchauras.github.io/much-worse-jekyll-theme/
