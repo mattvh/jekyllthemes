@@ -6,7 +6,7 @@ homepage: https://github.com/arkadianriver/spectral
 download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: http://arkadianriver.github.io/spectral
 author: "HTML5 UP (@n33co)"
-thumbnail: spectralanimated.gif
+thumbnail: spectral.png
 license: Creative Commons Attribution 3.0
 license_link: http://html5up.net/license
 ---
