@@ -11,4 +11,5 @@ license: MIT License
 license_link: http://chibicode.mit-license.org/
 ---
 
-Good Clean Read - A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+Good Clean Read - A Jekyll template for publishing single-page websites
+and articles that are incredibly readable and fully responsive
