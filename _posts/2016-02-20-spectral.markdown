@@ -5,9 +5,9 @@ date: 2016-02-20 00:00:00
 homepage: https://github.com/arkadianriver/spectral
 download: https://github.com/arkadianriver/spectral/archive/master.zip
 demo: http://arkadianriver.github.io/spectral
-author: "HTML5 UP (@n33co)"
+author: HTML5 UP (html5up.net), @n33co
 thumbnail: spectral.png
-license: Creative Commons Attribution 3.0
+license: Creative Commons Attribution 3.0 Unported License
 license_link: http://html5up.net/license
 ---
 
@@ -19,5 +19,3 @@ HTML5 UP makes **spiffy HTML5 site templates** that are:
   use them for personal stuff, use them for commercial stuff,
   change them however you like.. just give **HTML5 UP** credit
   for the design and tell your friends about it :)
-
----
