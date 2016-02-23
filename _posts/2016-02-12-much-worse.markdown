@@ -8,7 +8,7 @@ demo: http://gchauras.github.io/much-worse-jekyll-theme/
 author: Gaurav Chaurasia
 thumbnail: much-worse-jekyll-theme.jpg
 license: MIT License
-license_link: http://chibicode.mit-license.org/
+license_link: https://opensource.org/licenses/MIT
 ---
 
 This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). I prefer large seriff fonts with minimal coloring and styling. Apart form the typography, color scheme and layout,
