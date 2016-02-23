@@ -11,4 +11,5 @@ license: MIT License
 license_link: https://github.com/elotroalex/ed/blob/master/LICENSE.md
 ---
 
-Ed is a Jekyll theme designed for editors interested in producing beautiful and durable digital editions of poetry, drama or narrative.
+Ed is a Jekyll theme designed for editors interested in producing
+beautiful and durable digital editions of poetry, drama or narrative.
