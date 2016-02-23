@@ -3,6 +3,7 @@ layout: post
 title: accent
 date: 2016-02-12 21:00:00
 homepage: https://github.com/bk2dcradle/accent
+download: https://github.com/bk2dcradle/accent/archive/gh-pages.zip
 demo: http://ankitsultana.me/accent
 author: Ankit Sultana
 thumbnail: accent.png
@@ -12,6 +13,7 @@ license_link: https://github.com/bk2dcradle/accent/blob/gh-pages/LICENSE
 
 accent is a customizable, single column theme for Jekyll.
 
-You can change the main color of the theme to any color you want. 
+You can change the main color of the theme to any color you want.
 
-Instructions for this and installation are on the [demo](http://ankitsultana.me/accent)  website itself.
+Instructions for this and installation are on the
+[demo](http://ankitsultana.me/accent)  website itself.
