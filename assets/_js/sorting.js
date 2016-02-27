@@ -7,6 +7,8 @@ function sort(method) {
   var html = '';
 
   for(var i = 0; i < themes.length; i++) {
+    if(!themes[i]) { continue; }
+
     html += '<li>' +
               '<a href="' + themes[i].url + '">' +
                 '<img src="' + transparentImage + '"' +
