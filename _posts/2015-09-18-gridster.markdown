@@ -8,7 +8,7 @@ thumbnail: gridster.jpg
 license: MIT License
 license_link: https://github.com/DigitalMindCH/gridster-jekyll-theme/blob/master/LICENCE
 github_repo: DigitalMindCH/gridster-jekyll-theme
-stars: 9
+stars: 24
 ---
 
 ## Multimedia

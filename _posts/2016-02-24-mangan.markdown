@@ -1,0 +1,14 @@
+---
+title: Mangan
+homepage: https://github.com/dikiaap/mangan
+download: https://github.com/dikiaap/mangan/archive/master.zip
+demo: https://blog.dikiaap.id
+author: Diki Andriansyah
+thumbnail: mangan.jpg
+license: MIT License
+license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
+github_repo: dikiaap/mangan
+stars: 7
+---
+
+A Light contrast of Jekyll theme. For GEEK! For All!

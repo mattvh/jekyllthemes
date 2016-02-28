@@ -8,5 +8,5 @@ thumbnail: alpha.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://github.com/CloudCannon/Alpha-Jekyll-Theme/blob/master/LICENSE.txt
 github_repo: CloudCannon/Alpha-Jekyll-Theme
-stars: 2
+stars: 6
 ---

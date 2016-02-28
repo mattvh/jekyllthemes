@@ -1,5 +1,4 @@
 ---
-layout: post
 title: hushaw
 homepage: https://github.com/jekyllrc/theme-hushaw
 download: https://github.com/jekyllrc/theme-hushaw/archive/gh-pages.zip

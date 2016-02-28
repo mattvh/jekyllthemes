@@ -8,7 +8,7 @@ thumbnail: hikari.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: mx3m/hikari-for-Jekyll
-stars: 135
+stars: 144
 ---
 
 Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect

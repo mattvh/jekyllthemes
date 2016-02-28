@@ -8,7 +8,7 @@ thumbnail: flex.jpg
 license: MIT License
 license_link: https://github.com/the-development/flex/blob/master/LICENSE
 github_repo: the-development/flex
-stars: 56
+stars: 65
 ---
 
 Flex is a minimal, responsive, two-column, theme for Jekyll with an

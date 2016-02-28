@@ -1,0 +1,12 @@
+---
+title: Galileo
+homepage: https://github.com/rowanoulton/galileo-theme
+download: https://github.com/rowanoulton/galileo-theme/archive/master.zip
+demo: http://travelog.io
+author: rowanoulton
+thumbnail: galileo.jpg
+license: MIT License
+license_link: https://github.com/rowanoulton/galileo-theme/blob/master/LICENSE
+github_repo: rowanoulton/galileo-theme
+stars: 21
+---

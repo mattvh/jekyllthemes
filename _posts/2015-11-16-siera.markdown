@@ -1,0 +1,12 @@
+---
+title: Siera
+homepage: https://github.com/KazumaSATO/Siera
+download: https://github.com/KazumaSATO/Siera/archive/master.zip
+demo: http://ranceworks.com/
+author: Kazuma SATO
+thumbnail: siera.jpg
+license: MIT License
+license_link: https://github.com/KazumaSATO/Siera/blob/master/LICENSE
+github_repo: KazumaSATO/Siera
+stars: 12
+---

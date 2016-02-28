@@ -8,7 +8,7 @@ thumbnail: solar.jpg
 license: GNU General Public License Version 2 or higher
 license_link: https://github.com/mattvh/solar-theme-jekyll#license
 github_repo: mattvh/solar-theme-jekyll
-stars: 114
+stars: 117
 ---
 
 A stylish theme for Jekyll blogs, based on the Solarized color palette.

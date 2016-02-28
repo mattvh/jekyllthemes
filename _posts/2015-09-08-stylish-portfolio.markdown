@@ -8,7 +8,7 @@ thumbnail: stylish-portfolio.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/volny/stylish-portfolio-jekyll/blob/master/LICENSE
 github_repo: volny/stylish-portfolio-jekyll
-stars: 17
+stars: 39
 ---
 
 Stylish Portfolio is a one page Bootstrap portfolio theme with off

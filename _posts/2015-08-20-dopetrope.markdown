@@ -8,5 +8,5 @@ thumbnail: dopetrope.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://github.com/CloudCannon/DopeTrope-Jekyll-Theme/blob/master/LICENSE.txt
 github_repo: CloudCannon/DopeTrope-Jekyll-Theme
-stars: 4
+stars: 9
 ---

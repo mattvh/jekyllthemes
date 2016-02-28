@@ -8,7 +8,7 @@ thumbnail: contrast.jpg
 license: MIT License
 license_link: https://github.com/niklasbuschmann/contrast/blob/gh-pages/LICENSE.md
 github_repo: niklasbuschmann/contrast
-stars: 22
+stars: 25
 ---
 
 Lightweight Jekyll theme

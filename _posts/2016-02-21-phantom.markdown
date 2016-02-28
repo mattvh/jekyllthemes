@@ -1,0 +1,12 @@
+---
+title: Phantom
+homepage: https://github.com/jamigibbs/phantom
+download: https://github.com/jamigibbs/phantom/archive/master.zip
+demo: http://jamigibbs.com
+author: Jami Gibbs
+thumbnail: phantom.jpg
+license: MIT License
+license_link: https://github.com/jamigibbs/phantom/blob/master/LICENSE
+github_repo: jamigibbs/phantom
+stars: 6
+---

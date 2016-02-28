@@ -8,7 +8,7 @@ thumbnail: jekyll-clean-dark.jpg
 license: Creative Commons Attribution International 4.0 License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 github_repo: streetturtle/jekyll-clean-dark
-stars: 4
+stars: 21
 ---
 
 Cool dark theme which looks nice on a desktop and on mobile devices.

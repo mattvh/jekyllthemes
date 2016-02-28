@@ -1,0 +1,12 @@
+---
+title: Library
+homepage: https://github.com/alexcarpenter/library-jekyll-theme
+download: https://github.com/alexcarpenter/library-jekyll-theme/archive/gh-pages.zip
+demo: http://alexcarpenter.me/library-jekyll-theme/
+author: Alex Carpenter
+thumbnail: library.jpg
+license: MIT License
+license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
+github_repo: alexcarpenter/library-jekyll-theme
+stars: 13
+---
