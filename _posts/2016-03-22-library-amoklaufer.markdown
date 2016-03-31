@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Library
-date: 2014-12-16 12:00:00
+title: Library Amokläufer
+date: 2016-03-22 00:00:00
 homepage: https://github.com/SpaceG/library
 download: https://github.com/SpaceG/library/archive/master.zip
 demo: http://lucasgatsas.ch
 author: Lucas Gatsas
-thumbnail: ice-and-fire.png
-license: Apache License Version 2.0
+thumbnail: library-amoklaufer.png
+license: MIT License
 license_link: https://github.com/SpaceG/library/blob/master/LICENSE
 ---
 
@@ -20,7 +20,7 @@ height="30px"></iframe>
 
 
 The [Theme Demo of Library Jekyll
-Theme](https://github.com/SpaceG/glas) show the main Theme. Feel
+Theme](https://github.com/SpaceG/library) show the main Theme. Feel
 free to Fork, Star it and make a New Version of it. it have a infinte
 Scroll. All my Themes are Infite Scrolling!
 
@@ -32,7 +32,7 @@ allowtransparency="true" frameborder="0" scrolling="0" width="156px"
 height="30px"></iframe>
 
 Start by [forking the
-repository](https://github.com/spaceg/glas/fork).
+repository](https://github.com/spaceg/library/fork).
 
 ### Contact
 

@@ -11,4 +11,5 @@ license: MIT License
 license_link: https://github.com/siawyoung/immaculate/blob/master/LICENSE
 ---
 
-Immaculate is a beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+Immaculate is a beautiful, fast, AMP-compliant Jekyll theme based on
+Tufte CSS.

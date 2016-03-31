@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feeling Responsive
-date: 2015-03-02
+date: 2015-03-02 00:00:00
 homepage: https://github.com/Phlow/feeling-responsive
 download: https://github.com/Phlow/feeling-responsive/archive/gh-pages.zip
 demo: http://phlow.github.io/feeling-responsive/
