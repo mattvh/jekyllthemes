@@ -1,34 +1,38 @@
 ---
 layout: post
-title: CleanMagicMedium
-date: 2014-05-04 12:00:00
-homepage: https://github.com/SpaceG/CleanMagicMedium-Jekyll
-download: https://github.com/SpaceG/CleanMagicMedium-Jekyll/archive/master.zip
-demo: http://www.lucasgatsas.ch
+title: Library
+date: 2014-12-16 12:00:00
+homepage: https://github.com/SpaceG/library
+download: https://github.com/SpaceG/library/archive/master.zip
+demo: http://lucasgatsas.ch
 author: Lucas Gatsas
-thumbnail: cleanmagicmedium.png
+thumbnail: ice-and-fire.png
 license: Apache License Version 2.0
-license_link: https://github.com/SpaceG/CleanMagicMedium-Jekyll/blob/master/LICENSE
+license_link: https://github.com/SpaceG/library/blob/master/LICENSE
 ---
 
-### CleanMagicMedium
+### Library Jekyll theme
 
 <iframe
-src="//ghbtns.com/github-btn.html?user=SpaceG&repo=CleanMagicMedium-Jekyll&type=watch&count=true&size=small"
+src="//ghbtns.com/github-btn.html?user=SpaceG&repo=library&type=watch&count=true&size=small"
 allowtransparency="true" frameborder="0" scrolling="0" width="160px"
 height="30px"></iframe>
 
-The [Theme Demo Site](https://lucasgatsas.ch)
+
+The [Theme Demo of Library Jekyll
+Theme](https://github.com/SpaceG/glas) show the main Theme. Feel
+free to Fork, Star it and make a New Version of it. it have a infinte
+Scroll. All my Themes are Infite Scrolling!
 
 ### Contribute
 
 <iframe
-src="//ghbtns.com/github-btn.html?user=SpaceG&repo=CleanMagicMedium-Jekyll&type=fork&count=true&size=small"
+src="//ghbtns.com/github-btn.html?user=SpaceG&repo=library&type=fork&count=true&size=small"
 allowtransparency="true" frameborder="0" scrolling="0" width="156px"
 height="30px"></iframe>
 
 Start by [forking the
-repository](https://github.com/SpaceG/CleanMagicMedium-Jekyll/fork).
+repository](https://github.com/spaceg/glas/fork).
 
 ### Contact
 
@@ -39,5 +43,5 @@ height="30px"></iframe>
 
 If you have any questions or suggestions for improvements, don't
 hesitate to [open an
-issue](https://github.com/SpaceG/CleanMagicMedium-Jekyll/issues) or
-making a pull request for your fork!
+issue](https://github.com/SpaceG/library/issues) or making a pull
+request for your fork!
