@@ -11,7 +11,6 @@ license: MIT License
 license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
 ---
 
-
 **[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
 ## Features
@@ -35,4 +34,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the
+[Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more
+information.
