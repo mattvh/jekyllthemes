@@ -20,7 +20,7 @@ This project forked and has been modified from ["**A simple grey theme for Jekyl
 * Sitemap and XML Feed
 * Paginations in homepage
 * Posts under category
-* Realtime Search Posts (description) under query.
+* Realtime Search Posts (title & description) under query.
 * Related Posts
 * Highlight pre
 * Next & Previous Post
