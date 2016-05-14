@@ -6,8 +6,8 @@ homepage: https://github.com/gjuniioor/darcli
 download: https://github.com/gjuniioor/darcli/archive/master.zip
 demo: https://gjuniioor.github.io/darcli/
 author: Gildásio Júnior aka gjuniioor
-thumbnail: darcli.png
-license: GPL3
+thumbnail: darcli.jpg
+license: GNU General Public License Version 3
 license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/assets/LICENSE
 ---
 
