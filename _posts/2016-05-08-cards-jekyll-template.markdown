@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic
+title: Cards
 date: 2016-05-08 21:40:00
 homepage: https://github.com/willianjusten/cards-jekyll-template
 download: https://github.com/willianjusten/cards-jekyll-template/archive/master.zip
