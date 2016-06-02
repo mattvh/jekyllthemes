@@ -1,0 +1,14 @@
+---
+layout: post
+title: TchTheme
+date: 2015-01-24 00:00:00
+homepage: https://github.com/ttskch/jekyll-tch-theme
+download: https://github.com/ttskch/jekyll-tch-theme/archive/master.zip
+demo: http://ttskch.github.io/jekyll-tch-theme/
+author: Takashi Kanemoto
+thumbnail: tch-theme.png
+license: MIT License
+license_link: https://github.com/ttskch/jekyll-tch-theme/blob/master/LICENSE
+---
+
+A simple and customizable theme for Jekyll.
