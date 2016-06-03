@@ -8,6 +8,7 @@ author: Nina Petropoulos
 thumbnail: Artist_Theme_Preview.png
 license: MIT License
 license_link: https://github.com/ninapetrop/Artist-Theme/blob/master/license.txt
+demo: http://ninapetrop.github.io/Artist-Theme
 ---
 
 Fully responsive. Sass files let you easily customize primary and accent colors. Built in support for sorting posts by category.
