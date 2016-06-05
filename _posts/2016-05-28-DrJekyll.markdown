@@ -3,7 +3,7 @@ layout: post
 title: Dr. Jekyll
 date: 2016-05-29 11:40:00
 homepage: https://github.com/tyler-abbot/DrJekyll
-download:https://github.com/tyler-abbot/DrJekyll/archive/master.zip
+download: https://github.com/tyler-abbot/DrJekyll/archive/master.zip
 demo: http://tyler-abbot.github.io/DrJekyll/
 author: Tyler Abbot
 thumbnail: DrJekyllThumb.png
