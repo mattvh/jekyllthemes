@@ -3,7 +3,7 @@ layout: post
 title: Ink
 date: 2016-06-08 10:45:00
 homepage: https://github.com/thinker3197/ink
-download: https://raw.githubusercontent.com/thinker3197/jekyllthemes/master/_posts/2013-06-01-scribble.markdown
+download: https://github.com/thinker3197/ink/archive/master.zip
 demo: http://thinker3197.github.io/ink
 author: Ashish Gupta
 thumbnail: ink.png
