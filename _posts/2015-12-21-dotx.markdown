@@ -4,7 +4,7 @@ title: dotX
 date: 2015-12-21 21:42:09
 homepage: https://github.com/nandomoreirame/dotX
 download: https://github.com/nandomoreirame/dotX/archive/master.zip
-demo: http://nandomoreira.me/dotX/
+demo: https://github.nandomoreira.me/dotX/
 author: nandomoreira.me
 thumbnail: dotx.png
 license: MIT License
@@ -35,7 +35,7 @@ Access, [localhost:4000/dotX](http://localhost:4000/dotX)
 
 ### Demo and Download
 
-[Demo](http://nandomoreira.me/dotX/)
+[Demo](https://github.nandomoreira.me/dotX/)
 [Download](https://github.com/nandomoreirame/dotX/archive/master.zip)
 
 ![dotx - free Jekyll theme](http://raw.githubusercontent.com/nandomoreirame/dotX/master/screenshot.png)
