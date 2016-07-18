@@ -1,0 +1,20 @@
+---
+title: Labrador
+homepage: https://github.com/donini/labrador-jekyll-theme/
+download: https://github.com/donini/labrador-jekyll-theme/archive/master.zip
+demo: https://donini.me
+author: Rodrigo Donini
+thumbnail: labrador-jekyll-theme-thumb.jpg
+license: MIT License
+license_link: https://github.com/donini/labrador-jekyll-theme/blob/master/LICENSE.md
+github_repo: donini/labrador-jekyll-theme
+stars: 7
+---
+
+This theme was built to present a little bit about of some professional profile to meet the needs of donini.me.
+
+## Features
+- Single page
+- Blog (optional)
+- Multilanguage (with json file)
+- Social links (with json file)
