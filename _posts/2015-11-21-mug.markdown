@@ -8,7 +8,7 @@ thumbnail: mug.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/mug/blob/master/LICENSE
 github_repo: nandomoreirame/mug
-stars: 16
+stars: 24
 ---
 
 **This theme requires ruby and rubygems installed**

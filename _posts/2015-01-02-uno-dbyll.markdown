@@ -8,7 +8,7 @@ thumbnail: uno-dbyll.jpg
 license: MIT License
 license_link: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/LICENSE
 github_repo: talk2ankan/uno-dbyll
-stars: 10
+stars: 17
 ---
 
 ### Uno-dbyll

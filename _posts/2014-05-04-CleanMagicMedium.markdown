@@ -8,7 +8,7 @@ thumbnail: cleanmagicmedium.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/SpaceG/CleanMagicMedium-Jekyll/blob/master/LICENSE
 github_repo: SpaceG/CleanMagicMedium-Jekyll
-stars: 17
+stars: 25
 ---
 
 ### CleanMagicMedium

@@ -8,7 +8,7 @@ thumbnail: jekyll-plus-materialize.jpg
 license: MIT License
 license_link: https://github.com/enterthecrucible/materialized_jekyll_theme/blob/master/LISCENSE.md
 github_repo: enterthecrucible/materialized_jekyll_theme
-stars: 2
+stars: 6
 ---
 
 A Jekyll theme that uses [Materialize.css](http://www.materializecss.com)

@@ -8,7 +8,7 @@ thumbnail: harmony.jpg
 license: MIT License
 license_link: https://github.com/gayanvirajith/harmony/blob/master/LICENSE.md
 github_repo: gayanvirajith/harmony
-stars: 140
+stars: 176
 ---
 
 Harmony is a responsive jekyll theme.

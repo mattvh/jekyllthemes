@@ -8,7 +8,7 @@ thumbnail: redcup.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: http://creativecommons.org/licenses/by/3.0/deed.en_US
 github_repo: nadjetey/redcup
-stars: 18
+stars: 20
 ---
 
 [Rasmus Andersson's](http://rsms.me/) blog made ready for use with a

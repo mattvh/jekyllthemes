@@ -8,7 +8,7 @@ thumbnail: amsf.jpg
 license: MIT License
 license_link: https://github.com/sparanoid/almace-scaffolding/blob/master/LICENSE
 github_repo: sparanoid/almace-scaffolding
-stars: 78
+stars: 99
 ---
 
 AMSF, a.k.a. Almace Scaffolding, a super-fast Jekyll framework, LESS

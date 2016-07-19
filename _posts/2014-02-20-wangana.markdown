@@ -8,7 +8,7 @@ thumbnail: wangana.jpg
 license: MIT License
 license_link: https://github.com/nadjetey/wangana/blob/master/LICENSE
 github_repo: nadjetey/wangana
-stars: 40
+stars: 42
 ---
 
 ## Wangana

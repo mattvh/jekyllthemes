@@ -8,7 +8,7 @@ thumbnail: skinny-bones.gif
 license: MIT License
 license_link: https://github.com/mmistakes/skinny-bones-jekyll/blob/master/LICENSE
 github_repo: mmistakes/skinny-bones-jekyll
-stars: 367
+stars: 434
 ---
 
 Just a little something to jump start your Jekyll powered site.

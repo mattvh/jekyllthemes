@@ -8,7 +8,7 @@ thumbnail: hekyll.jpg
 license: MIT License
 license_link: https://github.com/bmcmurray/hekyll/blob/master/LICENSE
 github_repo: bmcmurray/hekyll
-stars: 221
+stars: 229
 ---
 
 # Hekyll

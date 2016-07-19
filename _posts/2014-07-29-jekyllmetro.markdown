@@ -8,7 +8,7 @@ thumbnail: jekyll-metro.jpg
 license: MIT License
 license_link: https://github.com/olakara/JekyllMetro/blob/master/LICENSE.md
 github_repo: olakara/JekyllMetro
-stars: 30
+stars: 33
 ---
 
 jekyll metro is a Jekyll theme, inspired by Microsoft's Metro design

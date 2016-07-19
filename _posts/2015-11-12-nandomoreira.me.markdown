@@ -8,5 +8,5 @@ thumbnail: nandomoreira.me.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/nandomoreira-jekyll-theme/blob/master/LICENSE
 github_repo: nandomoreirame/nandomoreira-jekyll-theme
-stars: 25
+stars: 37
 ---

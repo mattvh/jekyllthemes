@@ -8,7 +8,7 @@ thumbnail: devaid.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: https://creativecommons.org/licenses/by/3.0/
 github_repo: kevit/devaid-jekyll-theme
-stars: 25
+stars: 26
 ---
 
 ### About devAid

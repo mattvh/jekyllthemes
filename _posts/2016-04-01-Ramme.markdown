@@ -8,7 +8,7 @@ thumbnail: ramme.png
 license: MIT License
 license_link: https://github.com/TaylanTatli/Ramme/blob/gh-pages/LICENSE
 github_repo: TaylanTatli/Ramme
-stars: 0
+stars: 11
 ---
 
 Just a simple Jekyll theme.

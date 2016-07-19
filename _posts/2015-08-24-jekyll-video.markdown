@@ -8,7 +8,7 @@ thumbnail: jekyll-video.jpg
 license: MIT License
 license_link: https://github.com/mushishi78/jekyll-video/blob/gh-pages/LICENSE
 github_repo: mushishi78/jekyll-video
-stars: 2
+stars: 4
 ---
 
 A video blog.

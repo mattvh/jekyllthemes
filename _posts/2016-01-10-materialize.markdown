@@ -8,5 +8,5 @@ thumbnail: materialize.jpg
 license: MIT License
 license_link: https://github.com/alexcarpenter/material-jekyll-theme/blob/gh-pages/LICENSE
 github_repo: alexcarpenter/material-jekyll-theme
-stars: 45
+stars: 68
 ---

@@ -8,5 +8,5 @@ thumbnail: hyde.jpg
 license: MIT License
 license_link: https://github.com/poole/hyde/blob/master/LICENSE.md
 github_repo: poole/hyde
-stars: 1371
+stars: 1553
 ---

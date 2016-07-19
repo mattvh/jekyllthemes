@@ -7,8 +7,8 @@ author: Akshay Agarwal
 thumbnail: jekyll-mono.jpg
 license: MIT License
 license_link: https://github.com/AkshayAgarwal007/Jekyll-Mono/blob/master/LICENSE.txt
-github_repo: https://github.com/AkshayAgarwal007/Jekyll-Mono
-stars: 5
+github_repo: AkshayAgarwal007/Jekyll-Mono
+stars: 14
 ---
 
 ## Jekyll-Mono - [Demo](http://akshayagarwal007.github.io/Jekyll-Mono/)

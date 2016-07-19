@@ -8,7 +8,7 @@ thumbnail: kasper.jpg
 license: MIT License
 license_link: https://github.com/rosario/kasper/blob/master/LICENSE.txt
 github_repo: rosario/kasper
-stars: 526
+stars: 630
 ---
 
 Kasper is a port of Ghost's Casper default theme.

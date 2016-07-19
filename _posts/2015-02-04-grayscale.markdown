@@ -8,7 +8,7 @@ thumbnail: grayscale.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/jeromelachaud/grayscale-theme/blob/master/LICENCE
 github_repo: jeromelachaud/grayscale-theme
-stars: 95
+stars: 120
 ---
 
 ## Grayscale
