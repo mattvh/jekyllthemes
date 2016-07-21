@@ -1,0 +1,31 @@
+---
+layout: post
+title: Jackal
+date: 2016-07-20 23:01:03
+homepage: https://github.com/clenemt/jackal
+download: https://github.com/clenemt/jackal/archive/master.zip
+demo: https://clenemt.github.io/jackal/
+author: Clenemt
+thumbnail: jackal.png
+license: MIT License
+license_link: https://opensource.org/licenses/MIT
+---
+
+**[Jackal](https://github.com/clenemt/jackal)** is a very lightweight theme for Jekyll.
+
+## Features
+* Intro page
+* About page
+* Articles, archives and pagination
+* Rss feed
+* Responsive & great typo
+* Code syntax highlighting
+* Google Analytics tracking code
+
+## Preview
+![](https://cloud.githubusercontent.com/assets/447956/17020916/9ed9ce1a-4f44-11e6-80d5-26df9d219dd2.PNG)
+
+![](https://cloud.githubusercontent.com/assets/447956/17020915/9ed939f0-4f44-11e6-9e8e-3a8e5562b0da.PNG)
+
+## More
+You can also check out my [personal website](http://clenemt.com) or the [demo](https://clenemt.github.io/jackal/).
