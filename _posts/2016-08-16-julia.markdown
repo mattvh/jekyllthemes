@@ -1,0 +1,30 @@
+---
+title: julia
+homepage: https://github.com/kuoa/julia
+download: https://github.com/kuoa/julia/archive/v1.0.tar.gz
+demo: https://kuoa.github.io
+author: kuoa
+thumbnail: julia.png
+license: MIT License
+license_link: https://github.com/kuoa/julia/blob/master/LICENSE
+github_repo: kuoa/julia
+stars: 0
+---
+
+Julia is a minimalistic responsive jekyll theme in a world where themes are overdesigned.
+
+
+![about-page](https://raw.githubusercontent.com/kuoa/julia/master/assets/home.png)
+
+Part one of a long post
+![post-1](https://raw.githubusercontent.com/kuoa/julia/master/assets/post_1.png)
+
+Part two of a long post
+![post-2](https://raw.githubusercontent.com/kuoa/julia/master/assets/post_2.png)
+
+Posts will be listed by category in the `Archive` page alongside with their tags
+![archive-page](https://raw.githubusercontent.com/kuoa/julia/master/assets/archive.png)
+
+### Author  [![Twitter](https://img.shields.io/badge/kuoa-<3-66BAB7.svg)](https://github.com/kuoa)
+
+### License  [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/kuoa/julia/blob/master/LICENSE)
