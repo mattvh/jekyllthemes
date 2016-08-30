@@ -11,4 +11,6 @@ license: MIT License
 license_link: https://github.com/joshgerdes/jekyll-uno/blob/gh-pages/LICENSE
 ---
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost. Please visit the homepage for more details.
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the
+[Uno](https://github.com/daleanthony/Uno) theme for Ghost. Please visit
+the homepage for more details.
