@@ -4,7 +4,7 @@ title: Sciblog
 date: 2016-03-14 03:03:00
 homepage: https://github.com/airrayagroupwebdesign/sciblog
 download: https://github.com/airrayagroupwebdesign/sciblog/archive/master.zip
-demo: http://sciblog.yourfreebies.org/
+demo: http://www.yourfreebies.org/sciblog/
 author: Air Raya Group Web Design
 thumbnail: sciblog.png
 license: MIT License
