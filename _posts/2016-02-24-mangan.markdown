@@ -4,7 +4,7 @@ title: Mangan
 date: 2016-02-24 12:23:00
 homepage: https://github.com/dikiaap/mangan
 download: https://github.com/dikiaap/mangan/archive/master.zip
-demo: https://blog.dikiaap.id
+demo: https://mangan.dikiaap.id
 author: Diki Andriansyah
 thumbnail: mangan.png
 license: MIT License
