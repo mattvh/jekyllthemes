@@ -2,9 +2,9 @@
 layout: post
 title: Space
 date: 2016-09-13 16:08:00
-homepage:  http://victor.github.io/space-jekyll-template/
+homepage:  https://github.com/victorvoid/space-jekyll-template/
 download: https://github.com/victorvoid/space-jekyll-template/archive/master.zip
-demo: http://victor.github.io/space-jekyll-template/
+demo: http://victorvoid.github.io/space-jekyll-template/
 author: Victor Igor
 thumbnail: space-jekyll-template.png
 license: MIT License
