@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jalpc
-date: 2016-09-20 10:01:00
+date: 2016-10-17 10:01:00
 homepage: https://github.com/Jack614/jalpc_jekyll_theme
 download: https://github.com/Jack614/jalpc_jekyll_theme/archive/gh-pages.zip
 demo: http://www.jack003.com
