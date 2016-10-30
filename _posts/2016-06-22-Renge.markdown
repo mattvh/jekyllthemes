@@ -4,7 +4,7 @@ title: Renge
 date: 2016-06-22 04:14:03
 homepage: https://github.com/billyfish152/Renge
 download: https://github.com/billyfish152/Renge/archive/master.zip
-demo: https://www.junchaowang.com
+demo: http://junchaowang.com
 author: Junchao Wang
 thumbnail: Renge.png
 license: MIT License
