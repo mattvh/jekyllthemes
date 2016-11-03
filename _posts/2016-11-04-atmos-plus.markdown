@@ -8,7 +8,7 @@ demo: http://meliodus.github.io/
 author: Ankan Biswas
 thumbnail: atmosplus.png
 license: MIT
-license_link: https://raw.githubusercontent.com/meliodus/meliodus.github.io/gh-pages/LICENSE
+license_link: https://raw.githubusercontent.com/meliodus/meliodus.github.io/master/LICENSE.md
 ---
 ### Atmos Plus
 <iframe src="//ghbtns.com/github-btn.html?user=meliodus&repo=meliodus.github.io&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
