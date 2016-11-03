@@ -12,7 +12,7 @@ license_link: https://raw.githubusercontent.com/meliodus/meliodus.github.io/mast
 ---
 ### Atmos Plus
 <iframe src="//ghbtns.com/github-btn.html?user=meliodus&repo=meliodus.github.io&type=watch&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-This is the copycat, modified version of atmos.org and collection of my older blog posts that I had in 2013 and newly what i add. All of my posts on blog.ankanbiswas.in.
+This is the copycat, modified version of atmos.org and collection of my older blog posts that I had in 2013 and newly what i add. All of my posts on meliodus.github.io.
 
 It is automatically transformed by Jekyll into a static site whenever I push this repository to GitHub.
 
