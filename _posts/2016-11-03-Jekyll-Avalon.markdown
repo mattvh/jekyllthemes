@@ -11,4 +11,10 @@ license: MIT License
 license_link: https://opensource.org/licenses/MIT
 ---
 
-Materialize Jekyll theme.
+Jekyll-Avalon is a Materialize Jekyll theme.
+
+Featuring:
+* Material Design
+* Responsive Web Design
+* Tags and categories browsing
+* Lazy loading images
