@@ -4,7 +4,7 @@ title: Atmos Plus
 date: 2016-11-04 02:45:00
 homepage: https://github.com/meliodus/meliodus.github.io
 download: https://codeload.github.com/meliodus/meliodus.github.io/zip/master
-demo: http://meliodus.github.io/meliodus.github.io/
+demo: http://meliodus.github.io/
 author: Ankan Biswas
 thumbnail: atmosplus.png
 license: MIT
