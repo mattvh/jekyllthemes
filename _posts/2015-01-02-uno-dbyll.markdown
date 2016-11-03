@@ -2,7 +2,7 @@
 layout: post
 title: Uno-dbyll
 date: 2015-01-02 03:26:00
-homepage: https://github.com/talk2ankan/uno-dbyll
+homepage: https://github.com/meliodus/uno-dbyll
 download: https://github.com/meliodus/uno-dbyll/archive/gh-pages.zip
 demo: http://meliodus.github.io/uno-dbyll/
 author: Ankan Biswas
