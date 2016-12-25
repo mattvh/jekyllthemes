@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ultra-Minimal
+title: Ultra-Minimalista
 date: 2014-01-24 19:00:00
 homepage: https://brxyxncorp.github.io/ultra-minimal-theme/
 download: https://github.com/brxyxncorp/ultra-minimal-theme
