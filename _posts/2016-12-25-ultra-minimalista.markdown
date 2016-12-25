@@ -2,8 +2,8 @@
 layout: post
 title: Ultra-Minimalista
 date: 2014-01-24 19:00:00
-homepage: https://brxyxncorp.github.io/ultra-minimal-theme/
-download: https://github.com/brxyxncorp/ultra-minimal-theme
+homepage: https://brxyxncorp.github.io/ultra-minimalista/
+download: https://github.com/brxyxncorp/ultra-minimalista
 demo: https://brxyxncorp.github.io/ultra-minimalista/
 author: Brayan López
 thumbnail: ultra-minimalista.png
