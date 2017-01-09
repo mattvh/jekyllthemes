@@ -1,0 +1,14 @@
+---
+layout: post
+title: Basic
+date: 2016-04-17 21:40:00
+homepage: https://github.com/getmicah/blog
+download: https://github.com/getmicah/blog/archive/master.zip
+demo: http://blog.micahcowell.com
+author: Micah Cowell
+thumbnail: basic.jpg
+license: MIT License
+license_link: https://github.com/getmicah/blog/blob/master/LICENSE
+---
+
+A very minimal theme that focuses on the content.

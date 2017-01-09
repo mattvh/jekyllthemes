@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Exemplar"
-date:   2013-11-28 10:20:00
+title: Exemplar
+date: 2013-11-28 10:20:00
 homepage: https://github.com/tybenz/exemplar
 download: https://github.com/tybenz/exemplar/archive/master.zip
-demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
 demo: http://exemplar.tybenz.com
 author: Tyler Benziger
 thumbnail: exemplar.png
@@ -12,5 +11,6 @@ license: MIT License
 license_link: https://github.com/tybenz/exemplar/blob/master/LICENSE.txt
 ---
 
-Exemplar is a clean and simple jekyll theme. It comes with some Rake stuff to help you build the site with jekyll and sass before deploying to GitHub Pages.
-Feel free to use and tweak to your heart's content.
+Exemplar is a clean and simple jekyll theme. It comes with some Rake
+stuff to help you build the site with jekyll and sass before deploying
+to GitHub Pages. Feel free to use and tweak to your heart's content.
