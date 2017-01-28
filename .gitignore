@@ -22,6 +22,7 @@ vendor/bundle/
 # OS garbage.
 Thumbs.db
 .DS_Store
+.directory
 
 # IntelliJ IDEA
 .idea/*
