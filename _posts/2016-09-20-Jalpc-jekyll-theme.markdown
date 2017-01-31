@@ -4,7 +4,7 @@ title: Jalpc
 date: 2017-01-31 15:27:00
 homepage: https://github.com/jarrekk/Jalpc
 download: https://github.com/jarrekk/Jalpc/archive/master.zip
-demo: https://jarrekk.github.io/Jalpc/ Edit
+demo: https://jarrekk.github.io/Jalpc/
 author: Kun Jia
 thumbnail: Jalpc.png
 license: MIT License
