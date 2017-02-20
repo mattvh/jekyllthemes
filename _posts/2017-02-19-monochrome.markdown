@@ -49,5 +49,3 @@ See it in action : [TheReviewIndex Blog](https://thereviewindex.com/blog)
 
 
 
-## License
-Released under [MIT License](license.md).
