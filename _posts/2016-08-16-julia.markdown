@@ -8,7 +8,7 @@ thumbnail: julia.png
 license: MIT License
 license_link: https://github.com/kuoa/julia/blob/master/LICENSE
 github_repo: kuoa/julia
-stars: 0
+stars: 7
 ---
 
 Julia is a minimalistic responsive jekyll theme in a world where themes are overdesigned.

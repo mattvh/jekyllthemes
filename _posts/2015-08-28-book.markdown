@@ -8,7 +8,7 @@ thumbnail: book.jpg
 license: MIT License
 license_link: https://github.com/kkninjae/book/blob/master/LICENSE
 github_repo: kkninjae/book
-stars: 38
+stars: 61
 ---
 
 Book, a simple Jekyll theme.

@@ -8,7 +8,7 @@ thumbnail: minimal-mistakes.jpg
 license: MIT License
 license_link: https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 github_repo: mmistakes/minimal-mistakes
-stars: 0
+stars: 1726
 ---
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for

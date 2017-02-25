@@ -8,7 +8,7 @@ thumbnail: jekyll-cv-crafter.png
 license: MIT
 license_link: https://github.com/streetturtle/jekyll-cv-crafter/blob/gh-pages/LICENSE
 github_repo: streetturtle/jekyll-cv-crafter
-stars: 5
+stars: 24
 ---
 
 ### About Jekyll CV Crafter

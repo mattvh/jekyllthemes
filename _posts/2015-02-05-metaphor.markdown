@@ -8,7 +8,7 @@ thumbnail: metaphor.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: prio101/metaphor-jekyll
-stars: 1
+stars: 2
 ---
 
 **This is a simple type blog theme made with Jekyll**

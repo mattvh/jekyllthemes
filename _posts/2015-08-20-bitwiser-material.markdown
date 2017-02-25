@@ -8,5 +8,5 @@ thumbnail: bitwiser-material.jpg
 license: MIT License
 license_link: https://github.com/brijeshb42/bitwiser-material/blob/gh-pages/LICENSE
 github_repo: brijeshb42/bitwiser-material
-stars: 7
+stars: 12
 ---

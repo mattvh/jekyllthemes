@@ -8,7 +8,7 @@ thumbnail: steves-ngvb-theme.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: svmiller/steve-ngvb-jekyll-template
-stars: 5
+stars: 18
 ---
 
 Steve's NGVB Theme - This is my no-good-very-bad template for Jekyll

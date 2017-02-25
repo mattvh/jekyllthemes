@@ -6,10 +6,14 @@ require_relative 'lib/utils'
 octokit = Octokit::Client.new(access_token: ENV['GITHUB_ACCESS_TOKEN'])
 
 Utils.for_each_file_in('_posts') do |file|
-  theme = Theme.new(file)
-  next unless theme.github_repo
-  puts theme.github_repo
+  begin
+    theme = Theme.new(file)
+    next unless theme.github_repo
+    puts theme.github_repo
 
-  repo = octokit.repo(theme.github_repo)
-  theme.set('stars', repo[:stargazers_count]).write
+    repo = octokit.repo(theme.github_repo)
+    theme.set('stars', repo[:stargazers_count]).write
+  rescue Exception => e
+    p e
+  end
 end

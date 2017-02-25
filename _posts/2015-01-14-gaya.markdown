@@ -8,7 +8,7 @@ thumbnail: gaya.jpg
 license: MIT License
 license_link: https://github.com/gayanvirajith/gaya/blob/master/LICENSE.md
 github_repo: gayanvirajith/gaya
-stars: 75
+stars: 89
 ---
 
 # Gaya Jekyll Theme

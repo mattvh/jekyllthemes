@@ -8,7 +8,7 @@ thumbnail: jekyll-clean.jpg
 license: Creative Commons Attribution International 4.0 License
 license_link: https://creativecommons.org/licenses/by/4.0/legalcode
 github_repo: scotte/jekyll-clean
-stars: 85
+stars: 103
 ---
 
 A simple and clean Jekyll theme that's easy to modify and very modular

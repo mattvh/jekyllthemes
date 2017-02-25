@@ -8,7 +8,7 @@ thumbnail: joon.jpg
 license: MIT License
 license_link: https://github.com/vormwald/joon/blob/master/LICENSE
 github_repo: vormwald/joon
-stars: 23
+stars: 29
 ---
 
 # Joon: Roon theme for Jekyll

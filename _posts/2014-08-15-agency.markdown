@@ -8,7 +8,7 @@ thumbnail: agency.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/y7kim/agency-jekyll-theme/blob/gh-pages/LICENSE
 github_repo: y7kim/agency-jekyll-theme
-stars: 297
+stars: 378
 ---
 
 ## Agency

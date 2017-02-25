@@ -8,7 +8,7 @@ thumbnail: balzac.jpg
 license: MIT License
 license_link: https://github.com/ColeTownsend/Balzac-for-Jekyll/blob/master/LICENSE
 github_repo: coletownsend/balzac-for-jekyll
-stars: 297
+stars: 346
 ---
 
 This is built on [Semantic.gs](http://semantic.gs/) grid framework
