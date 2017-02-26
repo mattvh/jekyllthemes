@@ -2,9 +2,9 @@
 layout: post
 title: HCZ Material
 date: 2016-06-05 14:30:00
-homepage: https://github.com/ashutosh2k12/hcz-jekyll-blog
-download: https://github.com/ashutosh2k12/hcz-jekyll-blog/archive/gh-pages.zip
-demo: http://aboutashu.com/hcz-jekyll-blog/
+homepage: https://github.com/codeasashu/hcz-jekyll-blog
+download: https://github.com/codeasashu/hcz-jekyll-blog/archive/gh-pages.zip
+demo: https://codeasashu.github.io/hcz-jekyll-blog/
 author: Ashutosh Chaudhary
 thumbnail: hcz-material.png
 license: MIT License
