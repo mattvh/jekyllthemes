@@ -1,0 +1,29 @@
+---
+layout: post
+title: BlogInn
+date: 2016-04-08 06:04:00
+download: http://themeforest.net/item/bloginn-bold-theme-for-jekyll/15504914
+demo: http://bloginn-jekyll.justgoodthemes.com/
+author: Just Good Themes
+thumbnail: blogInn.png
+---
+
+BlogInn Jekyll theme offers classic blog layout with bold design.
+
+### The Main Theme Features: 
+
+- Mobile first & fully responsive *(wide, normal, narrow, mobile)*
+- Retina display ready – all icons are optimized for retina devices
+- Clean, well commented code, easy to customize
+- Author information
+- Tag page support
+- Code syntax highlighter
+- Disqus commenting
+- Sharing post integration
+- Social media icons
+- Tag cloud and latest posts widgets
+- Ad banner widget
+- Regular theme updates
+
+
+ [Live Preview & More Info](http://themeforest.net/item/bloginn-bold-theme-for-jekyll/15504914)
