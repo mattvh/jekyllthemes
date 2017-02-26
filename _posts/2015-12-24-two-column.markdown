@@ -2,8 +2,9 @@
 layout: post
 title: 2 column Blog with Video
 date: 2015-12-24 00:00:00
-homepage: http://grassrootsblog.org/about/
-download: https://github.com/GRBlog/Jekyll-2-Column-Theme/archive/master.zip
+homepage: http://www.digitalroots.io/
+download: https://github.com/Digital-Roots/Jekyll-2-Column-Theme/archive/master.zip
+demo: http://www.digitalroots.io/two-column/
 author: Robert Edwardes
 thumbnail: two-column.jpg
 license: GNU General Public License Version 3
