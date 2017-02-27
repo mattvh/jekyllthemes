@@ -3,7 +3,7 @@ layout: post
 title: Nangka Theme
 date: 2016-05-12 21:40:00
 homepage: https://github.com/rmsubekti/nangka
-download: https://github.com/rmsubekti/nangka/archive/gh-pages.zip
+download: https://github.com/rmsubekti/nangka/archive/master.zip
 demo: https://rmsubekti.github.io/nangka
 author: rmsubekti
 thumbnail: nangka.png
