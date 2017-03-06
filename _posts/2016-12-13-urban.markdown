@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Urban
+title: CC Urban
 date: 2016-12-13 00:00:00
 homepage: https://github.com/CloudCannon/urban-jekyll-template
 download: https://github.com/CloudCannon/urban-jekyll-template/archive/master.zip
