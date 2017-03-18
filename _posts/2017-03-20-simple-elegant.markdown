@@ -9,11 +9,11 @@ author: Panxw
 thumbnail: simple-elegant.jpg
 license: MIT
 ---
-## About
+#### About
 Simple Elegant Jekyll theme, hope you will like it!
 
 #### Shot
-![](https://github.com/panxw/panxw.github.com/blob/master/assets/images/simple-elegant_shot.jpg?raw=true)
+![](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant_shot.jpg?raw=true)
 
 #### Usage
 1. fork this rep, then rename to user.github.io if need!
