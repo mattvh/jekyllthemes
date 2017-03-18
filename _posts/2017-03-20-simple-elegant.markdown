@@ -12,19 +12,14 @@ license: MIT
 #### About
 Simple Elegant Jekyll theme, hope you will like it!
 
-#### Shot
-![](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant_shot.jpg?raw=true)
-
 #### Usage
-1. fork this rep, then rename to user.github.io if need!
+1. First please fork my project, rename to USER.github.io as you need!  
+2. Then, modify _config.yml and files under _includes to your own!  
+3. Please remain a friend link to www.panxw.com  
+4. That's all, thanks!  
 
-2. modify _config.yml and files under _includes to yours!
-
-3. you can use dushuo or disqus as comment module.
-
-4. please remain a friend link of <www.panxw.com>.
-
-5. that's all, thanks!
+#### Demo shot
+![](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant_shot.jpg?raw=true)
 
 
 #### License
