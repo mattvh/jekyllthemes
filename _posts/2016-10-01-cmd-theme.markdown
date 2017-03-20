@@ -1,0 +1,25 @@
+---
+layout: post
+title: Cmd Theme
+date: 2016-10-01 23:59:59
+homepage: https://github.com/previoususername/cmd-theme
+download: https://github.com/previoususername/cmd-theme/archive/master.zip
+demo: http://username.tk/
+author: previoususername
+thumbnail: cmd.png
+license: Not determined yet.
+---
+
+Read the posts in a terminal window in your browser.
+
+Javascript required to run this theme.
+
+To run this theme, you should add a permalink in the front matter of each of your posts.
+
+Also, try to use only plain text to compose your posts.
+
+Screenshot:
+
+![screenshot1](https://raw.githubusercontent.com/previoususername/cmd-theme/master/screenshot1.PNG)
+
+![screenshot2](https://raw.githubusercontent.com/previoususername/cmd-theme/master/screenshot2.PNG)
