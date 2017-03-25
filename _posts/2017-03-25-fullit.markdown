@@ -21,7 +21,7 @@ Publish your static website/blog on GitHub Pages using [Jekyll](https://jekyllrb
 ### 1. Create a Repo
 - Go to <https://github.com> and create a new repository named *USERNAME.github.io*  
 
-### 2. Install Jekyll-Bootstrap-3  
+### 2. Install FullIt  
 <pre>
   <code>
     $ git clone https://github.com/fullit/fullit.github.io USERNAME.github.io
