@@ -1,0 +1,17 @@
+---
+layout: post
+title: WADE.
+date: 2017-02-01 00:00:00
+homepage: https://github.com/kevyder/wead
+download: https://github.com/kevyder/wead/archive/master.zip
+demo: http://kevinrodriguez.me/wead/
+author: Kevin Rodríguez
+thumbnail: wead.jpg
+license: MIT
+license_link: https://github.com/kevyder/wead/blob/master/LICENSE.txt
+---
+
+### WADE.
+
+A simple and clean jekyll theme.
+[See it](http://kevinrodriguez.me/wead/)
