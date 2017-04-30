@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Webjeda Ashwath
-date: 2017-23-03 00:00:00
+date: 2017-03-23 00:00:00
 homepage: https://github.com/sharu725/ashwath
 download: https://github.com/sharu725/ashwath/archive/master.zip
 demo: http://webjeda.com/ashwath/
