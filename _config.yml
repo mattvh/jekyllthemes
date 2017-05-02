@@ -10,6 +10,7 @@ highlighter: pygments
 paginate: 20
 
 markdown: rdiscount
+theme:Jekyll
 rdiscount:
     extensions: ['smart']
 
