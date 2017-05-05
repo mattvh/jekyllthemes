@@ -1,0 +1,14 @@
+---
+layout: post
+title: Striped
+date: 2017-05-05
+homepage: https://github.com/aroaminggeek/Jekyll-HTML5Up-Striped
+download: https://github.com/muan/scribble/archive/master.zip
+demo: http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/
+author: A Roaming Geek
+thumbnail: striped.png
+license: CCA 3.0
+license_link: https://github.com/muan/scribble/blob/master/LICENSE
+---
+
+The HTML5 Up "[Striped](https://html5up.net/striped)" theme, converted to [Jekyll](http://jekyllrb.com).  
