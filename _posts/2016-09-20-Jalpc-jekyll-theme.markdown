@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jalpc
-date: 2016-09-20 10:01:00
+date: 2016-10-17 10:01:00
 homepage: https://github.com/Jack614/jalpc_jekyll_theme
 download: https://github.com/Jack614/jalpc_jekyll_theme/archive/gh-pages.zip
 demo: http://www.jack003.com
@@ -18,7 +18,9 @@ src="//ghbtns.com/github-btn.html?user=Jack614&repo=jalpc_jekyll_theme&type=watc
 allowtransparency="true" frameborder="0" scrolling="0" width="110px"
 height="20px"></iframe>
 
-This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.The landing page of the blog is bilingual page.
+This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.The landing page of the blog is multilingual page.
+
+If you like this theme, please encourage me by star this repo and I will make it better, thanks a lot!
 
 #### Contribute
 
