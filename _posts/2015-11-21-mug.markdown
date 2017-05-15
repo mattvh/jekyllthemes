@@ -4,7 +4,7 @@ title: mug
 date: 2015-11-21 11:42:09
 homepage: https://github.com/nandomoreirame/mug
 download: https://github.com/nandomoreirame/mug/archive/master.zip
-demo: http://nandomoreira.me/mug/
+demo: https://github.nandomoreira.me/mug/
 author: nandomoreira.me
 thumbnail: mug.png
 license: MIT License
@@ -41,7 +41,7 @@ Access, [localhost:4000/mug](http://localhost:4000/mug)
 
 ### Demo and Download
 
-[Demo](http://nandomoreira.me/mug/)
+[Demo](https://github.nandomoreira.me/mug/)
 [Download](https://github.com/nandomoreirame/mug/archive/master.zip)
 
 ![mug - free Jekyll theme](http://raw.githubusercontent.com/nandomoreirame/mug/master/screenshot.png)
