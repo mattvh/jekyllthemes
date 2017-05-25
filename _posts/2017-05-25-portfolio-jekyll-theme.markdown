@@ -11,7 +11,7 @@ license: MIT
 license_link: https://github.com/LeNPaul/portfolio-jekyll-theme/blob/gh-pages/LICENSE
 ---
 
-### Lagrange
+### Portfolio Jekyll Theme
 
 A Jekyll theme for running a personal portfolio. For everything you would ever need to know, please visit [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
 
