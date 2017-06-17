@@ -1,0 +1,16 @@
+---
+layout: post
+title: Clyell
+date: 2017-06-17 10:00:00
+homepage: https://github.com/gjuniioor/clyell
+download: https://github.com/gjuniioor/clyell/archive/gh-pages.zip
+demo: https://gjuniioor.github.io/clyell/
+author: gjuniioor
+thumbnail: clyell.png
+license: GNU General Public License Version 3
+license_link: https://github.com/gjuniioor/clyell/blob/gh-pages/assets/LICENSE
+---
+
+A minimal dark and yellow theme focused on the content.
+
+To more information, please, take a look at the [README](https://github.com/gjuniioor/clyell/) file.
