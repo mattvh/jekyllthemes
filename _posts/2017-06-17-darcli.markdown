@@ -1,0 +1,18 @@
+---
+title: Darcli
+homepage: https://github.com/gjuniioor/darcli/
+download: https://github.com/gjuniioor/darcli/archive/gh-pages.zip
+demo: https://gjuniioor.github.io/darcli/
+author: gjuniioor
+thumbnail: darcli.png
+license: GPL
+license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/LICENSE
+github_repo: gjuniioor/darcli
+---
+
+A jekyll theme that is something like a console. :)
+
+## Features
+- Google Analytics
+- Disqus
+- Highlights for code
