@@ -21,7 +21,7 @@ It aims to be the complete package for professionals on the web.
 It features a blog suitable for both prose and technical documentation,
 a showcase for projects and a resume that fits with the rest of the design.
 
-## [Demo](https://qwtel.com/hydejack/)
+## Demo
 It's best to just [see it in action](https://qwtel.com/hydejack/).
 
 ## Features
