@@ -8,6 +8,7 @@ thumbnail: darcli.png
 license: GPL
 license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/LICENSE
 github_repo: gjuniioor/darcli
+stars: 21
 ---
 
 A jekyll theme that is something like a console. :)

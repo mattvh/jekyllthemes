@@ -8,5 +8,5 @@ thumbnail: documentation-theme-jekyll.jpg
 license: MIT License
 license_link: https://github.com/tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/licenses/LICENSE.txt
 github_repo: tomjohnson1492/documentation-theme-jekyll
-stars: 399
+stars: 458
 ---

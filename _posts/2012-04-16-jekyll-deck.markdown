@@ -8,7 +8,7 @@ thumbnail: jekyll-deck.jpg
 license: Unlicense
 license_link: https://github.com/skeeto/jekyll-deck/blob/master/UNLICENSE
 github_repo: skeeto/jekyll-deck
-stars: 18
+stars: 20
 ---
 
 ## Jekyll / deck.js Presentation Template

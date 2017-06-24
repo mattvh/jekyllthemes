@@ -8,7 +8,7 @@ thumbnail: so-simple.jpg
 license: MIT License
 license_link: https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 github_repo: mmistakes/so-simple-theme
-stars: 704
+stars: 758
 ---
 
 A simple and clean responsive Jekyll theme for words and photos.

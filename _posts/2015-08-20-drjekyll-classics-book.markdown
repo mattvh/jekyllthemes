@@ -8,5 +8,5 @@ thumbnail: drjekyll-classics-book.jpg
 license: Public Domain
 license_link: https://github.com/drjekyllthemes/jekyll-book-theme#meta
 github_repo: drjekyllthemes/jekyll-book-theme
-stars: 8
+stars: 9
 ---

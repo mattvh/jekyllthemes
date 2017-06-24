@@ -8,7 +8,7 @@ thumbnail: hpstr-v2.jpg
 license: MIT License
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 github_repo: minhhuy150894/minhhuy150894.github.io
-stars: 15
+stars: 16
 ---
 
 ### OpenTheme

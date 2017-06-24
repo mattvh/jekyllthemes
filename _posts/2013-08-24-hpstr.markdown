@@ -8,7 +8,7 @@ thumbnail: hpstr.jpg
 license: MIT License
 license_link: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE
 github_repo: mmistakes/hpstr-jekyll-theme
-stars: 761
+stars: 809
 ---
 
 What HPSTR brings to the table:

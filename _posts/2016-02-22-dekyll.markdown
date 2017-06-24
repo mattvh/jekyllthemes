@@ -8,7 +8,7 @@ thumbnail: dekyll.jpg
 license: MIT License
 license_link: https://github.com/kuntoaji/dekyll/blob/master/LICENSE.txt
 github_repo: kuntoaji/dekyll
-stars: 2
+stars: 4
 ---
 
 Jekyll's default theme extended. [Demo](http://www.kaklabs.com).

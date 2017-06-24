@@ -8,7 +8,7 @@ thumbnail: ed.jpg
 license: MIT License
 license_link: https://github.com/elotroalex/ed/blob/master/LICENSE.md
 github_repo: elotroalex/ed
-stars: 91
+stars: 105
 ---
 
 Ed is a Jekyll theme designed for editors interested in producing

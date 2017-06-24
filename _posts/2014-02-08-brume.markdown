@@ -8,7 +8,7 @@ thumbnail: brume.jpg
 license: MIT License
 license_link: https://github.com/aigarsdz/brume/blob/master/LICENSE.md
 github_repo: aigarsdz/brume
-stars: 87
+stars: 89
 ---
 
 I am not a designer so I cannot impress you with breathtaking Jekyll

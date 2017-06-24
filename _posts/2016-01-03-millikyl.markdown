@@ -8,7 +8,7 @@ thumbnail: millikyl.jpg
 license: MIT License
 license_link: https://github.com/fareez-ahamed/millikyl/blob/master/LICENSE.TXT
 github_repo: fareez-ahamed/millikyl
-stars: 4
+stars: 3
 ---
 
 Millikyl is a Jekyll theme based on the super minimal CSS framework

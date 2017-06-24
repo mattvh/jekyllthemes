@@ -8,7 +8,7 @@ thumbnail: guovz-pithy.jpg
 license: MIT License
 license_link: https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md
 github_repo: guovz/pithy
-stars: 52
+stars: 54
 ---
 
 ### Simple Jekyll Theme

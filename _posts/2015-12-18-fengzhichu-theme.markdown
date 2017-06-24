@@ -8,7 +8,7 @@ thumbnail: fengzhichu-theme.jpg
 license: MIT License
 license_link: https://github.com/fengzhichu/fengzhichu-theme/blob/gh-pages/LICENSE
 github_repo: fengzhichu/fengzhichu-theme
-stars: 55
+stars: 57
 ---
 
 # Fengzhichu Theme

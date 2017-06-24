@@ -8,7 +8,7 @@ thumbnail: jekmdl.jpg
 license: MIT License
 license_link: https://github.com/tigefa4u/jekmdl/blob/gh-pages/LICENSE
 github_repo: tigefa4u/jekmdl
-stars: 9
+stars: 8
 ---
 
 # [jekmdl](https://github.com/tigefa4u/jekmdl)

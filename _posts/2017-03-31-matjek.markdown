@@ -8,7 +8,7 @@ thumbnail: matjek.png
 license: GPLv3 License
 license_link: https://github.com/ShawnTeoh/matjek/blob/gh-pages/COPYING
 github_repo: ShawnTeoh/matjek
-stars: 0
+stars: 2
 ---
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.

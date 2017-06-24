@@ -8,7 +8,7 @@ thumbnail: neo-hpsrt-jekyll-template.jpg
 license: MIT License
 license_link: https://raw.githubusercontent.com/aron-bordin/neo-hpstr-jekyll-theme/master/LICENSE
 github_repo: aron-bordin/neo-hpstr-jekyll-theme
-stars: 92
+stars: 113
 ---
 
 # Neo-HPSTR Jekyll Theme

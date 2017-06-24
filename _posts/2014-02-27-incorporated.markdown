@@ -8,7 +8,7 @@ thumbnail: incorporated.jpg
 license: MIT License
 license_link: https://github.com/kippt/jekyll-incorporated/blob/master/LICENSE
 github_repo: kippt/jekyll-incorporated
-stars: 1014
+stars: 1034
 ---
 
 Modern Jekyll based blog. Great for companies, products or anything.

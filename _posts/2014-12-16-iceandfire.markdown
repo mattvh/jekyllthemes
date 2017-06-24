@@ -8,7 +8,7 @@ thumbnail: ice-and-fire.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/SpaceG/iceandfire/blob/master/LICENSE
 github_repo: SpaceG/iceandfire
-stars: 46
+stars: 50
 ---
 
 ### ICE AND FIRE Jekyll theme

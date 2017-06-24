@@ -8,7 +8,7 @@ thumbnail: accent.jpg
 license: MIT License
 license_link: https://github.com/bk2dcradle/accent/blob/gh-pages/LICENSE
 github_repo: bk2dcradle/accent
-stars: 40
+stars: 44
 ---
 
 accent is a customizable, single column theme for Jekyll.

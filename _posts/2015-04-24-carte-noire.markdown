@@ -8,7 +8,7 @@ thumbnail: carte-noire.jpg
 license: GNU General Public License Version 3
 license_link: https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE
 github_repo: jacobtomlinson/carte-noire
-stars: 141
+stars: 151
 ---
 
 ### About Carte Noire

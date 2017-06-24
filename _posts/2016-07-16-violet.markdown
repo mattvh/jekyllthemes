@@ -8,7 +8,7 @@ thumbnail: violet.png
 license: MIT License
 license_link: http://kopplin.mit-license.org
 github_repo: sergiokopplin/violet
-stars: 12
+stars: 13
 ---
 
 <p align="center">

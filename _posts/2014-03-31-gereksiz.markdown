@@ -8,7 +8,7 @@ thumbnail: gereksiz.jpg
 license: BSD 2-Clause License
 license_link: https://github.com/berkoz/gereksiz/blob/master/LICENSE
 github_repo: berkoz/gereksiz
-stars: 38
+stars: 40
 ---
 
 Gereksiz is a minimalist Jekyll theme, based on the default Jekyll
