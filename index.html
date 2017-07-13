@@ -3,6 +3,16 @@ layout: default
 title: Jekyll Themes
 ---
 
+<div class="row-fluid">
+    <div class="col-lg-12 text-center">
+        <div class="form-group">
+			<form action="/search/" method="get">
+				<input type="text" id="search_box" placeholder="Search..." name="query" class="form-control" style="width:100%">
+			</form>
+        </div>
+    </div>
+</div>
+
 <div class="gallery">
 	{% for post in paginator.posts %}
 		<div class="item">
