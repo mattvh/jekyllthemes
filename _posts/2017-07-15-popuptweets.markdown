@@ -11,20 +11,29 @@ license: MIT License
 license_link: https://github.com/junlulocky/PopupTweets/blob/gh-pages/LICENSE
 ---
 
-**Basically Basic** is a Jekyll theme meant as a substitute for the default 
---- Minima. Conventions and features found there are fully supported by 
-Basically Basic, with a few enhancements thrown in for good measure:
 
-- Bundled as a Ruby theme gem
-- Clean responsive design with six customizable skins
-- Curriculum Vitæ/Resume layout powered by 
-  [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via 
-  [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 
-[![Basically Basic live preview][2]][1]
+Popup tweets plugin for your personal website (Linkedin, facebook liked features)
 
-[1]: https://mmistakes.github.io/jekyll-theme-basically-basic/
-[2]: https://cloud.githubusercontent.com/assets/1376749/24117647/6dede894-0d81-11e7-9c2c-f19bea45e219.jpg (live preview)
+- Put **poptweet.html** under the _includes folder of your Jekyll project.
+
+- Get your own twitter publish code at *https://publish.twitter.com/*, for example, replace this code in **poptweet.html**
+
+```
+<a class="twitter-timeline" href="https://twitter.com/junlulocky">Tweets by junlulocky</a> 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+- add css file to your own folder
+
+```
+/assets/css/junpopup.css
+```
+    
+- Add the following code to your own website
+
+```
+include /poptweet.html 
+```
+
+
