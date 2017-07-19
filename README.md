@@ -17,6 +17,8 @@ Todo jobs:
 - [ ] google analytics
 - [ ] themes display style
 - [ ] theme detail information
+- [ ] search themes
+- [ ] classify themes by categories
 
 ## License
 
