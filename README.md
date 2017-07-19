@@ -14,9 +14,9 @@ Have a theme you want to share?
 
 Todo jobs:
 
-[ ] google analytics
-[ ] themes display style
-[ ] theme detail information
+- [ ] google analytics
+- [ ] themes display style
+- [ ] theme detail information
 
 ## License
 
