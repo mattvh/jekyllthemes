@@ -1,0 +1,31 @@
+---
+title: Paper 1
+homepage: https://github.com/mkchoi212/paper-jekyll-theme
+download: https://github.com/mkchoi212/paper-jekyll-theme/archive/master.zip
+demo: https://deadbeef.me/paper-jekyll-theme/
+author: Mike JS. Choi
+thumbnail: paper-theme.png
+license: MIT License
+license_link: https://github.com/mkchoi212/paper-jekyll-theme/blob/master/LICENSE
+github_repo: https://github.com/mkchoi212/paper-jekyll-theme
+stars: 0
+---
+
+Paper is a minimal Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. The styling is purposely minimalistic so that you can add your own flare to the website.
+
+Live demo of the theme can be seen [here](https://deadbeef.me/paper-jekyll-theme/). I'm also currently using this theme on my [personal blog](https://www.deadbeef.me).
+
+## Features
+- Compatible with Jekyll 3.x and **Github Pages**
+- Live local reloading for faster development
+- **Responsive layout** built-in
+- Supports Jekyll's built-in Sass/SCSS preprocessor
+- Supports **Google Analytics**
+- Supports **Disqus** for commenting
+- Minimum Dependencies
+- Rakefile for automation
+    - `rake check`    - Check links/html files of the generated site
+    - `rake clean`    - Clean up generated site
+    - `rake post`     - Begin a new post in `./_posts`
+    - `rake preview`  - Preview with livereload on local machine
+
