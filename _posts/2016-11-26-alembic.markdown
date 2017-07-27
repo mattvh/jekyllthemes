@@ -4,11 +4,11 @@ homepage: https://github.com/daviddarnes/alembic
 download: https://github.com/daviddarnes/alembic/archive/master.zip
 demo: https://alembic.darn.es/
 author: David Darnes
-thumbnail: alembic.png
+thumbnail: alembic.jpg
 license: MIT License
 license_link: https://github.com/daviddarnes/alembic/blob/master/LICENSE
 github_repo: daviddarnes/alembic
-stars: 71
+stars: 74
 ---
 
 ### Alembic

@@ -4,11 +4,11 @@ homepage: https://github.com/ShawnTeoh/matjek
 download: https://github.com/ShawnTeoh/matjek/archive/gh-pages.zip
 demo: https://shawnteoh.github.io/matjek
 author: Shawn Teoh
-thumbnail: matjek.png
+thumbnail: matjek.jpg
 license: GPLv3 License
 license_link: https://github.com/ShawnTeoh/matjek/blob/gh-pages/COPYING
 github_repo: ShawnTeoh/matjek
-stars: 2
+stars: 7
 ---
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.

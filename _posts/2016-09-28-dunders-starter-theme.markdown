@@ -4,7 +4,7 @@ homepage: https://woliveiras.com.br/dunders/
 download: https://github.com/woliveiras/__s/archive/master.zip
 demo: https://woliveiras.com.br/dunders.demo/
 author: William Oliveira
-thumbnail: dunders.png
+thumbnail: dunders.jpg
 license: MIT License
 license_link: https://github.com/woliveiras/__s/blob/master/LICENSE
 github_repo: woliveiras/__s/

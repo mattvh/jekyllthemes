@@ -4,11 +4,11 @@ homepage: https://github.com/gjuniioor/clyell/
 download: https://github.com/gjuniioor/clyell/archive/gh-pages.zip
 demo: https://gjuniioor.github.io/clyell/
 author: gjuniioor
-thumbnail: clyell.png
+thumbnail: clyell.jpg
 license: GPL
 license_link: https://github.com/gjuniioor/clyell/blob/gh-pages/LICENSE
 github_repo: gjuniioor/clyell
-stars: 1
+stars: 5
 ---
 
 A jekyll theme that is something like a console. :)

@@ -8,5 +8,5 @@ thumbnail: saigon.jpg
 license: MIT License
 license_link: https://github.com/hoffli/saigon-jekyll-theme/blob/master/LICENSE
 github_repo: hoffli/saigon-jekyll-theme
-stars: 13
+stars: 15
 ---

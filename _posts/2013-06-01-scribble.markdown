@@ -8,7 +8,7 @@ thumbnail: scribble.jpg
 license: MIT License
 license_link: https://github.com/muan/scribble/blob/master/LICENSE
 github_repo: muan/scribble
-stars: 565
+stars: 581
 ---
 
 There is no clever design philosophy to talk about, I tried to find

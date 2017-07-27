@@ -8,7 +8,7 @@ thumbnail: photography.jpg
 license: MIT License
 license_link: https://github.com/ramswaroop/photography/blob/master/LICENSE.md
 github_repo: ramswaroop/photography
-stars: 48
+stars: 54
 ---
 
 A jekyll theme for photographers. It's the first theme to show EXIF data on pictures.

@@ -4,11 +4,11 @@ homepage: https://github.com/yizeng/jekyll-theme-simple-texture
 download: https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip
 demo: https://yizeng.github.io/jekyll-theme-simple-texture/
 author: Yi Zeng
-thumbnail: simple-texture.png
+thumbnail: simple-texture.jpg
 license: MIT License
 license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/LICENSE
 github_repo: yizeng/jekyll-theme-simple-texture
-stars: 2
+stars: 6
 ---
 
 Simple Texture is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll] 3.3 or above,

@@ -8,7 +8,7 @@ thumbnail: dotX.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/dotX/blob/master/LICENSE
 github_repo: nandomoreirame/dotX
-stars: 59
+stars: 60
 ---
 
 ### Start in 4 steps

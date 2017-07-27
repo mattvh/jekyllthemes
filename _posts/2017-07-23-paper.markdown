@@ -4,7 +4,7 @@ homepage: https://github.com/mkchoi212/paper-jekyll-theme
 download: https://github.com/mkchoi212/paper-jekyll-theme/archive/master.zip
 demo: https://deadbeef.me/paper-jekyll-theme/
 author: Mike JS. Choi
-thumbnail: paper-theme.png
+thumbnail: paper-theme.jpg
 license: MIT License
 license_link: https://github.com/mkchoi212/paper-jekyll-theme/blob/master/LICENSE
 github_repo: https://github.com/mkchoi212/paper-jekyll-theme

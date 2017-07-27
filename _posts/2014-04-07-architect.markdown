@@ -8,7 +8,7 @@ thumbnail: architect.jpg
 license: Creative Commons Attribution 4.0 International License
 license_link: https://github.com/pietromenna/jekyll-architect-theme/blob/master/README.md#license
 github_repo: pietromenna/jekyll-architect-theme
-stars: 52
+stars: 53
 ---
 
 Architect is responsive theme for GitHub Pages. [Fork

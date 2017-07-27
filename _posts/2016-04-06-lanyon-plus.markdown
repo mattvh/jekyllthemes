@@ -4,11 +4,11 @@ homepage: https://github.com/dyndna/lanyon-plus
 download: https://github.com/dyndna/lanyon-plus/releases/tag/v1.1.0
 demo: http://dyndna.github.io/lanyon-plus
 author: "Samir Amin @SBAmin"
-thumbnail: lanyon-plus-lrg.png
+thumbnail: lanyon-plus-lrg.jpg
 license: MIT License
 license_link: "http://sbamin.com/disclosure/#theme-major-credit--license"
 github_repo: dyndna/lanyon-plus
-stars: 33
+stars: 37
 ---
 
 ## lanyon-plus

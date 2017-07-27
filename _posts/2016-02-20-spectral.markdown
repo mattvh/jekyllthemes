@@ -8,7 +8,7 @@ thumbnail: spectral.jpg
 license: Creative Commons Attribution 3.0 Unported License
 license_link: http://html5up.net/license
 github_repo: arkadianriver/spectral
-stars: 168
+stars: 177
 ---
 
 HTML5 UP makes **spiffy HTML5 site templates** that are:

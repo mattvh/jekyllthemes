@@ -8,5 +8,5 @@ thumbnail: library.jpg
 license: MIT License
 license_link: https://github.com/alexcarpenter/library-jekyll-theme/blob/gh-pages/LICENSE
 github_repo: alexcarpenter/library-jekyll-theme
-stars: 27
+stars: 28
 ---

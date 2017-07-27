@@ -8,7 +8,7 @@ thumbnail: modernblog.jpg
 license: GNU General Public License Version 3
 license_link: https://www.gnu.org/licenses/gpl-3.0.html
 github_repo: inded/Jekyll_modern-blog
-stars: 91
+stars: 97
 ---
 
 # Jekyll Modern Blog

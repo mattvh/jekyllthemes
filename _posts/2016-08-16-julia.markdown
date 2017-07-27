@@ -4,7 +4,7 @@ homepage: https://github.com/kuoa/julia
 download: https://github.com/kuoa/julia/archive/v1.0.tar.gz
 demo: https://kuoa.github.io
 author: kuoa
-thumbnail: julia.png
+thumbnail: julia.jpg
 license: MIT License
 license_link: https://github.com/kuoa/julia/blob/master/LICENSE
 github_repo: kuoa/julia

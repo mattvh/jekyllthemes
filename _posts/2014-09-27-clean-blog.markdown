@@ -8,7 +8,7 @@ thumbnail: clean-blog.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE
 github_repo: IronSummitMedia/startbootstrap-clean-blog-jekyll
-stars: 868
+stars: 881
 ---
 
 ## Clean Blog by [Start Bootstrap](http://startbootstrap.com)

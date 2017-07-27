@@ -8,7 +8,7 @@ thumbnail: singlepaged.jpg
 license: MIT License
 license_link: https://github.com/t413/SinglePaged/blob/gh-pages/LICENSE.txt
 github_repo: t413/SinglePaged
-stars: 548
+stars: 552
 ---
 
 SinglePaged - wow the world with some single page madness

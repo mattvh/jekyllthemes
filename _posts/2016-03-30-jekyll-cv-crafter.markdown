@@ -4,7 +4,7 @@ homepage: https://github.com/streetturtle/jekyll-cv-crafter
 download: https://github.com/streetturtle/jekyll-cv-crafter/archive/gh-pages.zip
 demo: http://pavelmakhov.com/jekyll-cv-crafter/
 author: Pavel Makhov
-thumbnail: jekyll-cv-crafter.png
+thumbnail: jekyll-cv-crafter.jpg
 license: MIT
 license_link: https://github.com/streetturtle/jekyll-cv-crafter/blob/gh-pages/LICENSE
 github_repo: streetturtle/jekyll-cv-crafter

@@ -8,7 +8,7 @@ thumbnail: hydejack.jpg
 license: MIT License (free version) PRO License (paid)
 license_link: https://qwtel.com/hydejack/docs/pro-license/
 github_repo: qwtel/hydejack
-stars: 69
+stars: 80
 ---
 
 Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps.

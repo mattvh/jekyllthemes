@@ -8,7 +8,7 @@ thumbnail: chaplin.jpg
 license: MIT License
 license_link: https://github.com/bk2dcradle/Chaplin/blob/master/LICENSE
 github_repo: bk2dcradle/Chaplin
-stars: 19
+stars: 20
 ---
 
 Chaplin is an elegant single column theme for Jekyll. Check out the

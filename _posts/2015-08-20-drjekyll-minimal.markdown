@@ -7,5 +7,5 @@ author: Gerald Bauer
 thumbnail: drjekyll-minimal.jpg
 license: Public Domain
 github_repo: drjekyllthemes/jekyll-minimal-theme
-stars: 55
+stars: 60
 ---

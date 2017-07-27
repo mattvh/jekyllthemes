@@ -8,7 +8,7 @@ thumbnail: indigo.jpg
 license: MIT License
 license_link: http://kopplin.mit-license.org
 github_repo: sergiokopplin/indigo
-stars: 521
+stars: 572
 ---
 
 ## Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/)

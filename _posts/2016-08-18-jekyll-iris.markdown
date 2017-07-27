@@ -4,7 +4,7 @@ homepage: http://www.xunaxu.com/
 download: https://github.com/XunaXu/Jekyll-Iris.git
 demo: https://xunaxu.github.io/Jekyll-Iris/
 author: Xuna Xu
-thumbnail: jekyll-iris.png
+thumbnail: jekyll-iris.jpg
 license: MIT License
 license_link: https://github.com/XunaXu/Jekyll-Iris/blob/master/LICENSE.md
 github_repo: XunaXu/Jekyll-Iris.git

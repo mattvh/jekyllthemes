@@ -4,11 +4,11 @@ homepage: https://github.com/sergiokopplin/violet
 download: https://github.com/sergiokopplin/violet/archive/gh-pages.zip
 demo: http://koppl.in/violet/
 author: koppl.in
-thumbnail: violet.png
+thumbnail: violet.jpg
 license: MIT License
 license_link: http://kopplin.mit-license.org
 github_repo: sergiokopplin/violet
-stars: 13
+stars: 17
 ---
 
 <p align="center">

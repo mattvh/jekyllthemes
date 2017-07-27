@@ -8,7 +8,7 @@ thumbnail: feeling-responsive.jpg
 license: MIT License
 license_link: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
 github_repo: Phlow/feeling-responsive
-stars: 340
+stars: 348
 ---
 
 ## 10 Reasons to Use *Feeling Responsive* Theme
