@@ -7,7 +7,7 @@ download: https://github.com/joytou/joytou.github.io/archive/master.zip
 demo: https://joytou.github.io/
 author: Joytou
 thumbnail: JOYTOU.png
-license: MIT License
+license: GNU GENERAL PUBLIC LICENSE
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 ---
 
