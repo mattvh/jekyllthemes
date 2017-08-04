@@ -7,7 +7,7 @@ download: https://github.com/kxxvii/Kikofri/archive/master.zip
 demo: http://kxxvii.github.io/Kikofri
 author: kxxvii
 thumbnail: Kikofri_thumb.png
-license: Apache-2.0
+license: Apache License Version 2.0
 license_link: https://github.com/kxxvii/Kikofri/blob/master/LICENSE
 ---
 

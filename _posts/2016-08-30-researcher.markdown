@@ -7,7 +7,7 @@ download: https://github.com/bk2dcradle/researcher/archive/gh-pages.zip
 demo: https://ankitsultana.me/researcher
 author: Ankit Sultana
 thumbnail: researcher.png
-license: GNU GPL v3
+license: GNU General Public License Version 3
 license_link: https://github.com/researcher/blob/gh-pages/LICENSE
 ---
 

@@ -7,7 +7,7 @@ download: https://github.com/codinfox/codinfox-lanyon/archive/dev.zip
 demo: http://codinfox.github.io/
 author: codinfox
 thumbnail: codinfox-lanyon.jpg
-license: MIT
+license: MIT License
 license_link: https://github.com/codinfox/codinfox-lanyon/blob/dev/LICENSE.md
 ---
 

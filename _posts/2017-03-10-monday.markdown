@@ -7,7 +7,7 @@ download: https://github.com/artemsheludko/monday/archive/master.zip
 demo: http://artemsheludko.pw/monday
 author: Artem Sheludko
 thumbnail: monday-sm.png
-license: GNU GENERAL PUBLIC LICENSE Version 3
+license: GNU General Public License Version 3
 license_link: https://github.com/artemsheludko/monday/blob/master/LICENSE
 ---
 

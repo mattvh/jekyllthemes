@@ -7,7 +7,7 @@ download: https://github.com/kamikat/jekyll-theme-kagami/releases
 demo: https://banana.moe/jekyll-theme-kagami/about.html
 author: Kamikat
 thumbnail: jekyll-theme-kagami.png
-license: MIT
+license: MIT License
 ---
 
 ![](https://s2.banana.moe/docs/kagami-preview@2x.png)

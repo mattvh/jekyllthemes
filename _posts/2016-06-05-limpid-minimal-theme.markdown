@@ -7,7 +7,7 @@ download: https://github.com/pranavrajs/limpid/archive/master.zip
 demo: http://pranavrajs.github.io/limpid/
 author: Pranav Raj S
 thumbnail: limpid.png
-license: MIT
+license: MIT License
 license_link: https://github.com/pranavrajs/limpid/blob/master/LICENSE
 ---
 

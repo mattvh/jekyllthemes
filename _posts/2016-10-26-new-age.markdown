@@ -7,7 +7,7 @@ download: https://github.com/jekynewage/jekynewage.github.io/archive/master.zip
 demo: https://jekynewage.github.io
 author: Antonio Trento
 thumbnail: jeky-new-age.jpg
-license: MIT
+license: MIT License
 license_link: https://github.com/jekynewage/jekynewage.github.io/blob/master/LICENSE.txt
 ---
 New Age Jekyll theme

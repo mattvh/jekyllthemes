@@ -7,7 +7,7 @@ download: https://github.com/artemsheludko/bef/archive/master.zip
 demo: https://artemsheludko.github.io/bef/
 author: Artem Sheludko
 thumbnail: bef-sm.jpg
-license: GPL-3.0
+license: GNU General Public License Version 3
 license_link: https://github.com/artemsheludko/bef/blob/master/LICENSE.txt
 ---
 # Bef is a responsive jekyll theme
