@@ -4,7 +4,7 @@ title: Popup Tweets
 date: 2017-07-15 11:32:00
 homepage: https://github.com/junlulocky/PopupTweets
 download: https://github.com/junlulocky/PopupTweets/archive/gh-pages.zip
-demo: http://www.junlulocky.com/PopupTweets/
+demo: https://jekyller.github.io/PopupTweets/
 author: Jun Lu
 thumbnail: popuptweets.png
 license: MIT License
@@ -19,11 +19,6 @@ features)
 
 - Get your own twitter publish code at *https://publish.twitter.com/*,
   for example, replace this code in **poptweet.html**
-
-```
-<a class="twitter-timeline" href="https://twitter.com/junlulocky">Tweets by junlulocky</a> 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 
 - add css file to your own folder
 
