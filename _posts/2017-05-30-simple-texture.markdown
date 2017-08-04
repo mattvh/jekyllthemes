@@ -11,8 +11,9 @@ license: MIT License
 license_link: https://github.com/yizeng/jekyll-theme-simple-texture/blob/master/LICENSE
 ---
 
-**Simple Texture** is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll] 3.3 or above,
-which can also be forked as a boilerplate for older versions of Jekyll.
+**Simple Texture** is a gem-based responsive simple texture styled
+Jekyll theme for [Jekyll][Jekyll] 3.3 or above, which can also be
+forked as a boilerplate for older versions of Jekyll.
 
 - Starter-kit demo: <https://yizeng.github.io/jekyll-theme-simple-texture/>
 - My own personal blog: <http://yizeng.me/blog/>
@@ -69,7 +70,9 @@ i.e. `jekyllapp` in this example.
 
        git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git
 
-3. Delete `starter-kit` folder and `jekyll-theme-simple-texture.gemspec` file (they're for people installing via gem)
+3. Delete `starter-kit` folder and
+`jekyll-theme-simple-texture.gemspec` file (they're for people
+installing via gem)
 
 4. Install Bundler if haven't done so.
 

@@ -27,7 +27,7 @@ license_link: https://github.com/mateussmedeiros/blade-theme/blob/master/LICENSE
 
 ### Get Started in 4 easy steps
 
-1. Download or clone repositorie `git clone https://github.com/mateussmedeiros/blade-theme.git`
+1. Download or clone repository `git clone https://github.com/mateussmedeiros/blade-theme.git`
 2. Enter the folder: `cd blade-theme`
 3. Install Ruby gems: `bundle install`
 4. Start Jekyll server: `jekyll serve`

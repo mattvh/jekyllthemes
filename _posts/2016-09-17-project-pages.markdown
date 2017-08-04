@@ -11,7 +11,11 @@ license: Apache License Version 2.0
 license_link: https://github.com/projectpages/project-pages/blob/gh-pages/LICENSE.md
 ---
 
-Project-Pages is a Jekyll based scientific blogging tool, made easily accessible to the non-coder researcher through simple heavily opinionated templates, while preserving the freedom of the code savvy user to customize all functionality as they please. Project-Pages uses a specialized re-skin of Prose.io to provide a CMS-like overlay.
+Project-Pages is a Jekyll based scientific blogging tool, made easily
+accessible to the non-coder researcher through simple heavily
+opinionated templates, while preserving the freedom of the code savvy
+user to customize all functionality as they please. Project-Pages uses
+a specialized re-skin of Prose.io to provide a CMS-like overlay.
 
 **Organization Level Functionality:**
 
@@ -49,6 +53,7 @@ Project-Pages is a Jekyll based scientific blogging tool, made easily accessible
 
 * Mermaid.JS for Automated Workflow Visualization
 
-* Projector Layout using DataProjector.JS to Visualize 3D Point Cloud Data from JSON Files
+* Projector Layout using DataProjector.JS to Visualize 3D Point Cloud
+  Data from JSON Files
 
 * ThreeJS Layout to Visualize 3D Surface Data

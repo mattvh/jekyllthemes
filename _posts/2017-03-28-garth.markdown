@@ -13,4 +13,7 @@ license_link: https://github.com/daviddarnes/garth/blob/master/LICENSE
 
 ### Garth
 
-A stupidly simple theme for Jekyll, using the official Jekyll theme implementation. Available to install as a theme gem or as a 'forkable template', [see the documentation](https://github.com/daviddarnes/garth#installation) for more info.
+A stupidly simple theme for Jekyll, using the official Jekyll theme
+implementation. Available to install as a theme gem or as a 'forkable
+template', [see the documentation](https://github.com/daviddarnes/garth#installation)
+for more info.

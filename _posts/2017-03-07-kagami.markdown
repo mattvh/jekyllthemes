@@ -6,7 +6,7 @@ homepage: https://github.com/kamikat/jekyll-theme-kagami
 download: https://github.com/kamikat/jekyll-theme-kagami/releases
 demo: https://banana.moe/jekyll-theme-kagami/about.html
 author: Kamikat
-thumbnail: jekyll-theme-kagami.png
+thumbnail: kagami.png
 license: MIT License
 ---
 
@@ -25,7 +25,8 @@ A peaceful theme for Jekyll and GitHub Pages.
 - Google Analytics and Disqus integration
 - Customizable syntax highlighting color scheme
 
-Visit [project homepage][project-home] for instructions on installation and configuration.
+Visit [project homepage][project-home] for instructions on installation
+and configuration.
 
 [project-home]: https://github.com/kamikat/jekyll-theme-kagami
 

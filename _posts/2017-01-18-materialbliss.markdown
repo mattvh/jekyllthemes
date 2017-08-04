@@ -6,15 +6,18 @@ homepage: https://github.com/InsidiousMind/material-bliss-jekyll-theme
 download: https://github.com/InsidiousMind/material-bliss-jekyll-theme/archive/master.zip
 demo: http://code.liquidthink.net
 author: Andrew Plaza
-thumbnail: material-bliss.jpg
+thumbnail: materialbliss.jpg
 license: GNU General Public License Version 3
 license_link: https://github.com/InsidiousMind/material-bliss-jekyll-theme/blob/master/LICENSE
 ---
 
 ###The Material Bliss Jekyll Theme
+
 #### Jekyll and React.js working together
 
-Statically rendered posts for SEO, dynamically rendered (by choice) pages for speed and interactivity. Visit homepage for more technical information.
+Statically rendered posts for SEO, dynamically rendered (by choice)
+pages for speed and interactivity. Visit homepage for more technical
+information.
 
 #### Features:
 - **Two Themes: Light and Dark (dynamic Toggle Switch)**

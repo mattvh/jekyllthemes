@@ -11,4 +11,4 @@ license: MIT License
 license_link: http://kopplin.mit-license.org/
 ---
 
-A purple theme for girls and boys. Inspired on @cyberglot
+A purple theme for girls and boys. Inspired on @cyberglot.

@@ -6,7 +6,7 @@ homepage: https://github.com/artemsheludko/mr-brown
 download: https://github.com/artemsheludko/mr-brown
 demo: http://artemsheludko.pw/mr-brown
 author: Artem Sheludko
-thumbnail: mr.brown.png
+thumbnail: mr-brown.png
 license: MIT License
 ---
 

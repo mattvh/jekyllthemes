@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JBlog
-date: 2017-07-19 00:10:00
+date: 2017-07-18 00:10:00
 homepage: https://github.com/alperenbozkurt/JBlog
 download: https://github.com/alperenbozkurt/JBlog/archive/master.zip
 demo: http://alperenbozkurt.net/JBlog/

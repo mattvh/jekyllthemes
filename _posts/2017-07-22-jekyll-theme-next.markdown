@@ -11,7 +11,9 @@ license: MIT License
 license_link: http://opensource.org/licenses/MIT
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
+> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme
+> ported from [Hexo NexT](https://github.com/iissnan/hexo-theme-next).
+> It is crafted from scratch, with love.
 
 
 [Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
