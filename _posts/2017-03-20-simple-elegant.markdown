@@ -21,7 +21,9 @@ Simple Elegant Jekyll theme, hope you will like it!
 4. That's all, have fun!  
 
 ## Demo shot
-![](https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true)
+
+<img width="614" height="362" src="http://panxw.github.io//assets/simple-elegant_shot.jpg"/>
+
 
 #### License
 
