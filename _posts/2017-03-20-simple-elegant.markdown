@@ -3,7 +3,7 @@ layout: post
 title: Simple Elegant
 date: 2017-03-20 00:00:00
 homepage: https://github.com/panxw/panxw.github.com
-download: https://github.com/panxw/panxw.github.com
+download: https://github.com/panxw/panxw.github.com/archive/v1.0.zip
 demo: https://www.panxw.com/
 author: Panxw
 thumbnail: simple-elegant.jpg
