@@ -22,7 +22,7 @@ Simple Elegant Jekyll theme, hope you will like it!
 
 ## Demo shot
 
-<img width="150" height="150" src="http://panxw.github.io//assets/simple-elegant_shot.jpg"/>
+<img width="614" height="362" src="http://panxw.github.io//assets/simple-elegant_shot.jpg"/>
 
 
 #### License
