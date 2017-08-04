@@ -7,12 +7,13 @@ download: https://github.com/nielsenramon/chalk
 demo: http://chalk.nielsenramon.com
 author: Nielsen Ramon
 thumbnail: chalk.png
-license: MIT
+license: MIT License
 ---
 
 ![](https://github.com/nielsenramon/chalk/blob/master/_assets/images/documentation/chalk-intro@2x.png?raw=true)
 
-Chalk is a high quality, completely customisable, performant and 100% free blog template for Jekyll.
+Chalk is a high quality, completely customisable, performant and 100%
+free blog template for Jekyll.
 
 ## Overview
 
@@ -77,9 +78,11 @@ Run this in the root project folder in your console:
 
     bin/deploy
 
-You can find more info on how to use the gh-pages branch and a custom domain [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
+You can find more info on how to use the gh-pages branch and a custom
+domain [here](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
-[View this](https://github.com/nielsenramon/kickster#automated-deployment-with-circle-ci) for more info about automated deployment with Circle CI.
+[View this](https://github.com/nielsenramon/kickster#automated-deployment-with-circle-ci)
+for more info about automated deployment with Circle CI.
 
 ## License
 

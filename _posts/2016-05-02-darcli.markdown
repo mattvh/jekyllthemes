@@ -13,4 +13,5 @@ license_link: https://github.com/gjuniioor/darcli/blob/gh-pages/assets/LICENSE
 
 A minimal dark theme focused on the content.
 
-To more information, please, take a look at the [README](https://github.com/gjuniioor/darcli/) file.
+To more information, please, take a look at the
+[README](https://github.com/gjuniioor/darcli/) file.
