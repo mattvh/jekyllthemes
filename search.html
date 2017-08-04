@@ -1,0 +1,37 @@
+---
+layout: default
+title: Jekyll Themes | Search Page
+---
+
+<div class="main">
+  <div class="section section-basic">
+    <div class="container">
+
+      <div class="search">
+              <form action="/search/" method="get">
+                <input type="text" id="search-box" placeholder="Search..." name="query" class="form-control" style="width:100%">
+              </form>
+
+        <ul id="search-results"></ul>
+
+        <script>
+          window.store = {
+            {% for post in site.posts %}
+              "{{ post.url | slugify }}": {
+                "title": "{{ post.title | xml_escape }}",
+                "author": "{{ post.author | xml_escape }}",
+                "category": "{{ post.category | xml_escape }}",
+                "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+                "url": "{{ post.url | xml_escape }}"
+              }
+              {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          };
+        </script>
+        <script src="/assets/js/lunr.min.js"></script>
+        <script src="/assets/js/search.js"></script>
+      </div>
+
+    </div>
+  </div>
+</div>
