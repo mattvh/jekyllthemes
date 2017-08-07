@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: JOYTOU
 date: 2017-08-04 00:08:00
@@ -13,33 +13,79 @@ license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 
 JOYTOU is a succinct theme for blogging that be made from Bootstrap.
 It supports searching for articles by date, category, label, equal class.
+>>Update Log:
+> 
+>>>2017-08-07
+> 
+>>>>Add article sharing function (provided by Baidu)
+> 
+>>>>Add Baidu automatic push function
+> 
+>>>>Add Baidu website verification function
+> 
+>>>>Increase the multi-language support function (in the '/ _data /' folder)
+>>
 >> function：
+> 
 >> - Blog post / browse function
+> 
 >> - Top navigation bar
+> 
 >> - Sitemap.xml Automatic generated
+> 
 >> - View the article by date, type, label, etc.
+> 
 >> - Important articles can be placed top
 >>
 >> Template introduction：
+> 
 >> - Bootstrap style
+> 
 >> - Simple and extreme
+> 
 >> - No picture
+> 
 >> - Fashionable
+> 
 >> - Card article section
+> 
 
 
 JOYTOU是一款基于Bootstrap搭建的博客模板。
 支持依据日期、类型、标签等分类和查看文章。
+>>更新日志：
+> 
+>>>2017-08-07
+> 
+>>>>添加文章分享功能（由百度提供）
+> 
+>>>>添加百度自动推送功能
+> 
+>>>>添加百度网站验证功能
+> 
+>>>>增加多语言支持功能（在'/_data/'文件夹中）
+>>
 >> 功能：
+> 
 >> - 博客发布/浏览功能
+> 
 >> - 顶部导航栏
+> 
 >> - Sitemap.xml自动生成
+> 
 >> - 按照日期、类型、标签等分类查看文章
+> 
 >> - 重要文章可置顶
 >>
 >> 模板介绍：
+> 
 >> - Bootstrap样式
+> 
 >> - 简约极致
+> 
 >> - 无图片
+> 
 >> - 时尚流行
+> 
 >> - 卡片式文章栏目
+> 
