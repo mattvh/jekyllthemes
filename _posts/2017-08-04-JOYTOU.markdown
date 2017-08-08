@@ -12,7 +12,7 @@ license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 ---
 
 JOYTOU is a succinct theme for blogging that be made by Joytou from Bootstrap.
-It supports searching for articles by date, category, label, equal class.
+It supports searching for articles by date, category, tag, equal class.
 > [Demo in English](https://joytou.github.io/en/)
 > 
 > [Demo in Chinese](https://joytou.github.io/cn/)
