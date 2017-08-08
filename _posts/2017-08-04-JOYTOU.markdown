@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JOYTOU
-date: 2017-08-04 00:08:00
+date: 2017-08-08 16:08:00
 homepage: https://github.com/joytou/joytou.github.io/
 download: https://github.com/joytou/joytou.github.io/archive/master.zip
 demo: https://joytou.github.io/en/
@@ -11,7 +11,7 @@ license: GNU GENERAL PUBLIC LICENSE
 license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
 ---
 
-JOYTOU is a succinct theme for blogging that be made from Bootstrap.
+JOYTOU is a succinct theme for blogging that be made by Joytou from Bootstrap.
 It supports searching for articles by date, category, label, equal class.
 > [Demo in English](https://joytou.github.io/en/)
 > 
@@ -55,7 +55,7 @@ It supports searching for articles by date, category, label, equal class.
 > 
 
 
-JOYTOU是一款基于Bootstrap搭建的博客模板。
+JOYTOU是一款由Joytou基于Bootstrap搭建的简洁的博客模板。
 支持依据日期、类型、标签等分类和查看文章。
 > [英文Demo](https://joytou.github.io/en/)
 > 
