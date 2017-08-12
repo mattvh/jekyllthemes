@@ -2,13 +2,13 @@
 layout: post
 title: "{ Personal }"
 date: 2016-03-24 23:11:50
-homepage: https://panossakkos.github.io/personal-jekyll-theme/
-download: https://github.com/PanosSakkos/personal-jekyll-theme/archive/master.zip
-demo: https://panossakkos.github.io/personal-jekyll-theme/
+homepage: https://le4ker.github.io/personal-jekyll-theme/
+download: https://github.com/le4ker/personal-jekyll-theme/archive/master.zip
+demo: https://le4ker.github.io/personal-jekyll-theme/
 author: Panos Sakkos
 thumbnail: personal.jpg
 license: MIT License
-license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/LICENSE
+license_link: https://github.com/le4ker/personal-jekyll-theme/blob/master/LICENSE
 ---
 
 # { Personal } Jekyll Theme
@@ -20,9 +20,9 @@ license_link: https://github.com/PanosSakkos/personal-jekyll-theme/blob/master/L
 
 You can watch it in action [here](https://panossakkos.github.io/personal-jekyll-theme/)!
 
-<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
+<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
 
-<img src="https://github.com/panossakkos/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
+<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
 
 ## What value does { Personal } add
 
