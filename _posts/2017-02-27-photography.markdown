@@ -6,7 +6,7 @@ demo: http://photography.ramswaroop.me/
 author: Ram Patra
 thumbnail: photography.jpg
 license: MIT License
-license_link: https://github.com/ramswaroop/photography/blob/master/LICENSE.md
+license_link: https://github.com/ramswaroop/photography/blob/master/LICENSE
 github_repo: ramswaroop/photography
 stars: 54
 ---
