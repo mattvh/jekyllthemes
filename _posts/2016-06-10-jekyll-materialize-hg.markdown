@@ -6,7 +6,7 @@ homepage: http://github.com/hugocarreira/jekyll-materializecss
 download: https://github.com/hugocarreira/jekyll-materializecss/archive/master.zip
 demo: http://hugocarreira.github.io/jekyll-materializecss
 author: Hugo Carreira
-thumbnail: materializecss-hg.png
+thumbnail: materialize-hg.png
 license: MIT License
 ---
 

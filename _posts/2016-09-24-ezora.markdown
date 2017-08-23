@@ -13,6 +13,7 @@ license_link: https://github.com/poole/poole/blob/master/LICENSE.md
 
 ### Ezora Theme for Jekyll
 
-Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.
+Ezora is a responsive Jekyll theme with a clean single column layout,
+nifty text overlays for images and a mobile friendly navigation bar.
 
 [Try Ezora Live!](http://www.ezrasavard.com/ezorademo)
