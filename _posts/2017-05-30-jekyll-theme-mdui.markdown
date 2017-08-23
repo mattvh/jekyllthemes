@@ -6,7 +6,7 @@ homepage: https://github.com/KeJunMao/jekyll-theme-mdui
 download: https://rubygems.org/gems/jekyll-theme-mdui
 demo: https://blog.kejun.space/
 author: KeJun
-thumbnail: jekyll-theme-mdui.gif
+thumbnail: jekyll-theme-mdui.png
 license: MIT License
 license_link: https://github.com/KeJunMao/jekyll-theme-mdui/blob/master/LICENSE.txt
 ---
