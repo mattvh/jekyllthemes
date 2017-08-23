@@ -4,7 +4,7 @@ title: Researcher
 date: 2016-08-30 00:00:00
 homepage: https://github.com/bk2dcradle/researcher
 download: https://github.com/bk2dcradle/researcher/archive/gh-pages.zip
-demo: https://ankitsultana.me/researcher
+demo: https://ankitsultana.com/researcher
 author: Ankit Sultana
 thumbnail: researcher.png
 license: GNU General Public License Version 3
