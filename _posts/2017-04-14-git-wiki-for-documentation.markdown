@@ -3,7 +3,7 @@ layout: post
 title: Git-Wiki
 date: 2017-04-14 00:00:00
 homepage: https://github.com/drassil/git-wiki
-download: https://github.com/drassil/git-wiki
+download: https://github.com/Drassil/git-wiki/archive/master.zip
 demo: https://drassil.github.io/git-wiki
 author: Yehonal
 thumbnail: git-wiki.JPG
