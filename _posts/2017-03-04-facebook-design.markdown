@@ -6,7 +6,7 @@ homepage: https://github.com/wnglmng/wnglmng.github.io
 download: https://codeload.github.com/wnglmng/wnglmng.github.io/zip/master
 demo: https://wnglmng.github.io/
 author: WngLMng
-thumbnail: facebook.design.png
+thumbnail: facebookdesign.png
 ---
 
 ## A simple Jekyll blog
