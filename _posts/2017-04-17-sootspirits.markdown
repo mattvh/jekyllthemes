@@ -3,8 +3,8 @@ layout: post
 title: Soot Spirits
 date: 2017-04-17 00:00:00
 homepage: https://github.com/abhn/Soot-Spirits
-download: https://github.com/abhn/Soot-Spirits
-demo: https://www.nagekar.com
+download: https://github.com/abhn/Soot-Spirits/archive/master.zip
+demo: https://sootspirits.github.io
 author: Abhishek Nagekar
 thumbnail: sootspirits.png
 license: MIT
