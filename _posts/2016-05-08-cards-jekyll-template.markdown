@@ -39,4 +39,3 @@ height="20px"></iframe>
 If you have any questions or suggestions for improvements, don't
 hesitate to [open an issue](https://github.com/willianjusten/cards-jekyll-template/issues)
 or making a pull request for your fork!
-

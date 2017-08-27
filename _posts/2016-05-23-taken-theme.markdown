@@ -11,4 +11,5 @@ license: MIT License
 license_link: https://github.com/vfalanis/taken/blob/master/LICENSE
 ---
 
-Taken is a two column minimalist Jekyll theme based on chapter tumblr theme
+Taken is a two column minimalist Jekyll theme based on chapter tumblr
+theme.

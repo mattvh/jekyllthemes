@@ -7,7 +7,7 @@ download: https://github.com/sharu725/online-cv/archive/master.zip
 demo: http://webjeda.com/online-cv/
 author: webjeda
 thumbnail: online-cv.png
-license: Creative Commons Attribution 3.0 License (CC BY 3.0)
+license: Creative Commons Attribution 3.0 Unported License
 license_link: https://creativecommons.org/licenses/by/3.0/
 ---
 
