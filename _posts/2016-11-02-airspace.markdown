@@ -1,13 +1,13 @@
 ---
 title: Airspace
-homepage: https://github.com/luminousrubyist/airspace-jekyll
-download: https://github.com/luminousrubyist/airspace-jekyll/archive/master.zip
-demo: https://luminousrubyist.github.io/airspace-jekyll
+homepage: https://github.com/ndrewtl/airspace-jekyll
+download: https://github.com/ndrewtl/airspace-jekyll/archive/master.zip
+demo: https://ndrewtl.github.io/airspace-jekyll
 author: Andrew Lee
 thumbnail: airspace.jpg
 license: ThemeFisher License
-license_link: https://github.com/luminousrubyist/airspace-jekyll/blob/master/LICENSE.md
-github_repo: luminousrubyist/airspace-jekyll
+license_link: https://github.com/ndrewtl/airspace-jekyll/blob/master/LICENSE.md
+github_repo: ndrewtl/airspace-jekyll
 stars: 90
 ---
 
@@ -15,4 +15,4 @@ stars: 90
 A port of ThemeFisher's Airspace theme for agency or organization.
 Includes a homepage, works page, contact page, and Jekyll blog.
 
-[Take a look!](https://luminousrubyist.github.io/airspace-jekyll/)
+[Take a look!](https://ndrewtl.github.io/airspace-jekyll/)
