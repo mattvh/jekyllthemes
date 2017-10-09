@@ -1,0 +1,49 @@
+---
+layout: post
+title: TeXt
+date: 2017-10-07 00:00:00
+homepage: https://github.com/kitian616/jekyll-TeXt-theme
+demo: https://tianqi.name/blog/
+author: Tian Qi
+thumbnail: TeXt.png
+license: MIT License
+license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
+---
+
+# TeXt Theme
+
+TeXt is a succinct theme for blogging.
+
+![TeXt Theme](https://wx1.sinaimg.cn/large/73bd9e13ly1fk7dohjut0j21kw0zb114.jpg)
+
+## Features
+
+- Responsive
+- Paginate
+- Table of contents ([TOC](http://projects.jga.me/toc/))
+- Tag
+- Reading quantity ([LeanCloud](https://leancloud.cn/))
+- Emoji（[EmojiOne](https://www.emojione.com/))
+- Comment ([Disqus](https://disqus.com/))
+- Google Analytics
+- Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
+- Semantic HTML
+- Icon automation tool (use gulp)
+- RSS
+
+## How to use
+
+I've written a short guide, see it [HERE](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README.md).
+
+The guide is written in Chinese, I'm trying to translate it to English. I would be really grateful if you can help.
+
+<br/>
+
+Just feel free to Fork, Star it and make a New Version of it. :-)
+
+[GitHub](https://github.com/kitian616/kitian616.github.io/) | [Demo](https://tianqi.name/blog/)
+
+<iframe
+src="//ghbtns.com/github-btn.html?user=kitian616&repo=jekyll-TeXt-theme&type=watch&count=true&size=large"
+allowtransparency="true" frameborder="0" scrolling="0" width="160px"
+height="30px"></iframe>
