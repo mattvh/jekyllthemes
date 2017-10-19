@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DevJournal
-date: 2016-05-13 21:24:48
+date: 2016-05-12 21:24:48
 homepage: https://github.com/hemangsk/DevJournal
 download: https://github.com/hemangsk/DevJournal/archive/master.zip
 demo: https://hemangsk.github.io/DevJournal

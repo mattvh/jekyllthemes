@@ -7,12 +7,14 @@ download: https://github.com/dyutibarma/monochrome/archive/master.zip
 demo: https://dyutibarma.github.io/monochrome/
 author: Dyuti Barma
 thumbnail: monochrome.png
-license: MIT
+license: MIT License
 license_link: https://github.com/dyutibarma/monochrome/blob/master/license.md
 ---
 
 ## About
-Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. 
+
+Monochrome is a minimal, responsive, ready to use Jekyll theme for
+blogging.
 
 ## Features
 

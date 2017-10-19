@@ -2,7 +2,7 @@
 layout: post
 title: Space
 date: 2016-09-13 16:08:00
-homepage:  https://github.com/victorvoid/space-jekyll-template/
+homepage: https://github.com/victorvoid/space-jekyll-template/
 download: https://github.com/victorvoid/space-jekyll-template/archive/master.zip
 demo: http://victorvoid.github.io/space-jekyll-template/
 author: Victor Igor
@@ -42,5 +42,3 @@ height="20px"></iframe>
 If you have any questions or suggestions for improvements, don't
 hesitate to [open an issue](https://github.com/victorvoid/space-jekyll-template/issues)
 or making a pull request for your fork!
-
-

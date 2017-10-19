@@ -6,8 +6,8 @@ homepage: https://github.com/leopardpan/leopardpan.github.io
 download: https://github.com/leopardpan/leopardpan.github.io/archive/master.zip
 demo: http://baixin.io
 author: leopardpan
-thumbnail: onepage.png
-license: MIT
+thumbnail: leopard.png
+license: MIT License
 license_link: https://opensource.org/licenses/MIT
 ---
 
@@ -15,9 +15,11 @@ license_link: https://opensource.org/licenses/MIT
 
 [See it](http://baixin.io/#blog)
 
-A concise air interactive theme, theme is very easy to use and theme will maintain for a long time
+A concise air interactive theme, theme is very easy to use and theme
+will maintain for a long time
 
-一个简洁大气的交互式主题, 主题使用非常简单，主题会长期维护，有问题和需求可以在 [Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/) 中提问。
+一个简洁大气的交互式主题, 主题使用非常简单，主题会长期维护，有问题和需求可以在
+[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/) 中提问。
 
 #### 一些其它效果
 

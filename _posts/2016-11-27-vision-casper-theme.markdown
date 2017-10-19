@@ -6,7 +6,7 @@ homepage: https://github.com/hugocarreira/jekyll-vision-casper-theme
 download: https://codeload.github.com/hugocarreira/jekyll-vision-casper-theme/zip/gh-pages
 demo: https://hugocarreira.github.io/jekyll-vision-casper-theme/
 author: Hugo Carrereira
-thumbnail: hugocarreira_jekyll_vision_casper_theme.png
+thumbnail: vision-casper-theme.png
 license: MIT License
 ---
 

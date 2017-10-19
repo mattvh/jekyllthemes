@@ -7,7 +7,7 @@ download: https://github.com/szhielelp/JekyllTheme-ProjectGaia/archive/master.zi
 demo: https://szhielelp.github.io/JekyllTheme-ProjectGaia/
 author: szhshp
 thumbnail: project-gaia.png
-license: MIT
+license: MIT License
 license_link: https://github.com/szhielelp/JekyllTheme-ProjectGaia/blob/master/LICENSE
 ---
 
@@ -17,7 +17,8 @@ license_link: https://github.com/szhielelp/JekyllTheme-ProjectGaia/blob/master/L
 
 This is a personal Jekyll blog theme.
 
-The theme name is 'Project Gaia', cuz I have another under building project named 'Project Uranus' o(*￣▽￣*)o 
+The theme name is 'Project Gaia', cuz I have another under building
+project named 'Project Uranus' o(*￣▽￣*)o
 
 ![](    https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/1.jpg  )
 ![](    https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/2.jpg  )
