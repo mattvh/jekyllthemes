@@ -10,7 +10,7 @@ thumbnail: sootspirits.png
 license: MIT
 ---
 
-![](https://raw.githubusercontent.com/abhn/Soot-Spirits/master/tmp/fullwidth.png?raw=true)
+![](https://raw.githubusercontent.com/abhn/Soot-Spirits/master/tmp/langslide.gif?raw=true)
 
 Soot Spirits is a responsive mobile ready lightweight two column Jekyll theme made with Bulma CSS. It is a great template for simple personal blogs with focus on typography.
 
