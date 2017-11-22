@@ -1,0 +1,17 @@
+---
+layout: post
+title: WEAD.
+date: 2017-03-02 00:00:00
+homepage: https://github.com/kevyder/wead
+download: https://github.com/kevyder/wead/archive/master.zip
+demo: https://kevyder.github.io/wead/
+author: Kevin Rodríguez
+thumbnail: wead.jpg
+license: MIT
+license_link: https://github.com/kevyder/wead/blob/master/LICENSE.txt
+---
+
+### WEAD.
+
+A simple and clean jekyll theme.
+[See it](https://kevyder.github.io/wead/)
