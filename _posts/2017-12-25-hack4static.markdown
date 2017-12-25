@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
 ---
 
-## Hanuman
+## Hack4Static
 
 A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
 
