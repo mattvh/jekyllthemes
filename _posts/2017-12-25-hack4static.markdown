@@ -10,6 +10,6 @@ license: MIT
 license_link: https://github.com/berkoz/gereksiz/blob/master/LICENSE
 ---
 
-## What this is
+## Hackathon Landing for Jekyll
 
 Hackathon Landing is a Jekyll theme for event landing pages, with built-in Eventbrite registration and a countdown timer.
