@@ -1,40 +1,16 @@
 ---
 layout: post
-title: Hack4Static: Event Landing Page Jekyll Theme
-date: 2017-12-06 04:00:00
-homepage: https://github.com/opensavannah/hackforsavannah.org
-download: https://github.com/opensavannah/hackforsavannah.org/archive/master.zip
-demo: http://hackforsavannah.org
-author: Carl V. Lewis
-thumbnail: hanuman.jpg
-license: MIT License
-license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
+title: Gereksiz
+date: 2014-03-31 00:00:00
+homepage: https://github.com/berkoz/gereksiz
+download: https://github.com/berkoz/gereksiz/archive/master.zip 
+author: Berk Özbalcı
+thumbnail: gereksiz.png
+license: BSD 2-Clause License
+license_link: https://github.com/berkoz/gereksiz/blob/master/LICENSE
 ---
 
-## Hack4Static
-
-A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.
-
-Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
-
-It is built using the open source AMP Start framework and can be customized as per your requirements.
-
-Created by [Samanyou Garg](https://samanyougarg.com) ([Twitter](https://twitter.com/@samanyougarg))
-
-### Features
-
-* Minimal
-* Responsive
-* Syntax Highlighting for code
-* Cover Images for homepage and blog posts
-* Social Sharing
-* Simple Navigation Menu
-* Pagination
-* Google Analytics
-* Can be easily installed via "theme gem"
-* Github Pages support
-* Easily Customisable
-
-### Getting Started
-
-Information and instructions on [Github](https://github.com/samanyougarg/hanuman)
+Gereksiz is a minimalist Jekyll theme, based on the default Jekyll
+theme. It is responsive, generates JSON and RSS feeds on each build,
+and can be easily extended. It uses Open Sans from Google Fonts.
+Gereksiz is the Turkish word for "unnecessary".
