@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gereksiz
-date: 2014-03-31 00:00:00
+title: HackathonLandingJekyll
+date: 2017-12-24 00:00:00
 homepage: https://github.com/berkoz/gereksiz
 download: https://github.com/berkoz/gereksiz/archive/master.zip 
 author: Berk Özbalcı
