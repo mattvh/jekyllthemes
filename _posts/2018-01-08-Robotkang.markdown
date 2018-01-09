@@ -6,7 +6,7 @@ homepage: https://github.com/MengZheK/kangblog.github.io
 download: https://github.com/MengZheK/kangblog.github.io/archive/master.zip
 demo: http://robotkang.cc
 author: Robotkang
-thumbnail: Robotkang.jpg
+thumbnail: Robotkang.jpg.png
 license: MIT License
 license_link: https://github.com/samanyougarg/hanuman/blob/master/LICENSE
 ---
