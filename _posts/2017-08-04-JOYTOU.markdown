@@ -2,26 +2,23 @@
 layout: post
 title: JOYTOU
 date: 2017-08-08 16:08:00
-homepage: https://github.com/joytou/joytou.github.io/
-download: https://github.com/joytou/joytou.github.io/archive/master.zip
-demo: https://joytou.github.io/en/
+homepage: https://github.com/joytou/JOYTOU/
+download: https://github.com/joytou/JOYTOU/archive/master.zip
+demo: https://www.joytou.net/en/
 author: Joytou
 thumbnail: JOYTOU.png
-license: GNU GENERAL PUBLIC LICENSE
-license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
+license: GNU GENERAL PUBLIC LICENSE v2
+license_link: https://github.com/joytou/JOYTOU/blob/master/LICENSE
 ---
 
 JOYTOU is a succinct theme for blogging that be made by Joytou from Bootstrap.
 It supports searching for articles by date, category, tag, equal class.
-> [Demo in English](https://joytou.github.io/en/)
+> [Demo in English](https://www.joytou.net/en/)
 > 
-> [Demo in Chinese](https://joytou.github.io/cn/)
+> [Demo in Chinese](https://www.joytou.net/cn/)
 > 
->>Update Log:
-> 
->>>2017-08-07
-> 
->>>>Add article sharing function (provided by Baidu)
+>>
+>>Add article sharing function (provided by Baidu)
 > 
 >>>>Add Baidu automatic push function
 > 
@@ -58,20 +55,11 @@ It supports searching for articles by date, category, tag, equal class.
 
 JOYTOU是一款由Joytou基于Bootstrap搭建的简洁的博客模板。
 支持依据日期、类型、标签等分类和查看文章。
-> [英文Demo](https://joytou.github.io/en/)
+> [英文Demo](https://www.joytou.net/en/)
 > 
-> [中文Demo](https://joytou.github.io/cn/)
+> [中文Demo](https://www.joytou.net/cn/)
 >>更新日志：
 > 
->>>2017-08-07
-> 
->>>>添加文章分享功能（由百度提供）
-> 
->>>>添加百度自动推送功能
-> 
->>>>添加百度网站验证功能
-> 
->>>>增加多语言支持功能（在'/_data/'文件夹中）
 >>
 >> 功能：
 > 
