@@ -11,7 +11,7 @@ license: MIT License
 license_link: https://github.com/samesies/barber-jekyll/blob/master/LICENSE
 ---
 
-Barber is a minimal blog theme built for Jekll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈
+Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈
 
 ![Barber](https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg "Barber")
 
