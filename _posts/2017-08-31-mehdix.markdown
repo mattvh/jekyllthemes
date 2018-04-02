@@ -1,0 +1,14 @@
+---
+layout: post
+title: mehdix rtl
+date: 2017-08-31
+homepage: https://github.com/mehdisadeghi/jekyll-theme-mehdix-rtl
+download: https://github.com/mehdisadeghi/jekyll-theme-mehdix-rtl/archive/master.zip
+demo: http://mehdix.ir
+author: Mehdi Sadeghi
+thumbnail: mehdix.png
+license: MIT License
+license_link: https://github.com/mehdisadeghi/jekyll-theme-mehdix-rtl/blob/master/LICENSE
+---
+
+A right-to-left theme for Jekyll with Jalali support and some other goodies.
