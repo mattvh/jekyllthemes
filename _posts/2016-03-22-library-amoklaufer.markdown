@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Library Amokläufer
+title: Library 
 date: 2016-03-22 00:00:00
 homepage: https://github.com/SpaceG/library
 download: https://github.com/SpaceG/library/archive/master.zip
 demo: http://lucasgatsas.ch
 author: Lucas Gatsas
-thumbnail: library-amoklaufer.png
+thumbnail: 
 license: MIT License
 license_link: https://github.com/SpaceG/library/blob/master/LICENSE
 ---
