@@ -4,7 +4,7 @@ title: Jekyll Alike
 date: 2018-04-26 12:08:00
 homepage: https://github.com/Rhysol/JekyllBlog
 download: https://github.com/Rhysol/JekyllBlog/archive/master.zip
-demo: http://www.rhysol.com:4000
+demo: http://www.rhysol.com
 author: Rhysol
 thumbnail: jekyll-alike.png
 ---
