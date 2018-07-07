@@ -1,6 +1,6 @@
 
 window.addEventListener('load', function() {
-  echo.init({ offset: 500, throttle: 50 });
+  echo.init({ offsetVertical: 10000 });
 })
 
 var themes = [
