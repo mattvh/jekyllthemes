@@ -6,7 +6,7 @@ github: 'https://github.com/jekyllrc/jekyllthemes'
 permalink: /:title/
 markdown: kramdown
 cdn: 'https://cdn.rawgit.com/jekyllrc/jekyllthemes/gh-pages'
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 sass:
