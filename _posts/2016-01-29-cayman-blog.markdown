@@ -7,7 +7,7 @@ thumbnail: cayman-blog.jpg
 license: Creative Commons Attribution 4.0 International License
 license_link: http://creativecommons.org/licenses/by/4.0/
 github_repo: adueck/cayman-blog
-stars: 15
+stars: 16
 ---
 
 A Jekyll blog theme made for simple, readable snippets of your brain

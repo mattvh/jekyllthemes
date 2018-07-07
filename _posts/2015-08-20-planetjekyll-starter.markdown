@@ -8,5 +8,5 @@ thumbnail: planetjekyll-starter.jpg
 license: Public Domain
 license_link: https://github.com/planetjekyll/jekyll-starter-theme#meta
 github_repo: planetjekyll/jekyll-starter-theme
-stars: 20
+stars: 22
 ---

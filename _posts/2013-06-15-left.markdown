@@ -8,7 +8,7 @@ thumbnail: left.jpg
 license: MIT License
 license_link: https://github.com/holman/left/blob/gh-pages/LICENSE
 github_repo: holman/left
-stars: 471
+stars: 496
 ---
 
 Left is a clean, whitespace-happy layout for Jekyll.

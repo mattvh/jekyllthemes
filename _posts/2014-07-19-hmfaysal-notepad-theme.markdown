@@ -8,7 +8,7 @@ thumbnail: hmfaysal-notepad.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: hmfaysal/Notepad
-stars: 205
+stars: 236
 ---
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful.

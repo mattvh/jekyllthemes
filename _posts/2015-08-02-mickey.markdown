@@ -8,7 +8,7 @@ thumbnail: mickey.jpg
 license: MIT License
 license_link: https://github.com/vincentchan/mickey/blob/master/LICENSE.md
 github_repo: vincentchan/mickey
-stars: 235
+stars: 264
 ---
 
 A minimal one-column, responsive theme for Jekyll.

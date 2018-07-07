@@ -8,5 +8,5 @@ thumbnail: siera.jpg
 license: MIT License
 license_link: https://github.com/KazumaSATO/Siera/blob/master/LICENSE
 github_repo: KazumaSATO/Siera
-stars: 27
+stars: 31
 ---

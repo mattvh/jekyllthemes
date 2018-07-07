@@ -8,7 +8,7 @@ thumbnail: busterni-jekyll-theme.jpg
 license: MIT License
 license_link: https://github.com/muhajirframe/busterni-jekyll-theme/blob/gh-pages/LICENSE
 github_repo: muhajirframe/busterni-jekyll-theme
-stars: 5
+stars: 6
 ---
 
 Busterni Jekyll Theme is a simple jekyll themes made by Muhammad

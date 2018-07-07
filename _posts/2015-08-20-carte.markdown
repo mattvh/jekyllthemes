@@ -8,5 +8,5 @@ thumbnail: carte.jpg
 license: MIT License
 license_link: https://github.com/Wiredcraft/carte/blob/gh-pages/LICENSE.md
 github_repo: Wiredcraft/carte
-stars: 526
+stars: 564
 ---

@@ -8,5 +8,5 @@ thumbnail: fundamental.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: theomjones/fundamental
-stars: 0
+stars: 4
 ---

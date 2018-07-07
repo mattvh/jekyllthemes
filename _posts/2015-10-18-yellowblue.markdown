@@ -8,7 +8,7 @@ thumbnail: yellowblue.jpg
 license: Apache 2.0
 license_link: https://github.com/chalatz/yellowblue/blob/master/LICENSE
 github_repo: chalatz/yellowblue
-stars: 14
+stars: 13
 ---
 ## Yellowblue Jekyll theme
 

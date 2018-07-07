@@ -8,7 +8,7 @@ thumbnail: swift.jpg
 license: MIT License
 license_link: https://github.com/pranavrajs/swift/blob/master/LICENSE
 github_repo: pranavrajs/swift
-stars: 14
+stars: 23
 ---
 
 Swift is a minimal blog theme which can be used on Jekyll. This theme

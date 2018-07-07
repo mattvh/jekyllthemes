@@ -8,5 +8,5 @@ thumbnail: phantom.jpg
 license: MIT License
 license_link: https://github.com/jamigibbs/phantom/blob/master/LICENSE
 github_repo: jamigibbs/phantom
-stars: 52
+stars: 67
 ---

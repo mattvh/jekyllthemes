@@ -8,7 +8,7 @@ thumbnail: the-plain.jpg
 license: MIT License
 license_link: https://github.com/heiswayi/the-plain/blob/gh-pages/LICENSE
 github_repo: heiswayi/the-plain
-stars: 198
+stars: 291
 ---
 
 A minimalist Jekyll theme that focuses on writing matters.

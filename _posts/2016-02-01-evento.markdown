@@ -8,5 +8,5 @@ thumbnail: evento.jpg
 license: MIT License
 license_link: https://github.com/boyney123/evento/blob/master/LICENSE
 github_repo: boyney123/evento
-stars: 29
+stars: 33
 ---

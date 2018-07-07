@@ -8,7 +8,7 @@ thumbnail: opentheme.jpg
 license: MIT License
 license_link: https://github.com/open-start/opentheme/blob/master/LICENSE
 github_repo: open-start/opentheme
-stars: 93
+stars: 114
 ---
 
 ### OpenTheme

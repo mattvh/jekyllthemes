@@ -8,7 +8,7 @@ thumbnail: lagom.jpg
 license: MIT License
 license_link: https://github.com/swanson/lagom/blob/master/LICENSE
 github_repo: swanson/lagom
-stars: 373
+stars: 447
 ---
 
 Lagom, a [Jekyll][j] blog theme with just the right amount of style.

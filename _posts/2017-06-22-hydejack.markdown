@@ -8,7 +8,7 @@ thumbnail: hydejack.jpg
 license: GPL-3.0
 license_link: https://qwtel.com/hydejack/LICENSE/
 github_repo: qwtel/hydejack
-stars: 109
+stars: 212
 ---
 
 **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.

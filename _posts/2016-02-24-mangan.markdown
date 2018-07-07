@@ -8,7 +8,7 @@ thumbnail: mangan.jpg
 license: MIT License
 license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
 github_repo: dikiaap/mangan
-stars: 30
+stars: 39
 ---
 
 A Light contrast of Jekyll theme. For GEEK! For All!

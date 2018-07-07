@@ -8,7 +8,7 @@ thumbnail: bitwiser.jpg
 license: MIT License
 license_link: https://github.com/brijeshb42/bitwiser/blob/master/LICENSE
 github_repo: brijeshb42/bitwiser
-stars: 25
+stars: 28
 ---
 
 Bitwiser is a clean, responsive and simple Jekyll theme with all basic

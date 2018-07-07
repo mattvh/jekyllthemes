@@ -8,7 +8,7 @@ thumbnail: doc-theme.jpg
 license: MIT License
 license_link: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages/LICENSE
 github_repo: aksakalli/jekyll-doc-theme
-stars: 16
+stars: 96
 ---
 
 **Jekyll Doc Theme** is a simple and modern design for publishing blog posts, documentation and many more things for your project.

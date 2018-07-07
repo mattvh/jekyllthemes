@@ -8,7 +8,7 @@ thumbnail: alembic.jpg
 license: MIT License
 license_link: https://github.com/daviddarnes/alembic/blob/master/LICENSE
 github_repo: daviddarnes/alembic
-stars: 74
+stars: 139
 ---
 
 ### Alembic

@@ -8,7 +8,7 @@ thumbnail: naringu.jpg
 license: MIT License
 license_link: https://github.com/ariestiyansyah/naringu/blob/master/LICENSE.md
 github_repo: ariestiyansyah/naringu
-stars: 33
+stars: 50
 ---
 
 Naringu is a hacker like with dark theme for jekyll, it's based on

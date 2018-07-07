@@ -8,7 +8,7 @@ thumbnail: airspace.jpg
 license: ThemeFisher License
 license_link: https://github.com/ndrewtl/airspace-jekyll/blob/master/LICENSE.md
 github_repo: ndrewtl/airspace-jekyll
-stars: 90
+stars: 146
 ---
 
 ### Airspace for Jekyll

@@ -8,5 +8,5 @@ thumbnail: front-cover.jpg
 license: MIT License
 license_link: https://github.com/dashingcode/front-cover/blob/master/LICENSE
 github_repo: dashingcode/front-cover
-stars: 61
+stars: 87
 ---
