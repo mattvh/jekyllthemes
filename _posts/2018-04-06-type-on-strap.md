@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Type on Strap
 homepage: https://github.com/Sylhare/Type-on-Strap
 download: https://github.com/Sylhare/Type-on-Strap/archive/master.zip
