@@ -1,4 +1,4 @@
-var transparentImage = '{{ site.baseurl }}/assets/transparent.png';
+var transparentImage = '{{ site.baseurl }}/assets/placeholder.png';
 var indexList = document.getElementById('index-list');
 if(indexList) { sort('loadOrder'); }
 
