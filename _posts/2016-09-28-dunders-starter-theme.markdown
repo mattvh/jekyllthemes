@@ -7,8 +7,8 @@ author: William Oliveira
 thumbnail: dunders.jpg
 license: MIT License
 license_link: https://github.com/woliveiras/__s/blob/master/LICENSE
-github_repo: woliveiras/__s/
-stars: 20
+github_repo: woliveiras/__s
+stars: 39
 ---
 
 ### Dunders Starter Theme

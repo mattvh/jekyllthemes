@@ -7,8 +7,8 @@ author: Xuna Xu
 thumbnail: jekyll-iris.jpg
 license: MIT License
 license_link: https://github.com/XunaXu/Jekyll-Iris/blob/master/LICENSE.md
-github_repo: XunaXu/Jekyll-Iris.git
-stars: 0
+github_repo: XunaXu/Jekyll-Iris
+stars: 3
 ---
 
 ## Jekyll Iris

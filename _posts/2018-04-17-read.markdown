@@ -7,6 +7,7 @@ author: Fasbyte01
 thumbnail: read.jpg
 license: CCA 3.0 License
 license_link: https://github.com/Fastbyte01/Read/blob/master/LICENSE.md
-github_repo: Fastbyte01/Read 
+github_repo: Fastbyte01/Read
+stars: 1
 ---
 Read is a simple one page Jekyll theme developed by Fastbyte01 and based on Read Only template by Html5up.All the options are changable directly from the config file, so you don't need to touch the code.
