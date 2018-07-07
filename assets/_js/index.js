@@ -1,4 +1,7 @@
-echo.init({ offset: 500, throttle: 50 });
+
+window.addEventListener('load', function() {
+  echo.init({ offset: 500, throttle: 50 });
+})
 
 var themes = [
   {% for theme in site.posts %}
