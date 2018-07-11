@@ -13,4 +13,7 @@ license_link: https://github.com/gchumillas/less_is_more/blob/master/LICENSE
 
 # Less is More!
 
-A minimalist theme for Jekyll. Demo: https://gchumillas.github.io/less_is_more/
+A minimalist theme for Jekyll.
+
+  1. Demo: https://gchumillas.github.io/less_is_more/
+  2. Repo: https://github.com/gchumillas/less_is_more
