@@ -10,3 +10,7 @@ thumbnail: less_is_more.png
 license: MIT License
 license_link: https://github.com/gchumillas/less_is_more/blob/master/LICENSE
 ---
+
+# Less is More!
+
+A minimalist theme for Jekyll. Demo: https://gchumillas.github.io/less_is_more/
