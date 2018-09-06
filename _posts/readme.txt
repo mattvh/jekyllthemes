@@ -1,0 +1,1 @@
+I am trying to do put this theme on my future site. I am a beginner at github, so if I do something wrong, please excuse me. I am trying to built a website for a coffee shop. If someone could help me, I will be gratefull.
