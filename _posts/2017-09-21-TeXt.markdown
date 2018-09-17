@@ -3,7 +3,7 @@ layout: post
 title: TeXt
 date: 2017-10-07 00:00:00
 homepage: https://github.com/kitian616/jekyll-TeXt-theme
-demo: https://tianqi.name/jekyll-TeXt-theme
+demo: https://tianqi.name/jekyll-TeXt-theme/
 author: Tian Qi
 thumbnail: TeXt.png
 license: MIT License
@@ -12,49 +12,58 @@ license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
 
 # TeXt Theme
 
-TeXt is a succinct theme for blogging. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-<iframe
-src="//ghbtns.com/github-btn.html?user=kitian616&repo=jekyll-TeXt-theme&type=watch&count=true&size=large"
-allowtransparency="true" frameborder="0" scrolling="0" width="160px"
-height="30px"></iframe>
+<br/>
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.png)
+![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-<br />
+<br/>
 
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-details.png)
+![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
+
+[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md) | [Documentation](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README.md) | [中文文档](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)
 
 ## Features
 
 - Responsive
-- Paginate ([jekyll-paginate](https://github.com/jekyll/jekyll-paginate))
+- Skins
+- Highlight Theme
 - Table of contents
-- Tag
+- Authors
+- Multi-language support(English, Simplified Chinese, Traditional Chinese)
 - Search
-- Reading quantity ([LeanCloud](https://leancloud.cn/))
-- Emoji ([Jemoji](https://github.com/jekyll/jemoji))
-- Comment ([Disqus](https://disqus.com/))
-- Google Analytics
-- Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
 - Semantic HTML
-- Icon automation tool ([gulp-svg2png](https://www.npmjs.com/package/gulp-svg2png), [gulp-to-ico](https://www.npmjs.com/package/gulp-to-ico))
-- Color Theme
+- RSS（[jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)
 - Mathematical formula ([MathJax](https://www.mathjax.org/))
 - Flowchart, Sequence diagram, Gantt diagram ([mermaid](https://mermaidjs.github.io/))
 - Line Chart, Bar Chart, Radar Chart, Pie Chart ([chartjs](http://www.chartjs.org/))
-- RSS（[jekyll-feed](https://github.com/jekyll/jekyll-feed))
-- Multi-language support(English | Simplified Chinese | Traditional Chinese)
+- Page views ([LeanCloud](https://leancloud.cn/))
+- Comments ([Disqus](https://disqus.com/))
+- Google Analytics
 
-## How to use
+## Skins
 
-See [HERE](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README.md).
+TeXt has 6 built-in skins, you can also set up your own skin.
 
-<br />
+| `default` | `dark` | `forest` |
+| --- |  --- | --- |
+| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-Just feel free to Fork, Star it and make a New Version of it. :-)
+| `ocean` | `chocolate` | `orange` |
+| --- |  --- | --- |
+| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
 
-[GitHub](https://github.com/kitian616/jekyll-TeXt-theme) | [Demo](https://tianqi.name/jekyll-TeXt-theme)
+### Highlight Theme
+
+TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+
+| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
+| --- |  --- | --- | --- |  --- |
+| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+
+<br/>
 
 <iframe
 src="//ghbtns.com/github-btn.html?user=kitian616&repo=jekyll-TeXt-theme&type=watch&count=true&size=large"
