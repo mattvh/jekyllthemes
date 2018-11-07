@@ -1,0 +1,35 @@
+---
+layout: post
+title: Blogo
+date: 2018-11-06 00:00:00
+homepage: https://github.com/sharadcodes/blogo
+download: https://github.com/sharadcodes/blogo/archive/master.zip
+demo: https://sharadcodes.github.io/blogo/
+author: Sharad Raj Singh Maurya
+thumbnail: blogo.png
+license: MIT License
+license_link: https://github.com/sharadcodes/blogo/blob/master/LICENSE
+---
+
+Blogo is a minimal Jekyll theme for gihub pages. It is responsive and it has a portfolio page for the author. Disqus is integrated in the theme and the theme in all gives a minimal look to the content, also the syntax highlighting is integrated for code snippets.It also has pagination plugin. Just go for it :running:
+
+![Screenshot](https://raw.githubusercontent.com/sharadcodes/blogo/master/screenshots/side-menu-open.png)
+
+### Features
+
+* Minimal, responsive and fast loading speed.
+* Syntax heighlighting.
+* Table support.
+* Portfolio page along with bar representation for experience, it can be edited in `_config.yml` .
+* Compatible with GitHub Pages.
+* Support for Disqus comments.
+* Add your **social profiles** easily in `_config.yml`.
+* Custom 404 page
+
+### Contact
+
+If you have any questions or suggestions for improvements, don’t hesitate to open an issue or making a pull request for your fork!
+
+##### Inspired from
+
+* w3css.
