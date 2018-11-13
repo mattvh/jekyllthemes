@@ -1,0 +1,12 @@
+---
+layout: post
+title: bonsai
+date: 2018-11-30 20:22:00
+homepage: https://github.com/mozhn/bonsai
+download: https://github.com/mozhn/bonsai/archive/master.zip
+demo: https://mozhn.github.io/jekyll-theme-bonsai/
+author: mozhn
+thumbnail: bonsai.png
+license: MIT License
+license_link: https://github.com/mozhn/bonsai/blob/master/LICENSE
+---
