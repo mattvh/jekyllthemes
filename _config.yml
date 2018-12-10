@@ -15,4 +15,4 @@ rdiscount:
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
