@@ -4,7 +4,6 @@ title: Balzac
 date: 2013-08-19 13:52:00
 homepage: https://github.com/coletownsend/balzac-for-jekyll
 download: https://github.com/coletownsend/balzac-for-jekyll/archive/master.zip
-demo: http://jekyll.gtat.me
 author: Cole Townsend
 thumbnail: balzac.jpg
 license: MIT License
