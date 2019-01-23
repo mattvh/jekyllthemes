@@ -1,0 +1,28 @@
+---
+layout: post
+title: Calm
+date: 2019-01-23 10:59:00
+homepage: https://github.com/danielsclet/jekyll-calm
+download: https://github.com/danielsclet/jekyll-calm/archive/master.zip
+demo: https://danielsclet.github.io/
+author: Daniel Santos
+thumbnail: calmDS.png
+license: MIT License
+license_link: https://github.com/danielsclet/jekyll-calm/blob/master/LICENSE.txt
+---
+
+# Calm
+
+A simple and beautiful theme for jekyll
+
+## Prints
+
+![Home page](https://i.imgur.com/XKSfttK.jpg)
+---
+![About Page](https://i.imgur.com/QimZEeM.jpg)
+---
+![Post page](https://i.imgur.com/nBQzIW7.jpg)
+
+## Creator
+
+[Daniel Santos](https://github.com/danielsclet)
