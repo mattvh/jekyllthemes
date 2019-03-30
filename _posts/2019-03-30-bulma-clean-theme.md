@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Bulma Clean Theme
-date: 2018-10-28 10:11:00
+date: 2019-03-30 10:11:00
 homepage: https://github.com/chrisrhymes/bulma-clean-theme
 download: https://rubygems.org/gems/bulma-clean-theme
 demo: https://www.csrhymes.com/bulma-clean-theme/
 author: chrisrhymes
-thumbnail: bulma-clean-theme.png
+thumbnail: bulma-clean-theme.jpg
 license: MIT License
 license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE
 ---
@@ -18,9 +18,10 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
 ## Features
 
 * Page, Blog and Post layouts included
+* Use the Bulma navbar, menu and tabs
 * Easily overwrite the primary colour of the theme
 * Manage the navigation using a data file
-* Latest Posts 
+* Latest Posts sidebar (optional)
 * Responsive design
 
 ## Installation
