@@ -1,0 +1,16 @@
+---
+layout: post
+title: Dash
+date: 2019-05-05 00:00:00
+homepage: https://github.com/bitbrain/jekyll-dash
+download: https://github.com/samesies/jekyll-dash/archive/master.zip
+demo: http://bitbrain.github.io
+author: Miguel Gonzalez Sanchez
+thumbnail: dash.jpg
+license: MIT License
+license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
+---
+
+A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒
+
+![Dash](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/logo.png "Barber")
