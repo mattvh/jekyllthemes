@@ -11,16 +11,15 @@ license: MIT License
 license_link: https://github.com/bitbrain/jekyll-dash/blob/master/LICENSE
 ---
 
-![Dash](https://github.com/bitbrain/jekyll-dash/blob/master/logo.png)
+![Dash](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/logo.png)
 
 A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒
 
-[![Build Status](https://img.shields.io/travis/bitbrain/braingdx/master.svg?logo=travis&style=flat-square)](https://travis-ci.org/bitbrain/jekyll-dash)
-[![license](https://img.shields.io/github/license/bitbrain/braingdx.svg?style=flat-square)](LICENSE.MD)
+[![Build Status](https://img.shields.io/travis/bitbrain/braingdx/master.svg?logo=travis&style=flat-square)](https://travis-ci.org/bitbrain/jekyll-dash) [![license](https://img.shields.io/github/license/bitbrain/braingdx.svg?style=flat-square)](LICENSE.MD)
 ---
 This theme for [Jekyll](https://jekyllrb.com/) has been inspired by [dash-ui](https://atom.io/themes/dash-ui), a dark theme for [Atom](https://atom.io).
 
-![screenshot](https://github.com/bitbrain/jekyll-dash/blob/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png)
 
 ## Installation
 
@@ -80,11 +79,11 @@ dash:
 
 ## Additional Features
 
-**Tagging** add the `jekyll/tagging` plugin to your `_config.yml` file to enable tagging. Do not forget to also add the following to your `Gemfile`:
+* **Tagging** add the `jekyll/tagging` plugin to your `_config.yml` file to enable tagging. Do not forget to also add the following to your `Gemfile`:
 ```Gemfile
 gem "jekyll-tagging"
 ```
-**Gravatar** if you want to display your gravatar picture, add the `liquid-md5` to your `_config.yml` file. Do not forget to also add the following to your `Gemfile`:
+* **Gravatar** if you want to display your gravatar picture, add the `liquid-md5` to your `_config.yml` file. Do not forget to also add the following to your `Gemfile`:
 ```Gemfile
 gem "liquid-md5"
 ```
