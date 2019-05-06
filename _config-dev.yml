@@ -4,7 +4,7 @@ url: 'http://themes.jekyllrc.org'
 baseurl: ''
 github: 'https://github.com/jekyllrc/jekyllthemes'
 permalink: /:title/
-markdown: rdiscount
+markdown: kramdown
 cdn: ''
 gems:
   - jekyll-sitemap
