@@ -4,7 +4,6 @@ title: Jalpc-A
 date: 2016-06-27 12:30:00
 homepage: https://github.com/Jack614/Jalpc-A
 download: https://github.com/Jack614/Jalpc-A/archive/gh-pages.zip
-demo: http://angular.jack003.com
 author: Kun Jia
 thumbnail: Jalpc-A-jekyll-theme.jpg
 license: MIT License
