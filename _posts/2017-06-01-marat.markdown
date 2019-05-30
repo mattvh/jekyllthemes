@@ -4,7 +4,7 @@ title: Marat
 date: 2013-06-01 01:42:00
 homepage: https://github.com/JohnCoene/marat
 download: https://github.com/JohnCoene/marat/archive/master.zip
-demo: http://johncoene.github.io/marat
+demo: https://marat.john-coene.com
 author: John Coene
 thumbnail: marat.png
 license: MIT License
