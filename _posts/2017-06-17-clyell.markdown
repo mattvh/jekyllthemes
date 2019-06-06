@@ -2,15 +2,15 @@
 layout: post
 title: Clyell
 date: 2017-06-17 10:00:00
-homepage: https://github.com/gjuniioor/clyell
-download: https://github.com/gjuniioor/clyell/archive/gh-pages.zip
-demo: https://gjuniioor.github.io/clyell/
-author: gjuniioor
+homepage: https://github.com/gildasio/clyell
+download: https://github.com/gildasio/clyell/archive/gh-pages.zip
+demo: https://gildasio.github.io/clyell/
+author: gildasio
 thumbnail: clyell.png
 license: GNU General Public License Version 3
-license_link: https://github.com/gjuniioor/clyell/blob/gh-pages/assets/LICENSE
+license_link: https://github.com/gildasio/clyell/blob/gh-pages/LICENSE
 ---
 
 A minimal dark and yellow theme focused on the content.
 
-To more information, please, take a look at the [README](https://github.com/gjuniioor/clyell/) file.
+To more information, please, take a look at the [README](https://github.com/gildasio/clyell/) file.
