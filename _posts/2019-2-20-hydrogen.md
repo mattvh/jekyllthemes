@@ -4,7 +4,7 @@ title: Hydrogen
 date: 2019-02-20 13:30:00
 homepage: https://github.com/link9596/hydrogen
 download: https://github.com/link9596/hydrogen/archive/master.zip
-demo: https://atlinker.cn
+demo: https://hydrogen.atlinker.cn
 author: Link
 thumbnail: hydrogen.png
 ---
