@@ -13,4 +13,4 @@ license_link: https://github.com/gildasio/clyell/blob/gh-pages/LICENSE
 
 A minimal dark and yellow theme focused on the content.
 
-To more information, please, take a look at the [README](https://github.com/gildasio/clyell/) file.
+To more information, please, take a look at the [README](https://github.com/gildasio/clyell#clyell) file.
