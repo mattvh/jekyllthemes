@@ -25,6 +25,10 @@ This project forked and has been modified from ["**A simple grey theme for Jekyl
 * Highlight pre
 * Next & Previous Post
 * Disqus comment
+* Projects
+* Project page
+* Share on social media
+* Google analytics
 
 ### Screenshot
 
