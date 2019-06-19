@@ -45,6 +45,7 @@ username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
 user_title: Mauricio Urraco
 email: mauriurraco@gmail.com
+personal_website: https://mauriciourraco.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
