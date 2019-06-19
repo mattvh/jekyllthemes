@@ -17,7 +17,7 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
 
 ## Features
 
-* Page, Blog and Post layouts included
+* Page, Blog, Post and Product layouts included
 * Use the Bulma navbar, menu and tabs
 * Easily overwrite the primary colour of the theme
 * Manage the navigation using a data file
@@ -48,3 +48,10 @@ Or install it yourself as:
 
     $ gem install bulma-clean-theme
 
+## Use with GitHub Pages
+
+The theme can also be used with GitHub Pages by adding this line to your `_config.yml`
+
+```yaml
+remote_theme: chrisrhymes/bulma-clean-theme
+```
