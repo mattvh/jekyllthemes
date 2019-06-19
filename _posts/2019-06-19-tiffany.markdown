@@ -6,7 +6,7 @@ homepage: https://github.com/bit-ranger/blog
 download: https://github.com/bit-ranger/blog/archive/gh-pages.zip
 demo: http://bit-ranger.github.io/blog
 author: bit-ranger
-thumbnail: tiffany.jpg
+thumbnail: tiffany.png
 license: MIT License
 license_link: https://github.com/bit-ranger/blog/blob/gh-pages/LICENSE
 ---
