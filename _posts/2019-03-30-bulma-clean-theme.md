@@ -8,7 +8,7 @@ demo: https://www.csrhymes.com/bulma-clean-theme/
 author: chrisrhymes
 thumbnail: bulma-clean-theme.jpg
 license: MIT License
-license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE
+license_link: https://github.com/chrisrhymes/bulma-clean-theme/blob/master/LICENSE.txt
 ---
 
 # bulma-clean-theme
