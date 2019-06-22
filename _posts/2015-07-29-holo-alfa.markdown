@@ -2,9 +2,9 @@
 layout: post
 title: Holo Alfa
 date: 2015-07-29 02:19:00
-homepage: https://github.com/steinvc/holo-alfa
-download: https://github.com/steinvc/holo-alfa/archive/gh-pages.zip
-demo: http://steinvc.github.io/holo-alfa/
+homepage: https://github.com/stijnvc/holo-alfa
+download: https://github.com/stijnvc/holo-alfa/archive/gh-pages.zip
+demo: http://stijnvc.github.io/holo-alfa/
 author: Stijn van Cuijk
 thumbnail: holo-alfa.png
 license: MIT License
