@@ -6,9 +6,9 @@ homepage: https://github.com/lightfish-zhang/pinghsu-jekyll
 download: https://codeload.github.com/lightfish-zhang/pinghsu-jekyll/zip/master
 demo: https://lightfish.cn
 author: lightfish-zhang
-thumbnail: pinghsu-jekyll.jpg
+thumbnail: pinghsu-jekyll.png
 license: MIT License
-license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE.txt
+license_link: https://github.com/lightfish-zhang/pinghsu-jekyll/blob/master/LICENSE
 ---
 
 # Theme pinghsu-jekyll
