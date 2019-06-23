@@ -8,7 +8,7 @@ demo: https://cyevgeniy.github.io/jekyll-true-minimal/
 author: Yevgeniy Chaban
 thumbnail: true-minimal.png
 license: GPL-2.0 
-license_link: https://github.com/cyevgeniy/jekyll-true-minimal/LICENSE
+license_link: https://github.com/cyevgeniy/jekyll-true-minimal/blob/master/LICENSE
 ---
 
 Another minimal theme for jekyll.
