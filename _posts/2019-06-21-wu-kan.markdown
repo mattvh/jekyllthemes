@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wu-kan
-date: 2019-03-20 18:00:00
+date: 2019-06-21 18:00:00
 homepage: https://github.com/wu-kan/wu-kan.github.io
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
 demo: https://wu-kan.github.io
@@ -16,9 +16,9 @@ A content-first, sliding sidebar theme for Jekyll.
 
 Based on [lanyon](https://github.com/poole/lanyon).
 
+See more at [about page](https://wu-kan.github.io/about) or [this post](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客).
+
 Demo：<https://wu-kan.github.io>
 
 ![DEMO1](https://wu-kan.github.io/public/image/2019-01-18-1.jpg)
 ![DEMO2](https://wu-kan.github.io/public/image/2019-01-18-2.jpg)
-
-See more at [about page](https://wu-kan.github.io/about) or [this post](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客).
