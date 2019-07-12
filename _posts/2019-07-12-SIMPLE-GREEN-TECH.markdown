@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SIMPLE GREEN TECHBLOG
-date: 2019-06-20 14:00:00
+date: 2019-07-12 22:30:00
 homepage: https://github.com/alainpham/alainpham.github.io
 download: https://github.com/alainpham/alainpham.github.io/releases/download/0.1.0/simple.green.techblog.zip
 demo: https://alainpham.github.io
