@@ -19,7 +19,7 @@ Persephone is a minimal Jekyll theme designed for personal blog and your persona
 
 | ![home layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png) | ![blog layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png) |![post layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png) |
 | -- | -- | -- |
-| `layout: home` [Demo](https://en.erl.im/blog/) | `layout: blog` [Demo](https://erl.im/blog) | `layout: post` [Demo](https://erl.im/the-jekyll-comment-system) |
+| `layout: home` [Demo](https://en.erl.im/blog/) | `layout: blog` [Demo](https://erl.im/blog) | `layout: post` [Demo](https://erl.im/blog/the-jekyll-comment-system) |
 |  ![page layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/page.png)| ![archive layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/archive.png)      | ![slides layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/slides.png) |
 |  `layout: page` [Demo](https://erl.im/about)| `layout: archive` [Demo](https://erl.im/archive) | `layout: slides` [Demo](https://erl.im) |
 | ![book layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/book.png) | ![chapter layout](https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/chapter.png) |
