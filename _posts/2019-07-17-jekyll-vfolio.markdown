@@ -21,3 +21,6 @@ Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portf
 - No databases (Jekyll and gh-pages help us to have CMS like experience without databases)
 - Fast and Secure
 - You may include youtube or vimeo videos in portfolio pages.
+
+## Getting Started with Jekyll-Vfolio theme
+To setup up the theme and know the structure follow this guide: [https://github.com/ravigupta-art/jekyll-vfolio/blob/master/README.md](https://github.com/ravigupta-art/jekyll-vfolio/blob/master/README.md)
