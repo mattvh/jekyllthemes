@@ -1,0 +1,47 @@
+---
+layout: post
+title: Devlopr Jekyll
+date: 2019-08-01 00:00:00
+homepage: https://github.com/sujaykundu777/devlopr-jekyll
+download: https://rubygems.org/gems/devlopr
+demo: https://devlopr.netlify.com
+author: Sujay Kundu
+thumbnail: devlopr.png
+license: MIT License
+license_link: https://opensource.org/licenses/MIT
+---
+
+Devlopr is a modern Jekyll theme built for Developers focused on speed performance & SEO best practices. 
+
+### Features
+
+* Minimal, responsive and speed performance optimized
+* Real Time Search Using Algolia 
+* Super Fast Minfification for Fast Client Side Rendering
+* SEO friendly and Google Tag Manager/Analytics Integration
+* Code Syntax Highlighter
+* [Wakatime](https://wakatime.com) Integrated
+* Form submissions with **[Formspree.io](https://formspree.io/) contact form integration**
+* Comments usin Disquss
+* Inline critical CSS with [critical](https://github.com/addyosmani/critical)
+* Add your **social profiles** easily in `_config.yml`. Only the social icons you enter in `config.yml` will show up on the site footer.
+* Using Bootstrap + Material Design
+* Customizable About Me and Projects Page
+* Quick Start using Startup Template [devlopr-starter](https://github.com/sujaykundu777/devlopr-starter)
+
+### Demo - [here](https://devlopr.netlify.com)
+
+## Create a new blog using devlopr-jekyll theme - [Guide](https://devlopr.netlify.com/guides/2017/11/19/build-a-blog-using-devlopr-jekyll)
+
+## Deploy devlopr-jekyll blog using Github Pages and Travis CI - [Guide](https://devlopr.netlify.com/guides/2017/11/19/deploy-blog-using-devlopr-jekyll-and-github-pages)
+
+## Screenshots:
+
+![Screenshot 1](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot3.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/sujaykundu777/devlopr-starter/master/assets/img/screenshot4.png)
+
