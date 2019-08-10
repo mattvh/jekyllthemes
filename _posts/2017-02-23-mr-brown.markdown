@@ -3,11 +3,11 @@ layout: post
 title: Mr.Brown
 date: 2017-02-23 00:00:00
 homepage: https://github.com/artemsheludko/mr-brown
-download: https://github.com/artemsheludko/mr-brown
+download: https://github.com/artemsheludko/mr-brown/archive/master.zip
 demo: http://artemsheludko.pw/mr-brown
 author: Artem Sheludko
-thumbnail: mr.brown.png
-license: MIT
+thumbnail: mr-brown.png
+license: MIT License
 ---
 
 ![](https://github.com/artemsheludko/mr-brown/blob/master/assets/images/mr.brown.jpg?raw=true)

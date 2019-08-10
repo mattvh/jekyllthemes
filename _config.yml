@@ -4,7 +4,7 @@ description: Insert tagline here
 
 permalink: /themes/:title/
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 highlighter: pygments
 paginate: 20

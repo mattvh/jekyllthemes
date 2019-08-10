@@ -28,4 +28,3 @@ Responsive Theme
 <iframe width="730" height="480" src="https://www.youtube.com/embed/T2nx6tj-ZH4" frameborder="0" allowfullscreen></iframe>
 
 [Detailed Installation and Theme Guidelines](https://blog.webjeda.com/jekyll-themes/vyaasa/)
-

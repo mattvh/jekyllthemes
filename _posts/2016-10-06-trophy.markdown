@@ -7,11 +7,13 @@ download: https://github.com/thomasvaeth/trophy-jekyll/archive/master.zip
 demo: http://thomasvaeth.com/trophy/
 author: Thomas Vaeth
 thumbnail: trophy.jpg
-license: MIT
+license: MIT License
 license_link: https://github.com/thomasvaeth/trophy-jekyll/blob/master/LICENSE.txt
 ---
 
-Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
+Trophy is a blog theme for Jekyll built using HTML, Sass, and
+JavaScript (no jQuery). External stylesheets and libraries included are
+Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
 
 Blog Page (Posts)
 ![Blog Page](http://www.urbaninfluence.com/wp-content/uploads/2016/09/trophy-index.jpg "Desktop screenshot")

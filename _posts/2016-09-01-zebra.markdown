@@ -10,11 +10,15 @@ thumbnail: zebra.png
 license: MIT License
 license_link: https://github.com/newbiettn/zebra/blob/gh-pages/LICENSE
 ---
-Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from https://www.subtraction.com/ of Khoi Vinh.
 
-> Everytime I look at a zebra, I can't figure out whether it's black with white stripes or white with black stripes, and that frustrates me.
+Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from
+https://www.subtraction.com/ of Khoi Vinh.
+
+> Everytime I look at a zebra, I can't figure out whether it's black
+> with white stripes or white with black stripes, and that frustrates me.
 
 ## Features
+
 1. Thanks to CSS framework Foundation, the site is mobile friendly.
 2. Highly customizable.
 3. Clear code syntax
@@ -23,6 +27,7 @@ Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from https://www
 6. Custom code for centered and captioned images.
 
 ## Get started
+
 1. Fork the repository.
 2. Clone the repository: `git clone https://github.com/<YOUR USERNAME>/zebra`
 3. Install the GitHub Pages gem (included Jekyll): `bundle install`
@@ -30,4 +35,6 @@ Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from https://www
 5. Open http://127.0.0.1:4000/ or http://localhost:4000/
 
 ## Contact
-Pull requests are extremely welcome, otherwise can contact me via newbiettn at gmail dot com.
+
+Pull requests are extremely welcome, otherwise can contact me via
+newbiettn at gmail dot com.

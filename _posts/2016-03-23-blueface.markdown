@@ -4,7 +4,7 @@ title: blueface
 date: 2016-03-23 10:57:00
 homepage: https://github.com/tnguyen/blueface
 download: https://github.com/tnguyen/blueface/archive/master.zip
-demo: https://thien.io
+demo: http://thien.io/blueface
 author: Thien Nguyen
 thumbnail: blueface.png
 license: MIT License

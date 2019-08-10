@@ -6,7 +6,7 @@ homepage: https://github.com/sharu725/cards
 download: https://github.com/sharu725/cards/archive/master.zip
 demo: https://webjeda.com/cards
 author: sharathdt
-thumbnail: webjeda-cards-thumb.png
+thumbnail: webjeda-cards.png
 license: MIT License
 license_link: https://opensource.org/licenses/MIT
 ---

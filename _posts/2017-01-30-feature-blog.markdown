@@ -11,5 +11,5 @@ license_link: https://github.com/lavkumarv/feature-blog-jekyll/blob/master/LICEN
 ---
 
 Feature Blog is a minimalist, beautiful, responsive theme for Jekyll.
-It is built using the Bootstrap 3.
-Slate is responsive theme for GitHub Pages.
+It is built using the Bootstrap 3. Slate is responsive theme for GitHub
+Pages.
