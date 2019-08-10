@@ -8,7 +8,7 @@ demo: https://soyaine.github.io/jekyll-theme-diary/
 author: Soyaine
 thumbnail: jekyll-theme-diary-thumbnail-light.jpg
 license: MIT License
-license_link: https://github.com/erayaydin/jekyll-bulma/blob/master/LICENSE.md
+license_link: https://github.com/soyaine/jekyll-theme-diary/blob/master/LICENSE
 ---
 
 This is a simple but beautiful theme for diary blog, which may help you to develop the habit of keeping a diary. 
