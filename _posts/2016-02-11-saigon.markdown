@@ -4,7 +4,7 @@ title: Saigon
 date: 2016-02-11 09:52:00
 homepage: https://github.com/hoffli/saigon-jekyll-theme
 download: https://github.com/hoffli/saigon-jekyll-theme/archive/master.zip
-demo: http://www.18a-saigon.com/
+demo: http://hoffli.github.io/saigon-jekyll-theme/
 author: Peter Hoffler
 thumbnail: saigon.jpg
 license: MIT License
