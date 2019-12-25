@@ -2,13 +2,13 @@
 layout: post
 title: Textalic
 date: 2019-12-24 21:20:00
-homepage: https://github.com/UniFreak/unifreak.github.io
+homepage: https://github.com/UniFreak/jekyll-theme-textalic
 download: https://codeload.github.com/UniFreak/jekyll-theme-textalic/zip/master
 demo: https://unifreak.github.io
 author: FangHao
 thumbnail: textalic.png
 license: MIT License
-license_link: https://github.com/UniFreak/unifreak.github.io/blob/master/LICENCE
+license_link: https://github.com/UniFreak/jekyll-theme-textalic/blob/master/LICENCE
 ---
 
 # Jekyll Theme Textalic
