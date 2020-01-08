@@ -1,0 +1,14 @@
+---
+layout: post
+title: Ghostly
+date: 2020-01-08
+homepage: http://www.jmlilly.net/ghostly
+download: https://github.com/jonathanlilly/ghostly/archive/master.zip
+demo: http://www.jmlilly.net
+author: Jonathan M. Lilly
+thumbnail: ghostly.png
+license: MIT License
+license_link: https://github.com/jonathanlilly/ghostly/blob/master/LICENSE
+---
+
+Ghostly is a blog-enabled, text-centered Jekyll theme with a minimal aesthetic and fade transitions, intended to meet the needs of academic researchers. This theme comes equipped with a double blog, a lightbox, support for online commenting, and a skeleton site with a readily customizable style.
