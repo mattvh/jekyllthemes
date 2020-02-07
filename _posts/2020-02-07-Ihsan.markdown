@@ -1,0 +1,14 @@
+---
+layout: post
+title: Ihsan
+date: 2020-02-07 03:27:00
+homepage: https://github.com/Mulham/Ihsan
+download: https://github.com/Mulham/Ihsan/archive/gh-pages.zip
+demo: https://mulham.github.io/Ihsan
+author: Mulham
+thumbnail: Ihsan.png
+license: MIT License
+license_link: https://github.com/Mulham/Ihsan/blob/gh-pages/LICENSE
+---
+
+AMP free blog theme for Jekyll
