@@ -3,7 +3,7 @@ layout: post
 title: Dull
 date: 2020-02-17 22:12:20 -0300
 homepage: https://github.com/k4lm4rx/dull
-download: https://github.com/k4lm4rx/dull/archive/master.zip
+download: https://github.com/k4lm4rx/dull/archive/gh-pages.zip
 demo: https://k4lm4rx.github.io/dull
 author: Carlos Marx
 thumbnail: dull.png
