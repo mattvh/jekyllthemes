@@ -1,0 +1,80 @@
+---
+layout: post
+title: Dull
+date: 2020-02-17 22:12:20 -0300
+homepage: https://github.com/k4lm4rx/dull
+download: https://github.com/k4lm4rx/dull/archive/master.zip
+demo: https://k4lm4rx.github.io/dull
+author: Carlos Marx
+thumbnail: dull.png
+license: MIT
+license_link: https://raw.githubusercontent.com/k4lm4rx/dull/master/LICENSE.txt
+---
+
+# Dull Theme
+
+This is just a non interting Jekyll theme. There is no fancy CSS or JS.
+
+Boring page with no clutter is great for reading. 
+
+## Installation
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "dull"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: dull
+```
+
+Add the following if you are using gh-pages:
+
+```yaml
+remote_theme: k4lm4rx/dull
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install dull
+
+## Usage
+
+### Variables
+The only custom variable is `mugshot`, in case you want a little picture below the header.
+
+    mugshot: "/assets/images/mugshot.jpg"
+
+### Custom Head
+If you want to add entries to `head`, create the file `_includes/custom-head.html`.
+
+### Footer
+If you want a footer, create the file `_includes/footer.html`.
+
+### Code highlighting
+To have your code highlighted add to `_config.yml`:
+
+    highlighter: rouge
+
+Your code will be highlighted with [Dracula](https://draculatheme.com/) color scheme.
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `dull.gemspec` accordingly.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
