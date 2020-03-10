@@ -6,6 +6,7 @@ homepage: https://github.com/wu-kan/fengwei2002.github.io
 download: https://github.com/wu-kan/fengwei2002.github.io/archive/master.zip
 demo: https://fengwei2002.github.io
 author: fengwei
+thumbnail: psychonaut.png
 license: MIT License
 license_link: https://github.com/fengwei2002/fengwei2002.github.io/blob/master/LICENSE
 ---
