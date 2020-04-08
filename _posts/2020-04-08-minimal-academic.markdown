@@ -6,7 +6,7 @@ homepage: https://github.com/yaoyao-liu/minimal-academic
 download: https://github.com/yaoyao-liu/minimal-academic/archive/1.0.zip
 demo: http://yyliu.net/minimal-academic/
 author: Yaoyao Liu
-thumbnail: thumbnail.png
+thumbnail: minimal-academic.png
 license: CC0-1.0
 license_link: https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE
 ---
