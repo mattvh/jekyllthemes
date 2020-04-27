@@ -2,7 +2,7 @@
 title: Beautiful Jekyll
 homepage: https://github.com/daattali/beautiful-jekyll
 download: https://github.com/daattali/beautiful-jekyll/archive/master.zip
-demo: http://deanattali.com/beautiful-jekyll/
+demo: https://beautifuljekyll.com/
 author: Dean Attali
 thumbnail: beautiful-jekyll.jpg
 license: MIT License
@@ -15,7 +15,7 @@ stars: 1236
 
 Beautiful Jekyll is a ready-to-use template to help you create an
 awesome website quickly. Perfect for personal blogs or simple project
-websites. [Check out a demo](http://deanattali.com/beautiful-jekyll) of
+websites. [Check out a demo](https://beautifuljekyll.com/) of
 what you'll get after just two minutes or look at [my personal website](http://deanattali.com/)
 to see it in use.
 
