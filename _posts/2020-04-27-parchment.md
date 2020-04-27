@@ -6,7 +6,7 @@ homepage: https://github.com/pro-panda/parchment/
 download: https://github.com/pro-panda/parchment/archive/master.zip
 demo: https://pro-panda.github.io/parchment/
 author: pro-panda
-thumbnail: hamilton.png
+thumbnail: parchment.jpg
 license: GNU GPLv3
 license_link: https://github.com/pro-panda/parchment/blob/master/LICENSE
 ---
