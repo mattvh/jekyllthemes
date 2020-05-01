@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Academic tufte
+title: Academic Tufte
 date: 2020-01-05 01:42:00
 homepage: https://github.com/fiasinstitute/arabica
 download: https://github.com/fiasinstitute/arabica/archive/master.zip
