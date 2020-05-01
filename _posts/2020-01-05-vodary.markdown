@@ -1,0 +1,14 @@
+---
+layout: post
+title: Vodary
+date: 2020-01-05 01:42:00
+homepage: https://github.com/fiasinstitute/vodarynew
+download: https://github.com/fiasinstitute/vodarynew/archive/master.zip
+demo: https://vodary.fias.fr/
+author: Federative Institute for Advanced Study
+thumbnail: vodary.png
+license: MIT License
+license_link: https://github.com/fiasinstitute/vodarynew/blob/master/LICENSE
+---
+
+Multilingual and responsive book showcase template.
