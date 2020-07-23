@@ -1,24 +1,23 @@
 ---
 layout: post
-title: wu-kan
+title: jekyll-theme-WuK
 date: 2019-06-21 18:00:00
-homepage: https://github.com/wu-kan/wu-kan.github.io
+homepage: https://jekyll-theme-WuK.wu-kan.cn
 download: https://github.com/wu-kan/wu-kan.github.io/archive/master.zip
-demo: https://wu-kan.github.io
+demo: https://wu-kan.cn
 author: WuK
 thumbnail: wu-kan.png
 license: MIT License
 license_link: https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE
 ---
-# wu-kan
+# jekyll-theme-WuK
 
 A content-first, sliding sidebar theme for Jekyll. 
 
 Based on [lanyon](https://github.com/poole/lanyon).
 
-See more at [about page](https://wu-kan.github.io/about) or [this post](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客).
+See more at [home page](https://jekyll-theme-WuK.wu-kan.cn) & [this post](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/).
 
-Demo：<https://wu-kan.github.io>
+Demo：<https://wu-kan.cn>
 
-![DEMO1](https://wu-kan.github.io/public/image/2019-01-18-1.jpg)
-![DEMO2](https://wu-kan.github.io/public/image/2019-01-18-2.jpg)
+![DEMO](https://jekyll-theme-WuK.wu-kan.cn/screenshot.png)
