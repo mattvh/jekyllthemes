@@ -1,0 +1,36 @@
+---
+layout: post
+title: Junior
+date: 2018-04-30 21:00:00
+homepage: https://github.com/thundergolfer/junior-theme
+download: https://github.com/thundergolfer/junior-theme/archive/master.zip
+demo: https://juniortheme.live/
+author: Jonathon Belotti
+thumbnail: junior.png
+license: MIT License
+license_link: https://github.com/thundergolfer/junior-theme/blob/master/LICENSE
+---
+
+Junior is a blog/portfolio theme for Jekyll, the static site generator. It's designed and developed by [@jonobelotti_IO](https://twitter.com/jonobelotti_IO).
+
+See Junior in action with the demo site: https://juniortheme.live/.
+
+## Features
+
+* Mobile-ready CSS
+* Sleek CSS-transition elements
+* An auto-populating Github Portfolio page
+* A resumé page (with print to PDF button)
+* Visual focused projects page
+* *Disqus* Commenting integration
+* *Google Analytics* integration
+* Contact Page
+
+## How to use it
+1. Star & fork the [repo][repo]
+2. Rename the repo and clone the master branch to your local directory
+3. Customize the `_config.yml` file to represent you
+
+* * *
+
+[repo]: https://github.com/thundergolfer/junior-theme
