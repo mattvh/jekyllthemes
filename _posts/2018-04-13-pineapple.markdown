@@ -2,7 +2,7 @@
 layout: post
 title: Pineapple
 date: 2018-04-13 00:00:00
-homepage: https://github.com/arnolds/
+homepage: https://github.com/arnolds/pineapple
 download: https://github.com/arnolds/pineapple/archive/master.zip
 demo: https://arnolds.io/pineapple/
 author: Arnolds Kozlovskis
