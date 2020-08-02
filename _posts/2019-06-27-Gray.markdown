@@ -6,7 +6,7 @@ homepage: https://github.com/brunofolle/gray
 download: https://github.com/brunofolle/gray/archive/master.zip
 demo: https://brunofolle.com.br
 author: Bruno Folle
-thumbnail: Gray.png
+thumbnail: gray.png
 license: MIT License
 license_link: https://github.com/brunofolle/gray/blob/master/LICENSE.txt
 ---
