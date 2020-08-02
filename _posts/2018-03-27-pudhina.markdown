@@ -1,0 +1,29 @@
+---
+layout: post
+title: Pudhina
+date: 2018-03-27 01:23:45
+homepage: https://github.com/Knhash/Pudhina
+download: https://github.com/Knhash/Pudhina/archive/master.zip
+demo: https://knhash.github.io/Pudhina/
+author: Knhash
+thumbnail: pudhina.jpg
+license: MIT License
+license_link: https://github.com/Knhash/Pudhina/blob/master/LICENSE
+---
+
+# Pudhina
+A simple, minimal [Jekyll](jekyllrb.com) theme for a personal web page and blog, focusing on white space and readability
+
+[Click here](https://knhash.github.io/Pudhina/) to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.
+
+## Screenshots
+
+![Home](https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/home.png?raw=true "Home") 
+
+## Features
+- Simple, minimal and clean
+- Blog posts categorised
+- Responsive
+- Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
+- Font-Awesome Icons.
+- Glitchy 404 page
