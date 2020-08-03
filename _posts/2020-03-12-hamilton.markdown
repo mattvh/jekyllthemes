@@ -1,0 +1,29 @@
+---
+layout: post
+title: Hamilton
+date: 2020-03-12 20:28:17 +0800
+homepage: https://github.com/hszhakka/hamilton
+download: https://github.com/hszhakka/hamilton/archive/master.zip
+demo: https://hszhakka.github.io/hamilton/
+author: hszhakka
+thumbnail: hamilton.png
+license: MIT
+license_link: https://github.com/hszhakka/hamilton/blob/master/LICENSE.txt
+---
+
+Another minimal style of Jekyll theme for writers. The original purpose of this theme is to be a replacement of the default Jekyll theme -- Minima. Hamilton is an enhancement of Minima but still, keep in minimal.
+
+## Features <!-- omit in toc -->
+
+- [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
+- [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
+- [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
+- [Jekyll TOC](https://github.com/allejo/jekyll-toc)
+- [Google Analytics](https://analytics.google.com/)
+- [MathJax](https://www.mathjax.org/)
+- [Disqus](https://disqus.com/)
+- [Font Awesome](https://fontawesome.com/)
+- Customizable head
+- Configurable page navigation
+- Customizable styles and skins
+- Archive pages implemented in pure Liquid
