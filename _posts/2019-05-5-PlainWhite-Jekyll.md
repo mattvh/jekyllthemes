@@ -2,13 +2,13 @@
 layout: post
 title: Plainwhite
 date: 2019-05-05 09:20:00
-homepage: https://github.com/thelehhman/plainwhite-jekyll
-download: https://github.com/thelehhman/plainwhite-jekyll/archive/master.zip
-demo: http://thelehhman.com/
-author: thelehhman
+homepage: https://github.com/samarsault/plainwhite-jekyll
+download: https://github.com/samarsault/plainwhite-jekyll/archive/master.zip
+demo: http://samarsault.com/
+author: samarsault
 thumbnail: plainwhite.png
 license: MIT
-license_link: https://github.com/thelehhman/plainwhite-jekyll/blob/master/LICENSE.txt
+license_link: https://github.com/samarsault/plainwhite-jekyll/blob/master/LICENSE.txt
 ---
 
 A portfolio-style jekyll theme for writers.
