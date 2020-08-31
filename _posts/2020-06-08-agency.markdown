@@ -6,7 +6,7 @@ homepage: https://github.com/raviriley/agency-jekyll-theme
 download: https://github.com/raviriley/agency-jekyll-theme/archive/master.zip
 demo: https://raviriley.github.io/agency-jekyll-theme-starter/
 author: Ravi Riley
-thumbnail: agency.PNG
+thumbnail: agency.png
 license: MIT License
 license_link: https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt
 ---
