@@ -4,7 +4,7 @@ title: What A THeme
 date: 2020-08-22 00:15:00 +0530
 homepage: https://github.com/thedevslot/WhatATheme
 download: https://github.com/thedevslot/WhatATheme/archive/master.zip
-demo: https://thedevslot.github.io
+demo: https://thedevslot.github.io/WhatATheme/
 author: Sneha Omer, Harsh Trivedi
 thumbnail: what-a-theme.png
 license: GNU General Public License v2.0
