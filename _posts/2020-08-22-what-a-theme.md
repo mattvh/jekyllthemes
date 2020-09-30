@@ -4,9 +4,9 @@ title: What A THeme
 date: 2020-08-22 00:15:00 +0530
 homepage: https://github.com/thedevslot/WhatATheme
 download: https://github.com/thedevslot/WhatATheme/archive/master.zip
-demo: https://cotes2020.github.io/chirpy-demo/
+demo: https://thedevslot.github.io
 author: Sneha Omer, Harsh Trivedi
-thumbnail: https://i.imgur.com/hNfdHBg.png
+thumbnail: what-a-theme.png
 license: GNU General Public License v2.0
 license_link: https://github.com/thedevslot/WhatATheme/blob/master/LICENSE
 ---
