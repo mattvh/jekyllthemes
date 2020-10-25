@@ -6,7 +6,7 @@ homepage: https://github.com/meliodus/uno-dbyll
 download: https://github.com/meliodus/uno-dbyll/archive/gh-pages.zip
 demo: http://meliodus.github.io/uno-dbyll/
 author: Ankan Biswas
-thumbnail: uno-dbyll_00.png
+thumbnail: uno-dbyll.png
 license: MIT
 license_link: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/LICENSE
 ---
