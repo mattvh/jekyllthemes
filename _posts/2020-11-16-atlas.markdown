@@ -20,21 +20,21 @@ license_link: https://github.com/NrdyBhu1/atlas-jekyll-theme/blob/main/LICENSE
 * Dynamic and responsive
 
 # The jekyll theme
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/thumbnails/atlas-normal.png"]]
+[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-normal.png"]]
 <br>
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/thumbnails/atlas-link.png"]]
+[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-link.png"]]
 
 # The pagination
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/thumbnails/atlas-pages.png"]]
+[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-pages.png"]]
 
 # The page layout
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/thumbnails/atlas-page-layout.png"]]
+[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-page-layout.png"]]
 
 
 ---
 
 <a href="https://nrdybhu1.github.io/atlas-jekyll-theme/"><img
-src="https://raw.githubusercontent.com/mattvh/jekyllthemes/thumbnails/atlas-link.png"
+src="https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-link.png"
 alt="Atlas for Jekyll demo"></a>
 
 *Skinny Bones was built by [NrdyBhu1](nrdybhu1.github.io)
