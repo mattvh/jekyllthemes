@@ -1,0 +1,25 @@
+---
+layout: post
+title: Simplex
+date: 2021-02-04 00:00:00
+homepage: https://github.com/andreondra/jekyll-theme-simplex
+download: https://rubygems.org/gems/jekyll-theme-simplex
+demo: https://golas.blog/
+author: Andrew Golasowski
+thumbnail: simplex.png
+license: MIT License
+license_link: https://github.com/andreondra/jekyll-theme-simplex/blob/master/LICENSE.txt
+---
+
+A blog theme I've developed for my blog. The theme is simple but full of useful features. Some of the features are:
+- responsivity
+- automatic dark mode
+- Open Graph tags support (link preview image)
+- built-in buttons
+- built-in lightbox
+
+The theme is licensed under MIT, so feel free to add more features or edit.
+It is packaged as a gem, so it can be installed easily with bundle.
+More information and installation steps are in the [repository](https://github.com/andreondra/jekyll-theme-simplex).
+
+Enjoy!
