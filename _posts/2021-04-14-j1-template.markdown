@@ -1,17 +1,17 @@
 ---
 layout: post
 title: J1 Template
-date: 2021-04-14 00:00:00 +100
+date: 2021-04-o1 00:00:00 +100
 homepage: https://jekyll.one/
-download: https://github.com/jekyll-one-org/j1-template-starter/archive/refs/heads/main.zip
-demo: https://jekyll-one-org.github.io/
-author: j1juergen
+download: https://github.com/jekyll-one/j1-template-starter/archive/refs/heads/main.zip
+demo: https://j1-template-starter.netlify.app/
+author: Jürgen Adams
 thumbnail: j1-template-thumb.gif
 license: MIT
-license_link: https://github.com/jekyll-one-org/j1-template-starter/blob/main/LICENSE
+license_link: https://github.com/jekyll-one/j1-template-starter/blob/main/LICENSE
 ---
 
-![Screenshot](https://jekyll.one/starter-screenshot.jpg)
+![Screenshot](https://github.com/jekyll-one/j1-template-starter/raw/main/home-screenshot.jpg "J1 Starter Web")
 
 Jekyll One Template - Create powerful modern static websites.
 
@@ -49,7 +49,7 @@ No license issues for private or professional use.
 * Themeable source code highlighting (Rouge)
 * Desktop and Mobile Web and Navigation ready
 * Fully configurable
-* 100/100 Google Lighthouse scores
+* 100/100 Google Lighthouse scores (at e.g. Netlify|Github)
 
 ### Modules and Extensions
 
