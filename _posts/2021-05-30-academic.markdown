@@ -1,0 +1,26 @@
+---
+layout: post
+title: academic
+date: 2021-05-30 00:00:00
+homepage: https://github.com/LeNPaul/academic
+download: https://github.com/LeNPaul/academic/archive/gh-pages.zip
+demo: https://lenpaul.github.io/academic
+author: Paul Le
+thumbnail: academic.png
+license: MIT License
+license_link: https://github.com/LeNPaul/academic/blob/gh-pages/LICENSE.txt
+---
+
+### academic
+
+A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
+
+* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
+
+* Manage courses that you are teaching.
+
+* Provide updates to your students and faulty.
+
+For everything you would ever need to know, please visit [the repository](https://github.com/LeNPaul/academic) and check out [the demo site](https://lenpaul.github.io/academic/).
+
+![alt text](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png "Academic Demo Image")
