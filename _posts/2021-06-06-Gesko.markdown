@@ -1,0 +1,55 @@
+---
+title: Gesko
+homepage: https://github.com/P0WEX/Gesko
+download: https://github.com/P0WEX/Gesko/generate
+demo: https://p0wex.github.io/Gesko/
+author: P0WEX
+thumbnail: light.png
+license: MIT License
+license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
+github_repo: P0WEX/Gesko
+---
+
+Gesko is a simple and minimalistic jekyll blogging theme.
+
+
+### Features
+
+- [x] Responsive Design
+- [x] Dark/Ligh theme
+- [x] Inline CSS
+- [x] Anchor headings
+- [x] Tags & Tag pages
+- [x] 404 page
+- [x] Robots.txt
+- [x] Atom & Json feeds
+- [x] Sass
+- [x] About page, with Timeline!
+- [x] PageSpeed and w3Validator tests PASSED!
+- [x] Search bar
+- [x] Next & Previous Post
+
+
+
+## Screenshot
+
+![light-theme](https://github.com/P0WEX/Gesko/blob/master/light.png)
+![dark-theme](https://github.com/P0WEX/Gesko/blob/master/dark.png)
+
+## Installation
+
+Run local server:
+
+```bash
+$ git clone https://github.com/P0WEX/Gesko.git
+$ cd Gesko
+$ bundle install
+$ bundle exec jekyll serve
+```
+
+Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
+If you want to upload it to Github Pages, remember to update the `_congif.yml` and if you are going to upload in a repo called yournickname.github.io, remember to update the `{{ site.baseurl }}` to `{{ site.url }}` 
+
+## License
+
+This project is open source and available under the [MIT License](https://github.com/P0WEX/Gesko/blob/master/LICENSE.md).
