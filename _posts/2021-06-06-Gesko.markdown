@@ -4,7 +4,7 @@ homepage: https://github.com/P0WEX/Gesko
 download: https://github.com/P0WEX/Gesko/generate
 demo: https://p0wex.github.io/Gesko/
 author: P0WEX
-thumbnail: light.png
+thumbnail: dark-Gesko.jpg 
 license: MIT License
 license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
 github_repo: P0WEX/Gesko
