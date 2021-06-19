@@ -1,0 +1,21 @@
+---
+title: Mixyll
+homepage: https://github.com/saikiransripada/mixyll
+download: https://github.com/saikiransripada/mixyll/archive/gh-pages.zip
+demo: https://mixyll.saikiransripada.com/
+author: Sai Kiran Sripada
+thumbnail: mixyll.png
+license: MIT License
+license_link: https://github.com/saikiransripada/mixyll/blob/gh-pages/LICENSE.txt
+github_repo: saikiransripada/mixyll
+stars: 1
+---
+
+Mixyll is a simple, beautiful theme for Jekyll that emphasizes content
+rather than aesthetic fluff. Mixyll is mobile _first_, fluidly
+responsive, and delightfully lightweight.
+
+It’s pretty minimal, but leverages large type and drastic contrast to
+make a statement, on all devices.
+
+Crafted with <3 by [Sai Kiran Sripada](https://www.saikiransripada.com/).
