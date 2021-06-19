@@ -8,3 +8,5 @@ group :development  do
   gem 'webshot'
   gem 'octokit'
 end
+
+gem "webrick", "~> 1.7"
