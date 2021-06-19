@@ -8,6 +8,8 @@ author: RunDocs
 thumbnail: jekyll-rtd-theme.png
 license: MIT License
 license_link: https://github.com/rundocs/jekyll-rtd-theme/blob/master/LICENSE
+github_repo: rundocs/jekyll-rtd-theme
+stars: 136
 ---
 
 Just another Jekyll theme for GitHub Pages based on ReadtheDocs's sphinx_rtd_theme styles
