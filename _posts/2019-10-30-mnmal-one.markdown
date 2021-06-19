@@ -25,5 +25,4 @@ Mnmal-One allows designers and developers to start a new website for any kind of
 - Gulp workflow
 - **[And much more](https://elumina.me/freebie-for-webdesigners-mnmal-one-jekyll-theme/)**
 
-
 ![screenshot](/thumbnails/mnmal-one.jpg)

@@ -4,14 +4,13 @@ homepage: https://github.com/P0WEX/Gesko
 download: https://github.com/P0WEX/Gesko/generate
 demo: https://p0wex.github.io/Gesko/
 author: P0WEX
-thumbnail: dark-Gesko.jpg 
+thumbnail: dark-Gesko.jpg
 license: MIT License
 license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
 github_repo: P0WEX/Gesko
 ---
 
 Gesko is a simple and minimalistic jekyll blogging theme.
-
 
 ### Features
 
@@ -28,8 +27,6 @@ Gesko is a simple and minimalistic jekyll blogging theme.
 - [x] PageSpeed and w3Validator tests PASSED!
 - [x] Search bar
 - [x] Next & Previous Post
-
-
 
 ## Screenshot
 
@@ -48,7 +45,7 @@ $ bundle exec jekyll serve
 ```
 
 Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
-If you want to upload it to Github Pages, remember to update the `_congif.yml` and if you are going to upload in a repo called yournickname.github.io, remember to update the `{{ site.baseurl }}` to `{{ site.url }}` 
+If you want to upload it to Github Pages, remember to update the `_congif.yml` and if you are going to upload in a repo called yournickname.github.io, remember to update the `{{ site.baseurl }}` to `{{ site.url }}`
 
 ## License
 

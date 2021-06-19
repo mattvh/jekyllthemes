@@ -13,15 +13,15 @@ stars: 1
 
 Features
 
-* Read Time
-* Share Bar
-* Low Page speed
-* Comments disqus
-* Search
-* Sidebars
-* Category pages
-* LazyLoading images
-* Code highlighting
-* Seo
-* Two section footer
-* Series Posts allowed
+- Read Time
+- Share Bar
+- Low Page speed
+- Comments disqus
+- Search
+- Sidebars
+- Category pages
+- LazyLoading images
+- Code highlighting
+- Seo
+- Two section footer
+- Series Posts allowed

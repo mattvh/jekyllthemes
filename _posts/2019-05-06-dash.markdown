@@ -80,10 +80,13 @@ dash:
 ## Additional Features
 
 **Tagging** add the `jekyll/tagging` plugin to your `_config.yml` file to enable tagging. Do not forget to also add the following to your `Gemfile`:
+
 ```Gemfile
 gem "jekyll-tagging"
 ```
+
 **Gravatar** if you want to display your gravatar picture, add the `liquid-md5` to your `_config.yml` file. Do not forget to also add the following to your `Gemfile`:
+
 ```Gemfile
 gem "liquid-md5"
 ```
