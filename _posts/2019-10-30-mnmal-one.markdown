@@ -1,0 +1,29 @@
+---
+title: Mnmal-One
+homepage: https://github.com/robertosimoes/mnmal-one-jekyll-theme
+download: https://github.com/robertosimoes/mnmal-one-jekyll-theme/archive/master.zip
+demo: https://jekyll.elumina.me
+author: Elumina.me
+thumbnail: mnmal-one.jpg
+license: GPL-2.0
+license_link: https://github.com/robertosimoes/mnmal-one-jekyll-theme/blob/master/LICENSE
+github_repo: robertosimoes/mnmal-one-jekyll-theme
+---
+
+## Mnmal-One Jekyll theme features
+
+Mnmal-One allows designers and developers to start a new website for any kind of client with ease.
+
+- You won't need to touch CSS files! Mnmal-One offers CSS helper classes for colors, spacing, typography, and a flexbox grid system (Bootstrap 4 inspired)
+- SEO, sitemap, and social networks ready
+- 48 well designed SVG icon set
+- Boxed and full width layout
+- Smooth Scroll
+- Fully responsive
+- Lightbox image gallery
+- Lightweight theme: only 98kb CSS and 28kb vanilla JS (if used with Lightbox enabled).
+- Gulp workflow
+- **[And much more](https://elumina.me/freebie-for-webdesigners-mnmal-one-jekyll-theme/)**
+
+
+![screenshot](/thumbnails/mnmal-one.jpg)
