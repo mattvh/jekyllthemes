@@ -1,5 +1,4 @@
 ---
-layout: post
 title: jekyll-rtd-theme
 homepage: https://github.com/rundocs/jekyll-rtd-theme
 download: https://github.com/rundocs/jekyll-rtd-theme/zipball/master
