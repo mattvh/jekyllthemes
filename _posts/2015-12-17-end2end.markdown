@@ -8,7 +8,7 @@ thumbnail: end2end.jpg
 license: MIT License
 license_link: https://github.com/nandomoreirame/end2end/blob/master/LICENSE
 github_repo: nandomoreirame/end2end
-stars: 141
+stars: 268
 ---
 
 ### Start in 4 steps

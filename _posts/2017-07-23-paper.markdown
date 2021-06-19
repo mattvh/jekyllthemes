@@ -8,7 +8,7 @@ thumbnail: paper-theme.jpg
 license: MIT License
 license_link: https://github.com/mkchoi212/paper-jekyll-theme/blob/master/LICENSE
 github_repo: mkchoi212/paper-jekyll-theme
-stars: 67
+stars: 176
 ---
 
 Paper is a minimal Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. The styling is purposely minimalistic so that you can add your own flare to the website.

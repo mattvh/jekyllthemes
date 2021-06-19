@@ -8,5 +8,5 @@ thumbnail: princess-diaries.jpg
 license: MIT License
 license_link: https://github.com/laixintao/Princess-Diaries/blob/master/LICENSE
 github_repo: laixintao/Princess-Diaries
-stars: 4
+stars: 6
 ---

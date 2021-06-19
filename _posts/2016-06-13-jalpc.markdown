@@ -8,7 +8,7 @@ thumbnail: jalpc2.jpg
 license: MIT License
 license_link: https://github.com/dikiaap/mangan/blob/master/LICENSE
 github_repo: Jack614/jalpc_jekyll_theme
-stars: 487
+stars: 889
 ---
 
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.The landing page of the blog is bilingual page.

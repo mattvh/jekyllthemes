@@ -8,7 +8,7 @@ thumbnail: clyell.jpg
 license: GPL
 license_link: https://github.com/gjuniioor/clyell/blob/gh-pages/LICENSE
 github_repo: gjuniioor/clyell
-stars: 18
+stars: 35
 ---
 
 A jekyll theme that is something like a console. :)

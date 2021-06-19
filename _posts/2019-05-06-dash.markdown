@@ -8,6 +8,7 @@ thumbnail: dash.jpg
 license: MIT
 license_link: https://github.com/bitbrain/jekyll-das/blob/master/LICENSE
 github_repo: bitbrain/jekyll-dash
+stars: 113
 ---
 
 ![logo](https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/logo.png)

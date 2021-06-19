@@ -8,7 +8,7 @@ thumbnail: qcktheme.jpg
 license: MIT License
 license_link: https://github.com/qckanemoto/jekyll-qck-theme/blob/master/LICENSE
 github_repo: qckanemoto/jekyll-qck-theme
-stars: 26
+stars: 30
 ---
 
 A simple and customizable theme for Jekyll.

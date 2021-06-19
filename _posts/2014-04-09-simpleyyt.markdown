@@ -8,7 +8,7 @@ thumbnail: simpleyyt.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: Simpleyyt/simpleyyt.github.io
-stars: 29
+stars: 32
 ---
 
 Simpleyyt is a Jekyll theme, based on elementaryOS portal page.

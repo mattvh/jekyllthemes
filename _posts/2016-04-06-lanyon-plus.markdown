@@ -8,7 +8,7 @@ thumbnail: lanyon-plus-lrg.jpg
 license: MIT License
 license_link: "http://sbamin.com/disclosure/#theme-major-credit--license"
 github_repo: dyndna/lanyon-plus
-stars: 60
+stars: 74
 ---
 
 ## lanyon-plus

@@ -8,7 +8,7 @@ thumbnail: freelancer.jpg
 license: Apache License Version 2.0
 license_link: https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE
 github_repo: jeromelachaud/freelancer-theme
-stars: 844
+stars: 1166
 ---
 
 ## Freelancer

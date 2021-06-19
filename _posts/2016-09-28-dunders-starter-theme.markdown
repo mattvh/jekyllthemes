@@ -8,7 +8,7 @@ thumbnail: dunders.jpg
 license: MIT License
 license_link: https://github.com/woliveiras/__s/blob/master/LICENSE
 github_repo: woliveiras/__s
-stars: 39
+stars: 57
 ---
 
 ### Dunders Starter Theme

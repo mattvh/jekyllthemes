@@ -8,7 +8,7 @@ thumbnail: jamesyu-jekyll-template.jpg
 license: MIT License
 license_link: https://github.com/jamesyu/jamesyu_jekyll_template/blob/master/LICENSE
 github_repo: jamesyu/jamesyu_jekyll_template
-stars: 33
+stars: 32
 ---
 
 This is the Jekyll based blog template for my personal blog at

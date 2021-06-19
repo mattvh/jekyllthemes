@@ -8,6 +8,7 @@ thumbnail: dark-Gesko.jpg
 license: MIT License
 license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
 github_repo: P0WEX/Gesko
+stars: 6
 ---
 
 Gesko is a simple and minimalistic jekyll blogging theme.

@@ -8,7 +8,7 @@ thumbnail: solo.jpg
 license: MIT License
 license_link: http://chibicode.mit-license.org/
 github_repo: chibicode/solo
-stars: 307
+stars: 317
 ---
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports

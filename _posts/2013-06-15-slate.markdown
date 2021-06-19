@@ -8,7 +8,7 @@ thumbnail: slate.jpg
 license: MIT License
 license_link: https://github.com/jasoncostello/slate/blob/master/LICENSE
 github_repo: jasoncostello/slate
-stars: 140
+stars: 155
 ---
 
 Slate is responsive theme for GitHub Pages. [Fork

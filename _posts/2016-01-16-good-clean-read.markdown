@@ -8,7 +8,7 @@ thumbnail: good-clean-read.jpg
 license: MIT License
 license_link: http://chibicode.mit-license.org/
 github_repo: adueck/good-clean-read
-stars: 126
+stars: 206
 ---
 
 Good Clean Read - A Jekyll template for publishing single-page websites

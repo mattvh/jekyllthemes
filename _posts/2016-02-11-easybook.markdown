@@ -8,7 +8,7 @@ thumbnail: easybook.jpg
 license: MIT License
 license_link: https://github.com/laobubu/jekyll-theme-EasyBook/blob/gh-pages/LICENSE
 github_repo: laobubu/jekyll-theme-EasyBook
-stars: 83
+stars: 125
 ---
 
 Another Jekyll Blog Theme "EasyBook"

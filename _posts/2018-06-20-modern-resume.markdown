@@ -8,7 +8,7 @@ thumbnail: modern-resume.jpg
 license: MIT License
 license_link: https://github.com/sproogen/modern-resume-theme/blob/master/LICENSE
 github_repo: sproogen/modern-resume-theme
-stars: 5
+stars: 971
 ---
 
 # modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) [![Build Status](https://travis-ci.org/sproogen/modern-resume-theme.svg?branch=master)](https://travis-ci.org/sproogen/modern-resume-theme)

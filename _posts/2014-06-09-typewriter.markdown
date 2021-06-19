@@ -8,7 +8,7 @@ thumbnail: typewriter.jpg
 license: BSD License
 license_link: https://github.com/alixedi/typewriter/blob/master/LICENSE
 github_repo: alixedi/typewriter
-stars: 39
+stars: 50
 ---
 
 A simple, beautiful theme for Jekyll.

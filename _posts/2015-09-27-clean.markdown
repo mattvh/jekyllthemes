@@ -8,7 +8,7 @@ thumbnail: clean.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: knaman2609/clean
-stars: 37
+stars: 49
 ---
 
 A simple clean theme for jekyll.

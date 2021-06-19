@@ -8,7 +8,7 @@ thumbnail: labrador-jekyll-theme-thumb.jpg
 license: MIT License
 license_link: https://github.com/donini/labrador-jekyll-theme/blob/master/LICENSE.md
 github_repo: donini/labrador-jekyll-theme
-stars: 6
+stars: 7
 ---
 
 This theme was built to present a little bit about of some professional profile to meet the needs of donini.me.

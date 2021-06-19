@@ -8,7 +8,7 @@ thumbnail: clean-and-simple-jekyll-theme-thumb.jpg
 license: MIT License
 license_link: https://github.com/nathanrooy/Clean-and-Simple-Jekyll-Theme/blob/master/LICENSE
 github_repo: nathanrooy/Clean-and-Simple-Jekyll-Theme
-stars: 15
+stars: 20
 ---
 The Clean+Simple is an easy to modify, tumblr style Jekyll theme.
 

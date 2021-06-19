@@ -8,7 +8,7 @@ thumbnail: hmfaysal-omega.jpg
 license: MIT License
 license_link: http://www.hossainmohdfaysal.com/hmfaysal-omega-theme/license/
 github_repo: hmfaysal/hmfaysal-omega-theme
-stars: 330
+stars: 325
 ---
 
 HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll

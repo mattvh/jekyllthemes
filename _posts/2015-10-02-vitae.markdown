@@ -8,7 +8,7 @@ thumbnail: vitae.jpg
 license: MIT License
 license_link: http://opensource.org/licenses/MIT
 github_repo: biomadeira/vitae
-stars: 116
+stars: 203
 ---
 
 A simple and elegante personal resume.

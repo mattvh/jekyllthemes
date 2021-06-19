@@ -8,7 +8,7 @@ thumbnail: TeXt.jpg
 license: MIT
 license_link: https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE
 github_repo: kitian616/jekyll-TeXt-theme
-stars: 459
+stars: 1901
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)

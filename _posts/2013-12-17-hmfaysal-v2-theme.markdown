@@ -8,7 +8,7 @@ thumbnail: hmfaysal-v2.jpg
 license: GNU General Public License Version 2
 license_link: https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/blob/master/LICENSE
 github_repo: hmfaysal/Jekyll-HMFAYSAL-V2-Theme
-stars: 30
+stars: 29
 ---
 
 HMFAYSAL V2 is a responsive, minimal theme for Jekyll, featuring big

@@ -8,6 +8,7 @@ thumbnail: mnmal-one.jpg
 license: GPL-2.0
 license_link: https://github.com/robertosimoes/mnmal-one-jekyll-theme/blob/master/LICENSE
 github_repo: robertosimoes/mnmal-one-jekyll-theme
+stars: 0
 ---
 
 ## Mnmal-One Jekyll theme features

@@ -8,7 +8,7 @@ thumbnail: centrarium.jpg
 license: MIT License
 license_link: https://github.com/bencentra/centrarium/blob/master/LICENSE.md
 github_repo: bencentra/centrarium
-stars: 211
+stars: 359
 ---
 
 ### Centrarium

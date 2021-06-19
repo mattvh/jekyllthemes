@@ -8,6 +8,7 @@ thumbnail: mint.jpg
 license: MIT 
 license_link: https://github.com/aidewoode/jekyll-theme-mint/blob/master/LICENSE
 github_repo: aidewoode/jekyll-theme-mint
+stars: 11
 ---
 
 # jekyll-theme-mint

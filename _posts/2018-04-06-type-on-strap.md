@@ -8,7 +8,7 @@ github_repo: Sylhare/Type-on-Strap
 thumbnail: type-on-strap.jpg
 license: MIT License
 license_link: https://github.com/Sylhare/Type-on-Strap/blob/master/LICENSE
-stars: 167
+stars: 505
 ---
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra's [type-theme](https://github.com/rohanchandra/type-theme). Its features includes:

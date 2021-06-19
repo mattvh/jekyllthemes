@@ -8,6 +8,7 @@ thumbnail: jekyll-theme-console.png
 license: MIT License
 license_link: https://github.com/b2a3e8/jekyll-theme-console/blob/master/LICENSE.txt
 github_repo: b2a3e8/jekyll-theme-console
+stars: 339
 ---
 
 # jekyll-theme-console

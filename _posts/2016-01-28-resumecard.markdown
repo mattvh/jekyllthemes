@@ -8,7 +8,7 @@ thumbnail: resumecard.jpg
 license: MIT License
 license_link: https://github.com/ddbullfrog/resumecard/blob/gh-pages/LICENSE.md
 github_repo: ddbullfrog/resumecard
-stars: 167
+stars: 226
 ---
 
 resumecard is a theme built on top of bootstrap and other freely

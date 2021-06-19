@@ -8,7 +8,7 @@ thumbnail: best.jpg
 license: MIT
 license_link: https://github.com/singh1114/best/blob/master/LICENSE
 github_repo: singh1114/best
-stars: 1
+stars: 8
 ---
 
 Features
