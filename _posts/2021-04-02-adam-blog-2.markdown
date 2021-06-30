@@ -6,7 +6,7 @@ homepage: https://github.com/the-mvm/the-mvm.github.io
 download: https://github.com/the-mvm/the-mvm.github.io/archive/refs/heads/main.zip
 demo: https://the-mvm.github.io/
 author: Original - Artem Sheludko | Mod: Armando Maynez
-thumbnail: AdamBlog2_thumnail.jpg
+thumbnail: AdamBlog2_thumbnail.jpg
 license: GNU General Public License v3.0
 license_link: https://github.com/artemsheludko/adam-blog/blob/master/LICENSE
 ---
