@@ -6,7 +6,7 @@ homepage: https://github.com/NrdyBhu1/atlas-jekyll-theme/
 download: https://github.com/NrdyBhu1/atlas-jekyll-theme/archive/main.zip   
 demo: https://nrdybhu1.github.io/atlas-jekyll-theme/
 author: NrdyBhu1
-thumbnail: atlas-normal.png
+thumbnail: jekyll-atlas-theme.png
 license: MIT License
 license_link: https://github.com/NrdyBhu1/atlas-jekyll-theme/blob/main/LICENSE
 ---
@@ -18,26 +18,14 @@ license_link: https://github.com/NrdyBhu1/atlas-jekyll-theme/blob/main/LICENSE
   No need to preprocess `.scss` files, Jekyll does it natively for you.
 * YAML data files for easier customization of header and footer links.
 * Dynamic and responsive
+* Responsive pagination
 
 # The jekyll theme
 [! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-normal.png"]]
-<br>
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-link.png"]]
-
-# The pagination
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-pages.png"]]
-
-# The page layout
-[! Screenshot["https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-page-layout.png"]]
-
 
 ---
 
-<a href="https://nrdybhu1.github.io/atlas-jekyll-theme/"><img
-src="https://raw.githubusercontent.com/mattvh/jekyllthemes/master/thumbnails/atlas-link.png"
-alt="Atlas for Jekyll demo"></a>
-
-*Skinny Bones was built by [NrdyBhu1](nrdybhu1.github.io)
+*This theme was built by [NrdyBhu1](nrdybhu1.github.io)
 [Github](https://github.com/NrdyBhu1).*
 
 
