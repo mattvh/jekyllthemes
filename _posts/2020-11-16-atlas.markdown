@@ -21,7 +21,7 @@ license_link: https://github.com/NrdyBhu1/atlas-jekyll-theme/blob/main/LICENSE
 * Responsive pagination
 
 # The jekyll theme
-[!Screenshot](https://raw.githubusercontent.com/NrdyBhu1/atlas-jekyll-theme/main/atlas-normal.png)
+![Screenshot](https://raw.githubusercontent.com/NrdyBhu1/atlas-jekyll-theme/main/atlas-normal.png)
 
 ---
 
