@@ -1,0 +1,36 @@
+---
+layout: post
+title: Gitbook Theme
+date: 2021-01-23 23:44:51 +08:00
+homepage: https://github.com/sighingnow/jekyll-gitbook
+download: https://github.com/sighingnow/jekyll-gitbook/archive/master.zip
+demo: https://sighingnow.github.io/jekyll-gitbook/
+author: Tao He
+thumbnail: jekyll-gitbook.png
+license: Apache-2.0 License
+license_link: https://github.com/sighingnow/jekyll-gitbook/blob/master/LICENSE
+---
+
+[GitBook][gitbook] is an amazing frontend style to present and organize contents (such as
+book chapters and blogs) on Web. The typical to deploy GitBook at [Github Pages][github-pages]
+is building HTML files locally and then push to Github repository, usually to
+the gh-pages branch. It's quite annoying to repeat such workload and make it hard
+for people do version control via git for when there are generated HTML files
+to be staged in and out.
+
+This theme brings the Gitbook style to [Jekyll][jekyll], by taking style definition out of
+generated GitBook site and provided the template for [Jekyll][jekyll] to rendering
+markdown documents to HTML, thus the whole site can be deployed to Github Pages without
+generating and uploading HTML bundle every time when there are changes to the original repo.
+
+This theme suites for Github pages, as well as other sites that use Jekyll as generate.
+
+For more info checkout github repository [sighingnow/jekyll-gitbook][repo]. Also visit
+the [live demo][demo] site for the theme.
+
+<!-- External links -->
+[gitbook]: https://github.com/GitbookIO/gitbook
+[github-pages]: https://pages.github.com/
+[jekyll]: https://jekyllrb.com/
+[repo]: https://github.com/sighingnow/jekyll-gitbook
+[demo]: https://sighingnow.github.io/jekyll-gitbook/
