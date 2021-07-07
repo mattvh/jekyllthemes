@@ -1,0 +1,23 @@
+---
+layout: post
+title: Eston
+date: 2017-04-27 00:00:00
+homepage: https://github.com/cute-angelia/jekyll-theme-eston
+download: https://github.com/cute-angelia/jekyll-theme-eston/archive/master.zip
+demo: https://cute-angelia.github.io/jekyll-theme-eston/
+author: Cyw
+thumbnail: eston.png
+license: MIT
+license_link: https://github.com/cute-angelia/jekyll-theme-eston/blob/master/LICENSE.txt
+---
+
+## About
+Eston is a minimal, responsive, ready to use Jekyll theme for blogging.
+
+## Screenshots
+
+![preview](https://cute-angelia.github.io/jekyll-theme-eston/assets/img/screenshot-127.0.0.1-4000-2017-04-26-23-42-12.png)
+
+## Important Links
+
+[Demo](https://cute-angelia.github.io/jekyll-theme-eston/)
