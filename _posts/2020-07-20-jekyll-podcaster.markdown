@@ -7,7 +7,7 @@ download: https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest
 demo: https://jekyll-podcaster.netlify.app/
 author: Alessio Franceschi
 thumbnail: podcaster.png
-license: MIT
+license: Custom license simliar to MIT with extra conditions
 license_link: https://github.com/PandaSekh/Jekyll-Podcaster/blob/master/LICENSE.txt
 ---
 
