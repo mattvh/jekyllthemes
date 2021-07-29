@@ -1,0 +1,30 @@
+---
+layout: post
+title: Jekyll CV
+date: 2021-07-29 00:00:00
+homepage: https://github.com/Stavrospanakakis/jekyll-cv
+demo: https://jekyll-cv.stavrospanakakis.com
+author: Stavrospanakakis
+thumbnail: jekyll-cv.png
+license: MIT License
+license_link: https://github.com/Stavrospanakakis/jekyll-cv/blob/main/LICENSE
+---
+
+# CV jekyll theme
+
+Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavrospanakakis.com/).
+
+## Preview
+![Preview](https://github.com/Stavrospanakakis/jekyll-cv/blob/main/preview.png)
+
+## Installation
+- [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
+- Create a ```gh-pages``` branch
+- Go to Settings and select ```gh-pages``` as Github Pages source
+- Replace dummy data at ```_data/data.yml``` and ```_config.yml```
+- You're done!
+
+Go to https://username.github.io/jekyll-cv/
+
+## Contributing 
+- Feel free to open issues and create pull requests for new features or skins
