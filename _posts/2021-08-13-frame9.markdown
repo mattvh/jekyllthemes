@@ -1,0 +1,23 @@
+---
+layout: post
+title: Frame9
+date: 2021-08-13 10:35:00 -06:00
+homepage: https://github.com/CodeKarmaDev/frame9-jekyll-theme
+download: https://github.com/CodeKarmaDev/frame9-jekyll-theme/archive/refs/heads/master.zip
+demo: https://frame9demo.codekarma.dev/
+author: "Sean Ferney | CodeKarmaDev"
+thumbnail: frame9.png
+license: MIT License
+license_link: https://github.com/CodeKarmaDev/frame9-jekyll-theme/blob/master/LICENSE.txt
+---
+
+A simple gallery theme for jekyll.
+
+The core feature is a 9 pane gallery panel.
+
+# Features
+- 3x3 Gallery panel
+- Dark/ Light themes that respects `prefers-color-scheme`
+- Mobile Friendly
+
+  
