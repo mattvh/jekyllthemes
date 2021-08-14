@@ -1,0 +1,31 @@
+---
+layout: post
+title: Gesko
+date: 2021-06-06 11:42:00
+homepage: https://github.com/P0WEX/Gesko
+download: https://github.com/P0WEX/Gesko/generate
+demo: https://p0wex.github.io/Gesko/
+author: P0WEX
+thumbnail: light.png
+license: MIT License
+license_link: https://github.com/P0WEX/Gesko/blob/master/LICENSE.md
+---
+
+Gesko is a simple and minimalistic jekyll blogging theme.
+
+
+### Features
+
+- [x] Responsive Design
+- [x] Dark/Ligh theme
+- [x] Inline CSS
+- [x] Anchor headings
+- [x] Tags & Tag pages
+- [x] 404 page
+- [x] Robots.txt
+- [x] Atom & Json feeds
+- [x] Sass
+- [x] About page, with Timeline!
+- [x] PageSpeed and w3Validator tests PASSED!
+- [x] Search bar
+- [x] Next & Previous Post
