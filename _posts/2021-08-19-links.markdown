@@ -1,0 +1,68 @@
+---
+layout: post
+title: Links
+date: 2021-08-19 00:15:00 +0530
+homepage: https://github.com/harsh98trivedi/Links
+download: https://github.com/harsh98trivedi/Links/archive/master.zip
+demo: https://harsh98trivedi.github.io/links
+author: Harsh Trivedi
+thumbnail: links.png
+license: GNU General Public License v2.0
+license_link: https://github.com/harsh98trivedi/Links/blob/master/LICENSE
+---
+
+# [Links](https://github.com/harsh98trivedi/Links)
+
+A Beautiful Jekyll Theme For Links
+
+![Links](/assets/images/links.jpg)
+
+#### Checkout the [Demo Here](https://harsh98trivedi.github.io/links)
+<br>
+<a href="https://vimeo.com/587253271"><img src="https://i.imgur.com/s7vdI7T.png"/></a>
+
+---
+
+## Installation 
+
+### System Requirements
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Jekyll](https://jekyllrb.com/) (You can read **What is Jekyll [here](https://github.com/jekyll/jekyll#jekyll)**)
+- [NPM](https://npmjs.com/)
+
+### Up and Running
+- Fork this [Repository](https://github.com/harsh98trivedi/Links)<br>
+- Edit the **_config.yml**
+- Fill the available details accordingly
+- Commit the changes
+
+### Want to set this up **locally**?
+- Clone this **Repository** using **Git**<br>
+    > Kindly Change [USERNAME] with your own GitHub UserName
+``` git
+git clone https://github.com/[USERNAME]/Links
+```
+- Go to the project directory
+```bash
+cd links
+```
+- Install **Links** with **npm**
+``` bash
+npm start
+```
+
+---
+
+## Content Credits
+- [Cover Image](https://source.unsplash.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Poppins Font](https://fonts.google.com/specimen/Poppins)
+- [Images.weserv.nl](https://images.weserv.nl/)
+
+---
+
+Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** with his and make it up and running with his geeky mind and [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills.
+
+### License
+
+The contents of this repository are licensed under the [GNU General Public License v2.0](https://github.com/harsh98trivedi/Links/blob/master/LICENSE)
