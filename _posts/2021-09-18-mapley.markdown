@@ -1,0 +1,91 @@
+---
+layout: post
+title: Mapley
+date: 2021-09-18 22:00:00 +09:00
+homepage: https://github.com/Vector-7/mapley
+download: https://github.com/Vector-7/mapley/archive/refs/heads/master.zip
+demo: https://blog.sweetcase.kr/mapley/
+author: "Ha Jeong Hyun(a.k.a Vector7)"
+thumbnail: vector7-mapley.png
+license: MIT License
+license_link: https://github.com/Vector-7/mapley/blob/master/LICENSE
+---
+
+## About
+**mapley** is **Jekyll Theme** that is an autumn & reading book style This is My First Jekyll theme for learning more about Jekyll. So It has some bug, but I'm going to do making and debugging this for better.
+
+* * *
+
+## features
+1. diary posts is to suit write essay.
+2. The color of the pages is close to the color of the book, so less strain on the eyes
+
+
+## Using External Resources
+* fonts
+    * Hi Melody
+    * Noto Serif KR
+    * Song Myung
+    * Nanum Gothic Coding
+
+* * *
+
+
+## Installation
+You can install this the easiest by forking [mapley repository](https://github.com/Vector-7/mapley/fork)
+
+### Install
+1. Install Ruby
+2. git clone from repository
+```bash
+git clone https://github.com/Vector-7/mapley.git
+```
+3. Install dependencies
+```bash
+bundle install
+```
+4. running
+```bash
+jekyll serve
+```
+
+### Setting (_config.yml)
+```
+title: [Blog Title]
+email: [your email]
+baseurl: [base url]
+url: [deploy url]
+
+# user info
+username: [your nickname]
+introduce: [summary about yourself]
+```
+
+* * *
+
+## How to write posts
+### In contents(Post)
+make new markdown file to ```_posts``` and write config like this
+**you must write type to "contents"**
+```yml
+---
+layout: post
+title: [your post title]
+date: [select write date]
+type: contents
+category: [select category]
+tags: [tag array] (ex: ["tag1", "tag2" ...])
+---
+```
+
+### In Diary
+make new markdown file to ```_posts``` and write config like this
+```yml
+---
+layout: post
+title: [your post title]
+date: [select write date]
+type: diary
+tags: [tag array] (ex: ["tag1", "tag2" ...])
+---
+```
