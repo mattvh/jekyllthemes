@@ -2,13 +2,13 @@
 layout: post
 title: JOYTOU
 date: 2017-08-04 00:08:00
-homepage: https://github.com/joytou/joytou.github.io
-download: https://github.com/joytou/joytou.github.io/archive/master.zip
-demo: https://joytou.github.io/
+homepage: https://github.com/joytou/JOYTOU
+download: https://github.com/joytou/JOYTOU/archive/master.zip
+demo: http://www.joytou.net/
 author: Joytou
 thumbnail: JOYTOU.png
 license: GNU General Public License Version 2
-license_link: https://github.com/joytou/joytou.github.io/blob/master/LICENSE
+license_link: https://github.com/joytou/JOYTOU/blob/master/LICENSE
 ---
 
 JOYTOU is a succinct theme for blogging that be made from Bootstrap.
