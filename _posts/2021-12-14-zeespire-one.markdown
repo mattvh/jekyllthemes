@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ZeeSpire One free
-date: 2021-12-15 00:00:00
+date: 2021-12-14 00:00:00
 homepage: https://shop.zeespire.com
 download: https://github.com/ZeeSpire/one-free
 demo: https://www.weinspire.tech/
 author: ZeeSpire
-thumbnail: zeespire-one.png
+thumbnail: zeespire-one.jpg
 license: GNU General Public License v3.0
 license_link: https://github.com/ZeeSpire/one-free/blob/master/LICENSE.txt
 ---
