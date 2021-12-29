@@ -4,7 +4,7 @@ title: ZeeSpire One free
 date: 2021-12-14 00:00:00
 homepage: https://shop.zeespire.com
 download: https://github.com/ZeeSpire/one-free
-demo: https://www.weinspire.tech/
+demo: https://one-free.zeespire.com/
 author: ZeeSpire
 thumbnail: zeespire-one.jpg
 license: GNU General Public License v3.0
