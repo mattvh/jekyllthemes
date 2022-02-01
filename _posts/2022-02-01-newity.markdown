@@ -1,0 +1,27 @@
+---
+layout: post
+title: New-ity The Theme
+date: 2022-02-01 20:24:00 UTC+03:00
+homepage: https://github.com/themecreator/newity-jeykll
+download: https://github.com/mattvh/solar-theme-jekyll/
+demo: http://themecreator.github.io/newity-jekyll/
+author: themeCreator
+thumbnail: https://lh5.googleusercontent.com/XtHuMrpSwDOEaYBVcAIreiZNlPkAoVqpmBuzYTNu9WZGgcGwCo6MG4noEutAdGmDhg_Zn_Yl3IQ8CNhmHuwf=w1366-h621
+---
+
+# newity-jeykll
+A theme for jeykll. This theme, Newity, makes your website so beatiful with the Bootstrap, Locomotive, Feather Icons and Clay.CSS!
+
+
+## How to use it?
+Just fork this template, edit, add, remove, publish and BOOM! Your website is ready!
+
+## What's inside of it?
+The positive aspects are marked.
+- [x] Only HTML, CSS and JS
+- [x] Minumun GB using
+- [x] Open-customize with `assets/js/customize.js`.
+- [x] 6 files: Homepage, about, features, posts, example post and another post
+- [ ] Basic theme 
+- [ ] No `.yml` file
+- [ ] Unlicenced
