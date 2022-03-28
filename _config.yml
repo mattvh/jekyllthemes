@@ -1,16 +1,204 @@
-name: Lim-jeongho
-url: http://Lim-jeongho.github.io
-description: Insert tagline here
+# External plugins
+# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
+plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate-v2
 
-permalink: /themes/:title/
+exclude:
+  - "/vendor/"
 
-plugins: [jekyll-paginate]
+# Site settings
+title: Centrarium
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
+email: blcentra@gmail.com
+name: Ben Centra
+description: >
+  A simple yet classy theme for your Jekyll website or blog.
+# Base URL of site (i.e. /blog). It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
 
-highlighter: pygments
-paginate: 20
+# Build settings
+markdown: kramdown
+inter_post_navigation: false
+highlightjs_theme: "monokai-sublime"
 
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
+# Pagination Settings
+# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num/"
+  sort_reverse: true
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
+# Disqus comments
+# disqus_shortname: bencentra
+
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+# Social icons and sharing options
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+#
+# Example:
+#
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share: true                           # Include in the "Share" section of posts
+social:
+  - name: Twitter
+    icon: twitter
+    username: TheBenCentra
+    url: https://twitter.com/TheBenCentra
+    desc: Follow me on Twitter
+    share: true
+
+  - name: Facebook
+    icon: facebook
+    username: thebencentra
+    url: ""
+    desc: Friend me on Facebook
+    share: true
+
+  - name: GitHub
+    icon: github
+    username: bencentra
+    url: https://github.com/bencentra
+    desc: Fork me on GitHub
+    share: false
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Ben Centra
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    desc: Connect with me on LinkedIn
+    share: true
+
+  - name: Google+
+    icon: google-plus
+    username: ""
+    url: ""
+    desc: Add me to your Circles
+    share: true
+
+  - name: YouTube
+    icon: youtube
+    username: ""
+    url: ""
+    desc: Subscribe on YouTube
+    share: false
+
+  - name: Instagram
+    icon: instagram
+    username: ""
+    url: ""
+    desc: Follow me on Instagram
+    share: false
+
+  - name: Pinterest
+    icon: pinterest
+    username: ""
+    url: ""
+    desc: Follow me on Pinterest
+    share: true
+
+  - name: SoundCloud
+    icon: soundcloud
+    username: ""
+    url: ""
+    desc: Follow me on SoundCloud
+    share: false
+
+  - name: Tumblr
+    icon: tumblr
+    username: ""
+    url: ""
+    desc: Follow me on Tumblr
+    share: false
+
+  - name: Steam
+    icon: steam
+    username: ""
+    url: ""
+    desc: Friend me on Steam
+    share: false
+
+  - name: Dribbble
+    icon: dribbble
+    username: ""
+    url: ""
+    desc: Follow me on Dribble
+    share: false
+
+  - name: Vimeo
+    icon: vimeo-square
+    username: ""
+    url: ""
+    desc: Follow me on Vimeo
+    share: false
+
+  - name: Vine
+    icon: vine
+    username: ""
+    url: ""
+    desc: Follow me on Vine
+    share: false
+
+  - name: Reddit
+    icon: reddit
+    username: ""
+    url: ""
+    desc: Share to Reddit
+    share: true
+
+  - name: "Hacker News"
+    icon: hacker-news
+    username: ""
+    url: ""
+    desc: Share to Hacker News
+    share: false
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+protocols:
+    fb_image: "/assets/logo.png"
+    fb_image_width: 612
+    fb_image_height: 605
+    fb_image_type: "image/png"
+
+    twitter_image: "/assets/logo.png"
+
+    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_rcs_type: "git"
+    os_src: "git@github.com:bencentra/centrarium.com.git"

@@ -1,0 +1,4 @@
+root = false
+
+[*]
+insert_final_newline = false
