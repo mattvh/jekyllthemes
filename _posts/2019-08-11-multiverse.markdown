@@ -4,7 +4,7 @@ title: Multiverse by HTML5 UP!
 date: 2019-08-11 00:00:00
 homepage: https://github.com/joaomlneto/jekyll-multiverse-template
 download: https://github.com/joaomlneto/jekyll-multiverse-template/archive/master.zip
-demo: https://jekyll-multiverse-template.joao.neto.pt
+demo: https://joaomlneto.github.io/jekyll-multiverse-template/
 author: joaomlneto
 thumbnail: multiverse.jpeg
 license: MIT License
