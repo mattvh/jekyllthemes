@@ -1,0 +1,25 @@
+---
+layout: post
+title: Fermi
+date: 2022-10-26 19:00:00
+homepage: https://github.com/zivhacker/jekyll-theme-fermi
+download: https://github.com/zivhacker/jekyll-theme-fermi/archive/refs/heads/main.zip
+demo: [http://scribble.muan.co/](https://zivs.blog/jekyll-theme-fermi/)
+author: Ziv
+thumbnail: fermi.jpg
+license: MIT License
+license_link: https://github.com/zivhacker/jekyll-theme-fermi/blob/main/LICENSE.txt
+---
+
+A simple and pragmatic Jekyll theme for blog.
+
+## Highlight Features
+
+- Support the CSS resets [Normalize](https://github.com/necolas/normalize.css)
+- Support [Font Awesome](https://fontawesome.com/)
+- Support [MathJax](https://www.mathjax.org/)
+- Support [Disqus](https://disqus.com/)
+- Support [Google Analytics 4](https://analytics.google.com/analytics/web/)
+- Support the pagination, via [`jekyll-paginate`](https://github.com/jekyll/jekyll-paginate)
+- Light and dark mode, via [`prefers-color-scheme`](https://web.dev/prefers-color-scheme/)
+- Archive pages implemented in pure [Liquid](https://shopify.github.io/liquid/)
