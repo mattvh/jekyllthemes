@@ -4,7 +4,7 @@ title: Leaf
 date: 2020-02-26 
 homepage: https://github.com/SupunKavinda/jekyll-theme-leaf
 download: https://github.com/SupunKavinda/jekyll-theme-leaf/archive/0.1.0.zip
-demo: https://supunkavinda.github.io/jekyll-theme-leaf/
+demo: https://supun-io.github.io/jekyll-theme-leaf/
 author: Supun Kavinda
 thumbnail: leaf.png
 license: MIT License
