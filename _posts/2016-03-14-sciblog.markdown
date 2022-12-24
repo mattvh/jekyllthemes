@@ -5,7 +5,7 @@ date: 2016-03-14 03:03:00
 homepage: https://github.com/yourfreebies/sciblog
 download: https://github.com/yourfreebies/sciblog/archive/master.zip
 demo: https://yourfreebies.github.io/sciblog/
-author: Air Raya 
+author: airraya.com
 thumbnail: sciblog.png
 license: MIT License
 license_link: https://github.com/yourfreebies/sciblog/blob/master/LICENSE
