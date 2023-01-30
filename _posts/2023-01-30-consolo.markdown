@@ -1,0 +1,18 @@
+---
+layout: post
+title: consolo
+date: 2023-01-30 15:50:00
+homepage: https://github.com/Forthoney/consolo
+download: https://github.com/Forthoney/consolo/archive/master.zip
+demo: https://Forthoney.github.io
+author: Forthoney
+thumbnail: consolo.png
+license: MIT License
+license_link: http://opensource.org/licenses/MIT
+---
+
+**consolo** aims the recreate the rugged look of a terminal/console interface while maintaining legibility.
+
+It is forked from [jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console) which, as far as I can tell, is no longer maintained.
+**consolo** refines the general look of the original theme, standardizes content, and greatly improves on extensibility. 
+Parts of the installation guide also come from the original theme.
