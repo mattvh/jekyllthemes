@@ -1,0 +1,39 @@
+---
+layout: post
+title: Opine
+date: 2023-01-31 03:24:04 +06:00
+homepage: https://github.com/leabs/jekyll-opine
+download: https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip
+demo: https://jekyll-opine.vercel.app/
+author: "Steven Leabo"
+thumbnail: opine.jpg
+license: MIT License
+license_link: https://github.com/leabs/jekyll-opine/blob/master/LICENSE.txt
+---
+ Jekyll theme: Jekyll Opine
+[V1.0](https://github.com/leabs/jekyll-opine/archive/refs/tags/v1.zip) by [Steven Leabo](https://github.com/leabs)
+
+### Features from v1.0
+- [Bulma](https://bulma.io/)
+- [Disqus](https://disqus.com/)
+- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+
+### Demo
+
+Check the theme in action: [Demo](https://jekyll-opine.vercel.app/) or the [Video walkthrough](https://www.youtube.com/watch?v=4NWQb9d2yVg).
+
+The main page looks like this:
+
+<img width="540px" src="https://github.com/leabs/jekyll-opine/blob/master/screenshots/theme.png?raw=true">
+
+The post page looks like:
+
+<img width="540px" src="https://github.com/leabs/jekyll-opine/blob/master/screenshots/post.jpg?raw=true">
+
+## Installation:
+
+1. [Fork this repository](https://github.com/leabs/jekyll-opine/fork/) into your own account (if you use as destination a repository named **USERNAME.github.io** then your url will be ``username.github.io``, else ``username.github.io/REPONAME/``)
+2. Modify ``_config.yml`` with your data
+3. Use the files inside of the ``/_posts/`` directory as templates to modify and create your own blog posts.
+4. Replace `avatar.png` inside of ``/assets/images/``.
+5. Make sure Github Pages are turned on in the repository settings, and pointing to the main or master branch (where you cloned this repo)
