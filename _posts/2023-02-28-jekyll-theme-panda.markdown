@@ -19,6 +19,34 @@ Theme Showcase : [RiinoSite - Jeklyy-Theme-Panda](https://riino.site/jekyll-them
 
 DEMO： [RiinoSite Blog](https://riino.site/)
 
+# Features
+
+- Auto archive based on tags management
+- Multi-type posts :
+  - post (for markdown articles)
+  - album (for displaying a series of pictures)
+  - preset (for introducing LR/PS presets or similar ones)
+- Attribution control via yaml data in post type:
+  - Optional TOC style configuration : inline, hidden, auto
+  - Hide posts in home page
+  - Make article pinned at home page
+  - Mark a custom status symbol
+- Auto/Manual Dark/Light Mode 
+- Responsive design, optimized for mobile devices
+- Global fuzzy search bar for articles and tags
+- Code highlights & Latex support
+- Mermaid support
+- Emoji Support
+- Highly custom config in header and footer
+- Show custom text next to title
+- Seamlessly convert img path you pasted in Typora
+- Support remote theme deploy (only need to maintain `_post` and `_config`)
+- Custom banner
+  - custom text
+  - expired warning
+  - WIP notice
+
+
 [TOC]
 
 ## Installation
