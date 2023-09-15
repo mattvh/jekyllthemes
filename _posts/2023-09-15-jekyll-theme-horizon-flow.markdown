@@ -12,3 +12,17 @@ license_link: https://github.com/papierkorp/jekyll-theme-horizon-flow/blob/main/
 ---
 
 Horizon-Flow is a mobile friendly Jekyll theme characterized by a serene color palette of blue, gray, and orange. It features a clean, sidebar-free layout, keeping all content in a single, flowing main container. The header remains fixed even while scrolling, ensuring easy navigation. Allows Custom content to be displayed in the footer and footer-sidebar.
+
+**Features:**
+
+- Custom Navigation
+- Dynamically created Footer with Font Awesome Icons and Social Links
+- Flexible customizable Footer-Sidebar (above the Footer) where you can include up to 5 elements. You can choose between 4 premade ones and self created ones
+- SEO best practices via Jekyll SEO Tag
+- Javascript free besides the optional search page
+- supports tags and categories
+- offers an archive
+- Carefully designed posts for almost all Markup elements
+- Activateable TOC and to the TOP Buttons for each post
+- Mobile Friendly
+- Highly Customizable
