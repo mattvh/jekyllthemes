@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "게시글"
+permalink: /게시글/
 main_nav: true
 ---
 
