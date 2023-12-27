@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: 궁금사항
+permalink: /궁금사항/
 main_nav: true
 ---
 
