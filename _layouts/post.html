@@ -29,8 +29,11 @@ layout: default
   </div>
 </section>
 
-<article class="post-content">
-  {{ content }}
+<article>
+  <h2>{{ post.title }}</h2>
+  <p>{{ post.content }}</p>
+  <p>Author: {{ post.author }}</p>
+  <p>Password: {{ post.password }}</p>
 </article>
 
 {% if site.jekyll-archives %}
