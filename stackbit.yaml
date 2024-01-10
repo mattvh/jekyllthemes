@@ -1,0 +1,249 @@
+stackbitVersion: ~0.2.0
+ssgName: custom
+publishDir: _site
+buildCommand: bundle install && bundle exec jekyll build
+uploadDir: assets
+staticDir: ""
+pagesDir: ""
+dataDir: ""
+excludePages:
+  - LICENSE.md
+  - README.md
+models:
+  config:
+    type: data
+    label: Config
+    file: _config.yml
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: string
+        name: subtitle
+        label: SubTitle
+      - type: string
+        name: email
+        label: Email
+      - type: string
+        name: name
+        label: Author name
+      - type: string
+        name: description
+        label: Description
+      - type: string
+        name: baseurl
+        label: Base URL
+        description: the subpath of your site, e.g. /blog/
+      - type: string
+        name: url
+        label: URL
+        description: the base hostname & protocol for your site
+      - type: image
+        name: cover
+        label: Cover Image
+      - type: image
+        name: logo
+        label: Logo Image
+      - type: list
+        name: plugins
+        label: Plugins
+        description: External plugins
+        items:
+          type: string
+      - type: list
+        name: exclude
+        label: Exclude
+        items: 
+          type: string
+      - type: string
+        name: markdown
+        label: Name
+        description: Build Setting
+      - type: boolean
+        name: inter_post_navigation
+        label: Inter Post Navigation
+      - type: string
+        name: highlightjs_theme
+        label: Hightlight JS
+      - type: object
+        name: pagination
+        label: Pagination
+        fields: 
+          - type: boolean
+            name: enabled
+            label: Enable Pagination
+          - type: number
+            name: per_page
+            label: Per Page
+          - type: string
+            name: permalink
+            label: Permalink
+          - type: boolean
+            name: sort_reverse
+            label: Sort Reverse
+      - type: object
+        name: jekyll-archives
+        label: Jekyll Archives 
+        fields:
+          - type: list
+            name: enabled
+            label: Enabled
+            items:
+              type: string
+          - type: string
+            name: layout
+            label: Layout
+          - type: object
+            name: permalinks
+            label: Permalinks
+            fields:
+              - type: string
+                name: category
+                label: Category
+              - type: string
+                name: tag
+                label: Tag
+      - type: string
+        name: disqus_shortname
+        label: Disqus Shortname
+      - type: string
+        name: ga_tracking_id
+        label: Google Analytics Code
+      - type: list
+        name: descriptions
+        label: Category Descriptions
+        items:
+          type: object
+          fields:
+            - type: string
+              name: cat
+              label: Category Name
+            - type: string
+              name: desc
+              label: Category Description
+      - type: list
+        name: social
+        label: Social Icons
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: icon
+              label: Icon Name
+            - type: string
+              name: username
+              label: User Name
+            - type: string
+              name: url
+              label: Social URL
+            - type: string
+              name: desc
+              label: Description
+            - type: boolean
+              name: share
+              label: Share
+      - type: object
+        name: protocols
+        label: Social Sharing Protocols
+        fields:
+          - type: image
+            name: fb_image
+            label: Facebook Image
+          - type: number
+            name: fb_image_width
+            label: Facebook Img Width
+          - type: number
+            name: fb_image_height
+            label: Facebook Img Height
+          - type: string
+            name: fb_image_type
+            label: Facebook Img Type
+          - type: image
+            name: twitter_image
+            label: Twitter Image
+          - type: string
+            name: os_repo
+            label: Git URL
+            hidden: true
+          - type: string
+            name: os_rcs_type
+            label: Os Rcs Type
+            hidden: true
+          - type: string
+            name: os_src
+            label: Git Source
+            hidden: true
+  home:
+    type: page
+    label: Home Page
+    file: index.html
+    singleInstance: true
+    fields:
+      - type: string
+        name: layout
+        label: Page Layout
+        required: true
+      - type: object
+        name: pagination
+        label: Pagination
+        fields:
+          - type: boolean
+            name: enabled
+            label: Enabled
+  basicpage:
+    type: page
+    label: Basic Page
+    match: "*.md"
+    fields:
+      - type: string
+        name: layout
+        label: Page Layout
+        default: page
+        required: true
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: boolean
+        name: main_nav
+        label: Main Nav
+  post:
+    type: page
+    label: Post
+    folder: _posts
+    fields:
+      - type: string
+        name: layout
+        label: Page Layout
+        required: true
+      - type: string
+        name: title
+        label: Title
+      - type: date
+        name: date
+        label: Publish Date
+      - type: string
+        name: author
+        label: Author
+      - type: string
+        name: categories
+        label: Categories
+      - type: string
+        name: tags
+        label: Tags
+      - type: image
+        name: cover
+        label: Cover Image
+
+
+
+
+
+
+
