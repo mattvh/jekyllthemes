@@ -4,7 +4,7 @@ title: Parchment
 date: 2020-04-27 22:18:00 +0530
 homepage: https://github.com/pro-panda/parchment/
 download: https://github.com/pro-panda/parchment/archive/master.zip
-demo: https://pro-panda.github.io/parchment/
+demo: https://rahulbothra.com/parchment/
 author: pro-panda
 thumbnail: parchment.jpg
 license: GNU GPLv3
