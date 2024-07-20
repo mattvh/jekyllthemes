@@ -1,0 +1,31 @@
+---
+title: "[Jekyll] 테스트"
+excerpt: "Jekyll 테스트"
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-07-06
+last_modified_at: 2024-07-06
+---
+
+# Markdown 예시 포스트
+
+이 포스트는 Markdown 파일을 작성하는 예시입니다. 아래에 간단한 문장을 추가했습니다.
+
+Markdown은 텍스트 기반의 경량 마크업 언어로, 문서를 쉽게 작성할 수 있습니다. GitHub의 README 파일이나 블로그 포스트 작성에 매우 유용합니다.
+
+## 코드 블록 예시
+
+아래는 Python 코드의 간단한 예시입니다.
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")

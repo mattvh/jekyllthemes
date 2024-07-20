@@ -1,0 +1,16 @@
+---
+title: "[Jekyll] 사용해서 블로그 생성하기"
+excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-03-24
+last_modified_at: 2022-03-24
+---
+1. 포스트 내용을 마크다운 문법으로 작성한다
