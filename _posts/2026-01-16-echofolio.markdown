@@ -3,7 +3,7 @@ layout: post
 title: EchoFolio
 date: 2026-01-16 09:00:00 +05:30
 homepage: https://github.com/harsh98trivedi/EchoFolio
-download: https://github.com/harsh98trivedi/EchoFolio/archive/refs/heads/main.zip
+download: https://github.com/harsh98trivedi/EchoFolio/archive/refs/heads/master.zip
 demo: https://harsh98trivedi.github.io/EchoFolio
 author: "Harsh Trivedi"
 thumbnail: echofolio.jpg
